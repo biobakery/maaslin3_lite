@@ -38,11 +38,21 @@ run_maaslin_analysis <- function(input_file) {
   colnames(taxa_table) <- paste0("Sample", 1:nrow(metadata))
   taxa_table <- data.frame(taxa_table)
   
-  param_list <- list(input_data = taxa_table, input_metadata = metadata, min_abundance = 0, min_prevalence = 0, output = 'output/', 
-                     min_variance = 0, normalization = 'NONE', transform = 'LOG', analysis_method = 'LM', 
+  param_list <- list(input_data = taxa_table, 
+                     input_metadata = metadata, 
+                     min_abundance = 0, 
+                     min_prevalence = 0, 
+                     output = 'output/', 
+                     min_variance = 0, 
+                     normalization = 'NONE', 
+                     transform = 'LOG',
                      formula = '~ oxygen_availability + (1 | subject_id)', 
-                     save_scatter = FALSE, save_models = FALSE, plot_heatmap = F, plot_scatter = F, 
-                     max_significance = 0.1, augment = TRUE, iterative_mode = F, cores = 6)
+                     plot_associations = FALSE, 
+                     save_models = FALSE, 
+                     plot_summary_plot = F,
+                     max_significance = 0.1, 
+                     augment = TRUE, 
+                     cores = 6)
   
   fit_out <- maaslin3(param_list)
   maaslin_write_results_lefse_format(fit_out)
