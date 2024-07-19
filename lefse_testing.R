@@ -1,4 +1,4 @@
-Maaslin3_path <- "/Users/williamnickols/Documents/GitHub/Maaslin3/R/"
+Maaslin3_path <- ""
 
 for (R_file in dir(Maaslin3_path, pattern = "*.R$")) {
   source(file.path(Maaslin3_path, R_file))
