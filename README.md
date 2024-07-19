@@ -1,5 +1,7 @@
 ## Usage: 
-R lefse_testing.R 
+```
+Rscript lefse_testing.R --input hmp_aerobiosis_small.txt
+```
 
 ## Output 
 ```
