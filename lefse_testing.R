@@ -1,5 +1,6 @@
 #!/usr/bin/Rscript
 library(optparse)
+library(maaslin3)
 
 # Define the command line options
 option_list <- list(
@@ -43,7 +44,7 @@ run_maaslin_analysis <- function(input_file) {
                      save_scatter = FALSE, save_models = FALSE, plot_heatmap = F, plot_scatter = F, 
                      max_significance = 0.1, augment = TRUE, iterative_mode = F, cores = 6)
   
-  fit_out <- Maaslin3(param_list)
+  fit_out <- maaslin3(param_list)
   maaslin_write_results_lefse_format(fit_out)
 }
 
