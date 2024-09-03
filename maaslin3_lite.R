@@ -53,7 +53,7 @@ fit_out <- maaslin3(input_data = taxa_table,
                      max_significance = 0.1, 
                      augment = TRUE, 
                      cores = 6)
-  maaslin_write_results_lefse_format(fit_out)
+  maaslin_write_results_lefse_format('output', fit_out$fit_data_abundance, fit_out$fit_data_prevalence)
 }
 
 # Run the analysis with the provided input file
