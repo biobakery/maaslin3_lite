@@ -38,7 +38,7 @@ run_maaslin_analysis <- function(input_file) {
   colnames(taxa_table) <- paste0("Sample", 1:nrow(metadata))
   taxa_table <- data.frame(taxa_table)
   
-  param_list <- list(input_data = taxa_table, 
+fit_out <- maaslin3(input_data = taxa_table, 
                      input_metadata = metadata, 
                      min_abundance = 0, 
                      min_prevalence = 0, 
@@ -53,8 +53,6 @@ run_maaslin_analysis <- function(input_file) {
                      max_significance = 0.1, 
                      augment = TRUE, 
                      cores = 6)
-  
-  fit_out <- maaslin3(param_list)
   maaslin_write_results_lefse_format(fit_out)
 }
 
