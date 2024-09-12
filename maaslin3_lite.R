@@ -10,8 +10,8 @@ option_list <- list(
               help = "Whether to normalize the data (TRUE for TSS, FALSE for NONE)", metavar = "logical"),
   make_option(c("-c", "--class"), type = "character", default = "oxygen_availability",
               help = "Class for the fixed effect in the formula", metavar = "character"),
-  make_option(c("-r", "--random_component"), type = "character", default = "body_site",
-              help = "Random component for the formula (e.g., body_site)", metavar = "character")
+  make_option(c("-r", "--random_component"), type = "character", default = "subject_id",
+              help = "Random component for the formula (e.g., subject_id)", metavar = "character")
 )
 
 # Parse the command line options
