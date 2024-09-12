@@ -2,8 +2,13 @@
 
 #### STEP 1: Generate lefse like results using maaslin3
 ```
-Rscript lefse_testing.R --input hmp_aerobiosis_small.txt
+Rscript lefse_testing.R \
+    --input hmp_aerobiosis_small.txt \
+    --normalize FALSE \
+    --class oxygen_availability \
+    --random_component body_site
 ```
+
 #### Output 
 ```
 lefse_style_results_abundance.res
