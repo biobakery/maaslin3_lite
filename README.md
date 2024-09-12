@@ -6,7 +6,7 @@ Rscript lefse_testing.R \
     --input hmp_aerobiosis_small.txt \
     --normalize FALSE \
     --class oxygen_availability \
-    --random_component body_site
+    --random_component subject_id
 ```
 
 #### Output 
