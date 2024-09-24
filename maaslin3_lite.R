@@ -10,6 +10,8 @@ option_list <- list(
               help = "Whether to normalize the data (TRUE for TSS, FALSE for NONE)", metavar = "logical"),
   make_option(c("-c", "--class"), type = "character", default = "oxygen_availability",
               help = "Class for the fixed effect in the formula", metavar = "character"),
+  make_option(c("-s", "--subclass"), type = "character",
+              help = "Subclass for the fixed effect in the formula", metavar = "character"),
   make_option(c("-r", "--random_component"), type = "character", default = "subject_id",
               help = "Random component for the formula (e.g., subject_id)", metavar = "character")
 )
@@ -23,7 +25,7 @@ if (is.null(opt$input)) {
   stop("Input file must be provided", call. = FALSE)
 }
 
-run_maaslin_analysis <- function(input_file, normalize, class, random_component) {
+run_maaslin_analysis <- function(input_file, normalize, class, subclass, random_component) {
   # Read input data
   taxa_table <- read.csv(input_file, sep = '\t', header = F)
   
@@ -34,6 +36,7 @@ run_maaslin_analysis <- function(input_file, normalize, class, random_component)
   rownames(metadata) <- paste0("Sample", 1:nrow(metadata))
   metadata <- data.frame(metadata)
   metadata[[class]] <- factor(metadata[[class]])
+  metadata[[subclass]] <- factor(metadata[[subclass]])
   
   # Process taxa table
   taxa_table <- taxa_table[-c(1:3),]
@@ -47,7 +50,12 @@ run_maaslin_analysis <- function(input_file, normalize, class, random_component)
   normalization_method <- ifelse(normalize, 'TSS', 'NONE')
   
   # Create formula dynamically based on user input
-  formula_str <- paste0("~ ", class, " + (1 | ", random_component, ")")
+  if (is.null(subclass)) {
+    formula_str <- paste0("~ ", class, " + (1 | ", random_component, ")")
+  } else {
+    formula_str <- paste0("~ ", class, " + ", subclass, " + (1 | ", random_component, ")")
+  }
+  
   
   # Run Maaslin3 analysis
   fit_out <- maaslin3(input_data = taxa_table, 
@@ -71,4 +79,4 @@ run_maaslin_analysis <- function(input_file, normalize, class, random_component)
 }
 
 # Run the analysis with the provided options
-run_maaslin_analysis(opt$input, opt$normalize, opt$class, opt$random_component)
+run_maaslin_analysis(opt$input, opt$normalize, opt$class, opt$subclass, opt$random_component)
