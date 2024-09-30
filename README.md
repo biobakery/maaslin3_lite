@@ -8,7 +8,6 @@ Rscript maaslin3_lite.R \
     --class oxygen_availability \
     --subclass body_site \
     --random_component subject_id
-    --
 ```
 
 #### Output 
