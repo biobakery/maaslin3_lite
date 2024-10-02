@@ -81,4 +81,4 @@ run_maaslin_analysis <- function(input_file, normalize, class, subclass, random_
 }
 
 # Run the analysis with the provided options
-run_maaslin_analysis(opt$input, opt$normalize, opt$class, opt$subclass, opt$random_component, opt$alpha_threshold)
+run_maaslin_analysis(opt$input, opt$normalize, opt$class, opt$subclass, opt$random_component, as.numeric(opt$alpha_threshold))
