@@ -14,6 +14,8 @@ option_list <- list(
               help = "Subclass for the fixed effect in the formula", metavar = "character"),
   make_option(c("-r", "--random_component"), type = "character", default = "subject_id",
               help = "Random component for the formula (e.g., subject_id)", metavar = "character")
+  make_option(c("-a", "--alpha_threshold"), type = "character", default = 0.1,
+              help = "Maximum FDR corrected significance level", metavar = "numeric")
 )
 
 # Parse the command line options
@@ -25,7 +27,7 @@ if (is.null(opt$input)) {
   stop("Input file must be provided", call. = FALSE)
 }
 
-run_maaslin_analysis <- function(input_file, normalize, class, subclass, random_component) {
+run_maaslin_analysis <- function(input_file, normalize, class, subclass, random_component, alpha_threshold) {
   # Read input data
   taxa_table <- read.csv(input_file, sep = '\t', header = F)
   
@@ -70,7 +72,7 @@ run_maaslin_analysis <- function(input_file, normalize, class, subclass, random_
                       plot_associations = FALSE, 
                       save_models = FALSE, 
                       plot_summary_plot = F,
-                      max_significance = 0.1, 
+                      max_significance = alpha_threshold, 
                       augment = TRUE, 
                       cores = 6)
   
@@ -79,4 +81,4 @@ run_maaslin_analysis <- function(input_file, normalize, class, subclass, random_
 }
 
 # Run the analysis with the provided options
-run_maaslin_analysis(opt$input, opt$normalize, opt$class, opt$subclass, opt$random_component)
+run_maaslin_analysis(opt$input, opt$normalize, opt$class, opt$subclass, opt$random_component, opt$alpha_threshold)
