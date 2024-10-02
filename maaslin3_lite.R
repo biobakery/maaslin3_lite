@@ -13,7 +13,7 @@ option_list <- list(
   make_option(c("-s", "--subclass"), type = "character",
               help = "Subclass for the fixed effect in the formula", metavar = "character"),
   make_option(c("-r", "--random_component"), type = "character", default = "subject_id",
-              help = "Random component for the formula (e.g., subject_id)", metavar = "character")
+              help = "Random component for the formula (e.g., subject_id)", metavar = "character"),
   make_option(c("-a", "--alpha_threshold"), type = "character", default = 0.1,
               help = "Maximum FDR corrected significance level", metavar = "numeric")
 )
