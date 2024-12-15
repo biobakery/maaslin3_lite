@@ -1,0 +1,7 @@
+  <section name="MaAsLin3 Lite" id="maaslin3_lite">
+   <tool file="galaxy_maaslin3_lite/maaslin3_lite_A.xml" />
+   <tool file="galaxy_maaslin3_lite/maaslin3_lite_B.xml" />
+   <tool file="galaxy_maaslin3_lite/maaslin3_lite_C.xml" />
+   <tool file="galaxy_maaslin3_lite/maaslin3_lite_D.xml" />
+   <tool file="galaxy_maaslin3_lite/maaslin3_lite_E.xml" />
+  </section>
