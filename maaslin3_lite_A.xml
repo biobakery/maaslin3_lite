@@ -1,0 +1,54 @@
+<tool id="maaslin3_lite_A" name="A) MaAsLin3-Lite" version="1.0">
+        <description></description>
+    <command detect_errors="exit_code"><![CDATA[
+      Rscript /galaxy-central/tools/maaslin3_lite/maaslin3_lite.R
+      --input $inp_data
+      --normalize FALSE
+      --class $input_class
+      --subclass $input_subclass
+      --random_component $subject_id
+       --alpha_threshold 0.1 &&
+       cp output/lefse_style_results_abundance.res ${output1} &&
+       cp output/lefse_style_results_prevalence.res ${output2}  
+            ]]></command>
+  <inputs>
+     <param name="inp_data" type="data" format="tabular" label="Input Data"/>
+     <param name="input_class" type="select" label="class">
+        <options from_dataset="inp_data">
+            <column name="name" index="0"/>
+            <column name="value" index="0"/>
+        </options>
+      </param>
+      <param name="input_subclass" type="select" label="subclass">
+        <options from_dataset="inp_data">
+            <column name="name" index="0"/>
+            <column name="value" index="0"/>
+        </options>
+      </param>
+      <param name="subject_id" type="select" label="random component">
+        <options from_dataset="inp_data">
+            <column name="name" index="0"/>
+            <column name="value" index="0"/>
+        </options>
+      </param>
+   </inputs>
+  <outputs>
+    <data name="output1"  format="maaslin3_lite_output_abundance" label="lefse_style_results_abundance" />
+    <data name="output2"  format="maaslin3_lite_output_prevalence" label="lefse_style_results_prevalence" />
+  </outputs>
+
+  <tests>
+  </tests>
+
+
+
+
+<help>
+
+
+**What it does**
+
+
+
+</help>
+</tool>
