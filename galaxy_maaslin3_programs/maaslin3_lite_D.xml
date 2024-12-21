@@ -1,31 +1,30 @@
 <tool id="maaslin3_lite_D" name="D) Plot One Feature" version="1.0">
+<code file="format_input_selector.py"/> 
   <description></description>
 
-<command detect_errors="exit_code"><![CDATA[lefse_plot_features.py $inp_data $inp_res $arch --title_font_size $graphical.title_font_size --background_color $graphical.background_color --class_label_pos $graphical.class_label_pos --class_font_size $graphical.class_font_size --top $graphical.top --bot $graphical.bot --font_size $graphical.font_size --width $graphical.width --height $graphical.height -f one --feature_num $featd.feat --archive "none" --format $for --dpi $dpi --subcl_mean $graphical.subcl_mean --subcl_median $graphical.subcl_median
+  <command detect_errors="exit_code"><![CDATA[python3 /export/galaxy-central/tools/galaxy_maaslin3_lite/lefse_plot_features.py $inp_data $inp_res $arch --title_font_size $graphical.title_font_size --background_color $graphical.background_color --class_label_pos $graphical.class_label_pos --class_font_size $graphical.class_font_size --top $graphical.top --bot $graphical.bot --font_size $graphical.font_size --width $graphical.width --height $graphical.height -f one --feature_num $featd.feat --archive "none" --format $for --dpi $dpi --subcl_mean $graphical.subcl_mean --subcl_median $graphical.subcl_median
         ]]></command>
   
 <inputs>
 	<page>
-	<param format="maaslin3_lite_output_prevalence" name="inp_data" type="data" label="The formatted datasets" help=""/>
-	<param format="maaslin3_lite_output_abundance" name="inp_res" type="data" label="Maaslin3_Lite_Output" help=""/>
+	<param format="maaslin3_lite_output_abundance" name="inp_data" type="data" label="The formatted datasets" help=""/>
+	<param format="maaslin3_lite_output_prevalence" name="inp_res" type="data" label="The LEfSe output" help=""/>
 
 	<param name="featd" type="data_column" data_ref="inp_res" value="1" optional="true" force_select="false" accept_default="false" /> 
 
 	<conditional name="featd" type="data_column" data_ref="inp_res" accept_default="true">  
-                <param name="feat_dir" type="select" data_ref="inp_res" label="Select the feature names among biomarkers or all features" help="">
-                        <option value="b" selected='True'>Biomarkers only</option>       
-                </param>
-        </conditional> 
-
-
-        <param name="feat" type="select" label="class">
-                <options from_dataset="inp_data">
-                        <column name="name" index="0"/>
-                        <column name="value" index="0"/>
-                </options>
+        <param name="feat_dir" type="select" data_ref="inp_res" label="Select the feature names among biomarkers or all features" help="">
+          <option value="b" selected='True'>Biomarkers only</option>       
+          <option value="a">All features</option>    
         </param>
         
-
+        <when value="b">
+		<param name="feat" label="Select the feature to plot" data_ref="inp_res" type='select' force_select="false" dynamic_options="get_row_names(inp_res,'b')" value="1" optional="true" accept_default="false" />
+        </when>
+        <when value="a">
+		<param name="feat" label="Select the feature to plot" data_ref="inp_res" type='select' force_select="false" dynamic_options="get_row_names(inp_res,'a')" value="1" optional="true" accept_default="false" />
+        </when>
+	</conditional> 
 
 	<conditional name="graphical">
 	<param name="graphical_choice" type="select" label="Set some graphical options to personalize the output">
