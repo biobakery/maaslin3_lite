@@ -9,7 +9,12 @@
       --random_component $subject_id
        --alpha_threshold 0.1 &&
        cp output/lefse_style_results_abundance.res ${output1} &&
-       cp output/lefse_style_results_prevalence.res ${output2}  
+       cp output/lefse_style_results_prevalence.res ${output2} && 
+       cp output/summary_plot.png ${output3}  &&
+       cp output/significant_results.tsv ${output4}  &&
+       zip -r  Maaslin3_Results.zip  output && 
+       cp  Maaslin3_Results.zip  ${output5}  &&
+        rm -r output 
             ]]></command>
   <inputs>
      <param name="inp_data" type="data" format="tabular" label="Input Data"/>
@@ -35,6 +40,9 @@
   <outputs>
     <data name="output1"  format="maaslin3_lite_output_abundance" label="lefse_style_results_abundance" />
     <data name="output2"  format="maaslin3_lite_output_prevalence" label="lefse_style_results_prevalence" />
+    <data name="output3"  format="png" label="Summary Plot" />
+    <data name="output4"  format="tsv" label="Significant results" />
+    <data name="output5"  format="zip" label="MaAsLin Output zip results - please download" />
   </outputs>
 
   <tests>
@@ -45,8 +53,40 @@
 
 <help>
 
+..  _Maaslin3:  https://github.com/biobakery/maaslin3/   
+..  _Sample_Input:  https://github.com/biobakery/maaslin3_lite/blob/main/hmp_aerobiosis_small.txt
+
 
 **What it does**
+
+MaAsLin3 lite is an improved  MaAsLin3_  interface to LDA Effect Size (LEfSe)
+
+.. image::  https://github.com/biobakery/maaslin3_lite/blob/main/output/summary_plot.png?raw=true
+    :height: 800        
+    :width: 600 
+
+
+**Inputs**
+==========
+
+* Sample_Input_
+
+
+The text tab-delimited input file consists of a list of numerical features, the class vector and optionally the subclass and subject vectors. The features can be read counts directly or abundance floating-point values more generally, and the first field is the name of the feature. Class, subclass and subject vectors have a name (the first field) and a list of non-numerical strings.
+
+Although both column and row feature organization is accepted, given the high-dimensional nature of metagenomic data, the listing of the features in rows is preferred. A partial example of an input file follows (all values are separated by single-tab)::
+
+	bodysite				mucosal		mucosal		mucosal		mucosal		mucosal		non_mucosal	non_mucosal	non_mucosal	non_mucosal	non_mucosal
+	subsite					oral		gut		oral		oral		gut		skin		nasal		skin		ear		nasal
+	id					1023		1023		1672		1876		1672		159005010	1023		1023		1023		1672
+	Bacteria				0.99999		0.99999		0.999993	0.999989	0.999997	0.999927	0.999977	0.999987	0.999997	0.999993
+	Bacteria|Actinobacteria			0.311037	0.000864363	0.00446132	0.0312045	0.000773642	0.359354	0.761108	0.603002	0.95913		0.753688
+	Bacteria|Bacteroidetes			0.0689602	0.804293	0.00983343	0.0303561	0.859838	0.0195298	0.0212741	0.145729	0.0115617	0.0114511
+	Bacteria|Firmicutes			0.494223	0.173411	0.715345	0.813046	0.124552	0.177961	0.189178	0.188964	0.0226835	0.192665
+	Bacteria|Proteobacteria			0.0914284	0.0180378	0.265664	0.109549	0.00941215	0.430869	0.0225884	0.0532684	0.00512034	0.0365453
+	Bacteria|Firmicutes|Clostridia		0.090041	0.170246	0.00483188	0.0465328	0.122702	0.0402301	0.0460614	0.135201	0.0115835	0.0537381
+
+In this case one may want to use bodysite as class, subsite as subclass and id as subject. Notice that the features have a hierarchical structure specified using the character \|.
 
 
 
