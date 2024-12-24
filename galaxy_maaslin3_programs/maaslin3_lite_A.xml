@@ -20,13 +20,13 @@
        rm -r output 
             ]]></command>
   <inputs>
-     <param name="inp_data" type="data" format="tabular" label="Input Data"/>
-
-        <conditional name="gchoice_sub_class">
+      <param name="inp_data" type="data" format="tabular" label="Input Data"/>
+      <conditional name="gchoice_sub_class">
         	<param name="global_sub_class" type="select" label="Display sub-class"  multiple="False" help="Select if input file contains sub-class ">
         		  <option value="0" selected='True'>No</option>
 				      <option value="1">Yes</option>
         	</param>
+          
           <when value="0">
                     <param name="input_subclass" type="hidden"  value=""  />
           </when>
