@@ -1,4 +1,4 @@
-<tool id="maaslin3_lite_D" name="D) Plot One Feature" version="1.0">
+<tool id="maaslin3_lite_D" name="D) MaAsLin3_Lite: Plot One Feature" version="1.0">
 <code file="format_input_selector.py"/> 
   <description></description>
 
