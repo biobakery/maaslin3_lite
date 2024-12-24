@@ -9,8 +9,12 @@
         #if $str($gchoice_sub_class.global_sub_class)  == "1":
             --subclass $gchoice_sub_class.input_subclass
         #end if
-      --random_component $subject_id
-       --alpha_threshold 0.1 &&
+
+        #if $str($gchoice_subject_id.global_subject_id)  == "1":
+            --random_component $gchoice_subject_id.input_subject_id
+        #end if
+        
+        --alpha_threshold $alpha_threshold &&
        cp output/lefse_style_results_abundance.res ${output1} &&
        cp output/lefse_style_results_prevalence.res ${output2} && 
        cp output/summary_plot.png ${output3}  &&
@@ -21,6 +25,14 @@
             ]]></command>
   <inputs>
       <param name="inp_data" type="data" format="tabular" label="Input Data"/>
+
+      <param name="input_class" type="select" label="class">
+        <options from_dataset="inp_data">
+            <column name="name" index="0"/>
+            <column name="value" index="0"/>
+        </options>
+      </param>
+
       <conditional name="gchoice_sub_class">
         	<param name="global_sub_class" type="select" label="Display sub-class"  multiple="False" help="Select if input file contains sub-class ">
         		  <option value="0" selected='True'>No</option>
@@ -42,27 +54,30 @@
     	</conditional>
 
 
+      <conditional name="gchoice_subject_id">
+        	<param name="global_subject_id" type="select" label="Display subject_id"  multiple="False" help="Select if input file contains subject-id ">
+        		  <option value="0" selected='True'>No</option>
+				      <option value="1">Yes</option>
+        	</param>
+          
+          <when value="0">
+                    <param name="input_subject_id" type="hidden"  value=""  />
+          </when>
 
+          <when value="1">
+                  <param name="input_subject_id" type="select" label="subject_id">
+                        <options from_dataset="inp_data">
+                            <column name="name" index="0"/>
+                            <column name="value" index="0"/>
+                        </options>
+     				      </param>
+			    </when>
+    	</conditional>
 
+      <param name="alpha_threshold" type="float" size="4" value="0.1"  label ="alpha_threshold"/>
 
+  </inputs>
 
-     <param name="input_class" type="select" label="class">
-        <options from_dataset="inp_data">
-            <column name="name" index="0"/>
-            <column name="value" index="0"/>
-        </options>
-      </param>
-     
-      <param name="subject_id" type="select" label="random component">
-        <options from_dataset="inp_data">
-            <column name="name" index="0"/>
-            <column name="value" index="0"/>
-        </options>
-      </param>
-
-
-
-   </inputs>
   <outputs>
     <data name="output1"  format="maaslin3_lite_output_abundance" label="lefse_style_results_abundance" />
     <data name="output2"  format="maaslin3_lite_output_prevalence" label="lefse_style_results_prevalence" />
