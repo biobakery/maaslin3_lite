@@ -1,4 +1,4 @@
-<tool id="maaslin3_lite_A" name="MaAsLin3-Lite" version="1.0">
+<tool id="maaslin3_lite_A" name="A.) MaAsLin3-Lite" version="1.0">
         <description></description>
     <command detect_errors="exit_code"><![CDATA[
       Rscript /galaxy-central/tools/maaslin3_lite/maaslin3_lite.R
