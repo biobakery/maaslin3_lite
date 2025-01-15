@@ -1,1162 +1,1161 @@
-Bacteria.Acidobacteria	-0.00869779705610818			-
-Bacteria.Acidobacteria	-0.0662316332444829			-
-Bacteria.Acidobacteria	0.00869714734644877			-
-Bacteria.Acidobacteria	0.0657665541188586			-
-Bacteria.Acidobacteria	0.180912601005471			-
-Bacteria.Acidobacteria.Holophagae	-0.0662321635302516			-
-Bacteria.Acidobacteria.Holophagae	-1.32312375189514e-06			-
-Bacteria.Acidobacteria.Holophagae	-1.46136716905332e-06			-
-Bacteria.Acidobacteria.Holophagae	-6.94322958239013e-07			-
-Bacteria.Acidobacteria.Holophagae	5.70975477010016e-07			-
-Bacteria.Acidobacteria.Holophagae.Holophagales.Holophagaceae	-0.0662315292227999			-
+Bacteria.Acidobacteria	-0.178826554700669			-
+Bacteria.Acidobacteria	-2.41712086507933			-
+Bacteria.Acidobacteria	0.0129599877683907			-
+Bacteria.Acidobacteria	0.0904562040511601			-
+Bacteria.Acidobacteria	0.140603023005514			-
+Bacteria.Acidobacteria.Holophagae	-0.126975396741103			-
+Bacteria.Acidobacteria.Holophagae	-0.237172221370986			-
+Bacteria.Acidobacteria.Holophagae	-5.11389949275909e-07			-
+Bacteria.Acidobacteria.Holophagae	-5.34265027996028e-07			-
+Bacteria.Acidobacteria.Holophagae	0.171363048836445			-
 Bacteria.Acidobacteria.Holophagae.Holophagales.Holophagaceae	0			-
 Bacteria.Acidobacteria.Holophagae.Holophagales.Holophagaceae	0			-
 Bacteria.Acidobacteria.Holophagae.Holophagales.Holophagaceae	0			-
-Bacteria.Acidobacteria.Holophagae.Holophagales.Holophagaceae	1.87354697211983e-06			-
-Bacteria.Actinobacteria.Actinobacteria	-0.195675170622745			-
-Bacteria.Actinobacteria.Actinobacteria	-1.95535679855222	body_site_skin	-1.95535679855222	0.00567020098664775
-Bacteria.Actinobacteria.Actinobacteria	-5.18980576118917	oxygen_availability_Mid_O2	-5.18980576118917	8.94397302482793e-08
-Bacteria.Actinobacteria.Actinobacteria	-9.3973043130749	oxygen_availability_Low_O2	-9.3973043130749	1.23310541714023e-18
-Bacteria.Actinobacteria.Actinobacteria	2.04631660849356			-
-Bacteria.Actinobacteria.Actinobacteria.Acidimicrobiales	-0.0144618225260029			-
-Bacteria.Actinobacteria.Actinobacteria.Acidimicrobiales	-0.0662321635302612			-
-Bacteria.Actinobacteria.Actinobacteria.Acidimicrobiales	-6.94322967786931e-07			-
-Bacteria.Actinobacteria.Actinobacteria.Acidimicrobiales	0.0144609321343023			-
-Bacteria.Actinobacteria.Actinobacteria.Acidimicrobiales	0.262270323057038			-
-Bacteria.Actinobacteria.Actinobacteria.Acidimicrobiales.Acidimicrobiaceae	-0.0662315191727861			-
-Bacteria.Actinobacteria.Actinobacteria.Acidimicrobiales.Acidimicrobiaceae	-1.31437485173524e-07			-
-Bacteria.Actinobacteria.Actinobacteria.Acidimicrobiales.Acidimicrobiaceae	-2.80856586631906e-06			-
-Bacteria.Actinobacteria.Actinobacteria.Acidimicrobiales.Acidimicrobiaceae	-3.0034388753819e-07			-
-Bacteria.Actinobacteria.Actinobacteria.Acidimicrobiales.Acidimicrobiaceae	1.63927099383621e-06			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales	-0.195173024681222			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales	-1.96158017325103	body_site_skin	-1.96158017325103	0.000386190771610407
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales	-10.1262312086211	oxygen_availability_Low_O2	-10.1262312086211	6.56476094161739e-25
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales	-8.47779797725071	oxygen_availability_Mid_O2	-8.47779797725071	4.52144625228334e-18
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales	5.24598245728301	body_site_oral	5.24598245728301	6.14742494257454e-11
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinomycetaceae	-2.0291870370048			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinomycetaceae	0.390432328675727			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinomycetaceae	1.00044716582046			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinomycetaceae	1.59680492839037			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinomycetaceae	6.82860115396885	body_site_oral	6.82860115396885	2.38542322971475e-07
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinomycetaceae.Actinomyces	-2.13043243633387			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinomycetaceae.Actinomyces	0.298499346161836			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinomycetaceae.Actinomyces	0.523196754588814			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinomycetaceae.Actinomyces	1.1649618848776			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinomycetaceae.Actinomyces	5.17018453642432	body_site_oral	5.17018453642432	0.000560015460558217
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinosynnemataceae	-0.0662315191727861			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinosynnemataceae	-1.31437485173524e-07			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinosynnemataceae	-2.80856586631906e-06			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinosynnemataceae	-3.0034388753819e-07			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinosynnemataceae	1.63927099383621e-06			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Beutenbergiaceae	-0.0662315292227999			-
+Bacteria.Acidobacteria.Holophagae.Holophagales.Holophagaceae	0.269612756192285			-
+Bacteria.Acidobacteria.Holophagae.Holophagales.Holophagaceae	1.8735469749509e-06			-
+Bacteria.Actinobacteria.Actinobacteria	-0.322649873040865			-
+Bacteria.Actinobacteria.Actinobacteria	-1.95535598681839	body_site_skin	-1.95535598681839	0.010124176011856
+Bacteria.Actinobacteria.Actinobacteria	-5.1898068664305	oxygen_availability_Mid_O2	-5.1898068664305	1.28352274812695e-05
+Bacteria.Actinobacteria.Actinobacteria	-9.15970910070818	oxygen_availability_Low_O2	-9.15970910070818	6.56642224603595e-08
+Bacteria.Actinobacteria.Actinobacteria	1.80914584849059			-
+Bacteria.Actinobacteria.Actinobacteria.Acidimicrobiales	-0.0144614646396857			-
+Bacteria.Actinobacteria.Actinobacteria.Acidimicrobiales	-1.19633458717239e-06			-
+Bacteria.Actinobacteria.Actinobacteria.Acidimicrobiales	0.00615201619595185			-
+Bacteria.Actinobacteria.Actinobacteria.Acidimicrobiales	0.0144612296110388			-
+Bacteria.Actinobacteria.Actinobacteria.Acidimicrobiales	0.720138718264168			-
+Bacteria.Actinobacteria.Actinobacteria.Acidimicrobiales.Acidimicrobiaceae	-1.31437494443887e-07			-
+Bacteria.Actinobacteria.Actinobacteria.Acidimicrobiales.Acidimicrobiaceae	-2.80903753990813e-06			-
+Bacteria.Actinobacteria.Actinobacteria.Acidimicrobiales.Acidimicrobiaceae	-3.0034389908451e-07			-
+Bacteria.Actinobacteria.Actinobacteria.Acidimicrobiales.Acidimicrobiaceae	0.269612766242287			-
+Bacteria.Actinobacteria.Actinobacteria.Acidimicrobiales.Acidimicrobiaceae	1.63974265521283e-06			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales	-0.195173526692823			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales	-2.2176984801121	body_site_skin	-2.2176984801121	0.000171047815030052
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales	-8.4777976797732	oxygen_availability_Mid_O2	-8.4777976797732	2.13906943928177e-13
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales	-9.33986032682668	oxygen_availability_Low_O2	-9.33986032682668	1.58277530906284e-09
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales	5.24598281516858	body_site_oral	5.24598281516858	5.25041719303542e-08
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinomycetaceae	-1.69334275158975			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinomycetaceae	0.390432328923992			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinomycetaceae	1.00044716582043			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinomycetaceae	1.59680492839034			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinomycetaceae	6.82860115372056	body_site_oral	6.82860115372056	5.1813544729879e-07
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinomycetaceae.Actinomyces	-2.80695603057494			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinomycetaceae.Actinomyces	0.477477844218245			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinomycetaceae.Actinomyces	0.781950248480362			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinomycetaceae.Actinomyces	1.01609090164003			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinomycetaceae.Actinomyces	4.22556113584546			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinosynnemataceae	-1.31437494443887e-07			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinosynnemataceae	-2.80903753990813e-06			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinosynnemataceae	-3.0034389908451e-07			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinosynnemataceae	0.269612766242287			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinosynnemataceae	1.63974265521283e-06			-
 Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Beutenbergiaceae	0			-
 Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Beutenbergiaceae	0			-
 Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Beutenbergiaceae	0			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Beutenbergiaceae	1.87354697211983e-06			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Bogoriellaceae	-0.0662315191727861			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Bogoriellaceae	-1.31437485173524e-07			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Bogoriellaceae	-2.80856586631906e-06			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Bogoriellaceae	-3.0034388753819e-07			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Bogoriellaceae	1.63927099383621e-06			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Cellulomonadaceae	-0.00031669297724668			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Cellulomonadaceae	-0.0662321635302667			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Cellulomonadaceae	-6.94322973282535e-07			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Cellulomonadaceae	0.000315802585539204			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Cellulomonadaceae	0.248617000103623			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Corynebacteriaceae	-5.39700069120724	oxygen_availability_Mid_O2	-5.39700069120724	0.000804189445935789
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Corynebacteriaceae	-8.1734615699572	oxygen_availability_Low_O2	-8.1734615699572	2.5110769627607e-08
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Corynebacteriaceae	1.0524866597054			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Corynebacteriaceae	5.43904999975773	body_site_oral	5.43904999975773	0.000739137758843809
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Corynebacteriaceae	6.20964318566803	body_site_nasal	6.20964318566803	6.86727515451819e-06
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Corynebacteriaceae.Corynebacterium	-2.80137945655557			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Corynebacteriaceae.Corynebacterium	-6.10693791620092			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Corynebacteriaceae.Corynebacterium	1.06253426295867			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Corynebacteriaceae.Corynebacterium	3.71430531309129			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Corynebacteriaceae.Corynebacterium	6.22851391062007	body_site_nasal	6.22851391062007	3.73670101708685e-06
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Dermabacteraceae	-0.0282680124544914			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Dermabacteraceae	-0.0662315292227719			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Dermabacteraceae	0.0282680124545192			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Dermabacteraceae	0.527935508348729			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Dermabacteraceae	1.07249374319122			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Dermacoccaceae	-0.0299895236094354			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Dermacoccaceae	-0.0662315292227713			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Dermacoccaceae	0.0299895236094636			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Dermacoccaceae	0.504601320255679			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Dermacoccaceae	1.87354700043052e-06			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Geodermatophilaceae	-0.0105898030043454			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Geodermatophilaceae	-0.0662321635302609			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Geodermatophilaceae	-6.94322967453864e-07			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Geodermatophilaceae	0.0105889126126437			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Geodermatophilaceae	0.136073868859494			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Intrasporangiaceae	-0.00740347801355989			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Intrasporangiaceae	-0.0662328885684635			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Intrasporangiaceae	-9.37874922224413e-07			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Intrasporangiaceae	0.00740222688358338			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Intrasporangiaceae	0.789878123565144			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Kineosporiaceae	-0.0144618225260029			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Kineosporiaceae	-0.0662321635302612			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Kineosporiaceae	-6.94322967786931e-07			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Kineosporiaceae	0.0144609321343023			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Kineosporiaceae	0.262270323057038			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Microbacteriaceae	-0.0028234196877488			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Microbacteriaceae	-0.0662325396377491			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Microbacteriaceae	0.00282335536791556			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Microbacteriaceae	1.29949957499737	body_site_skin	1.29949957499737	0.00962015994806933
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Microbacteriaceae	1.7890287252742e-06			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Micrococcaceae	-1.31459627840578			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Micrococcaceae	-3.07150966769445	oxygen_availability_Mid_O2	-3.07150966769445	0.0111813073837552
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Micrococcaceae	-3.54214568050835	oxygen_availability_Low_O2	-3.54214568050835	0.000481414410244607
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Micrococcaceae	0.979075413499913			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Micrococcaceae	9.25070698272336	body_site_oral	9.25070698272336	4.75733191669539e-10
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Micrococcaceae.Rothia	-1.82173226483167			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Micrococcaceae.Rothia	-2.93473887060649			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Micrococcaceae.Rothia	0.139617589488868			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Micrococcaceae.Rothia	8.56395379114794	body_site_oral	8.56395379114794	3.61805263144463e-05
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Micromonosporaceae	-0.0662328885684551			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Micromonosporaceae	-1.11112724887619e-06			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Micromonosporaceae	-1.18743885391126e-07			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Micromonosporaceae	-1.40002722304189e-07			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Micromonosporaceae	-9.37874914008763e-07			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nakamurellaceae	-0.0662315292227999			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Beutenbergiaceae	0.269612756192285			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Beutenbergiaceae	1.8735469749509e-06			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Bogoriellaceae	-1.31437494443887e-07			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Bogoriellaceae	-2.80903753990813e-06			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Bogoriellaceae	-3.0034389908451e-07			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Bogoriellaceae	0.269612766242287			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Bogoriellaceae	1.63974265521283e-06			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Cellulomonadaceae	-0.000316693211923402			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Cellulomonadaceae	-6.94322983996187e-07			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Cellulomonadaceae	0.000315802820202715			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Cellulomonadaceae	0.24861700010361			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Cellulomonadaceae	0.269612121884805			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Corynebacteriaceae	-5.39700069097093	oxygen_availability_Mid_O2	-5.39700069097093	0.0009346951067612
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Corynebacteriaceae	-7.83761728454213	oxygen_availability_Low_O2	-7.83761728454213	9.1537197828971e-07
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Corynebacteriaceae	1.05248665970539			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Corynebacteriaceae	5.43904999952141	body_site_oral	5.43904999952141	0.000939782664782651
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Corynebacteriaceae	6.20964318566802	body_site_nasal	6.20964318566802	7.43556951697483e-06
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Corynebacteriaceae.Corynebacterium	-3.48886349721666			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Corynebacteriaceae.Corynebacterium	-6.78346151044255			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Corynebacteriaceae.Corynebacterium	1.55542841000906			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Corynebacteriaceae.Corynebacterium	2.76968191251334			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Corynebacteriaceae.Corynebacterium	6.71196481293801	body_site_nasal	6.71196481293801	3.84267623925346e-06
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Dermabacteraceae	-0.0282680126874066			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Dermabacteraceae	0.0282680126874362			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Dermabacteraceae	0.269612756192315			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Dermabacteraceae	0.527935508348731			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Dermabacteraceae	1.07249374319123			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Dermacoccaceae	-0.029989523847231			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Dermacoccaceae	0.0299895238472423			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Dermacoccaceae	0.269612756192294			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Dermacoccaceae	0.504601320255663			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Dermacoccaceae	1.8735469833886e-06			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Geodermatophilaceae	-0.0105898027680681			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Geodermatophilaceae	-6.94323006256159e-07			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Geodermatophilaceae	0.010588912376325			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Geodermatophilaceae	0.136073868859452			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Geodermatophilaceae	0.269612121884783			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Intrasporangiaceae	-0.00740347824987087			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Intrasporangiaceae	-9.37874947593009e-07			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Intrasporangiaceae	0.00740222711986627			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Intrasporangiaceae	0.269611396846593			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Intrasporangiaceae	0.789878123565117			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Kineosporiaceae	-0.0144618227615749			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Kineosporiaceae	-6.94323005923092e-07			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Kineosporiaceae	0.0144609323698324			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Kineosporiaceae	0.262270323056996			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Kineosporiaceae	0.269612121884783			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Microbacteriaceae	-0.00282341992402202			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Microbacteriaceae	0.00282335560419489			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Microbacteriaceae	0.269611745777342			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Microbacteriaceae	1.29949957499737			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Microbacteriaceae	1.78902873410047e-06			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Micrococcaceae	-1.31459627840581			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Micrococcaceae	-3.07150966746263			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Micrococcaceae	-3.2063013950933			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Micrococcaceae	0.979075413499879			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Micrococcaceae	9.2507069824915	body_site_oral	9.2507069824915	1.21763469086149e-09
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Micrococcaceae.Rothia	-1.32883811778098			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Micrococcaceae.Rothia	-3.62222291126848			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Micrococcaceae.Rothia	0.623068491807124			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Micrococcaceae.Rothia	7.61933039057114	body_site_oral	7.61933039057114	0.00195786088575631
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Micromonosporaceae	-1.1108883881672e-06			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Micromonosporaceae	-1.18743931132315e-07			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Micromonosporaceae	-1.40241628532323e-07			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Micromonosporaceae	-9.37874956696838e-07			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Micromonosporaceae	0.269611396846584			-
 Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nakamurellaceae	0			-
 Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nakamurellaceae	0			-
 Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nakamurellaceae	0			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nakamurellaceae	1.87354697211983e-06			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nocardiaceae	-0.270274763951866			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nocardiaceae	-0.316372073107993			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nocardiaceae	0.112329546701578			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nocardiaceae	0.785658418578801			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nocardiaceae	1.16753543505448			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nocardioidaceae	-0.00740468051216614			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nocardioidaceae	-0.0662329693385708			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nocardioidaceae	-1.48628233614945e-06			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nocardioidaceae	0.00740356800122988			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nocardioidaceae	0.379050822917695			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nocardiopsaceae	-0.0662315292227999			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nakamurellaceae	0.269612756192285			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nakamurellaceae	1.8735469749509e-06			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nocardiaceae	-0.316372073219163			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nocardiaceae	0.06556952146319			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nocardiaceae	0.112329546812718			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nocardiaceae	0.785658418578774			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nocardiaceae	1.16753543505445			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nocardioidaceae	-0.00740468074849132			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nocardioidaceae	-1.4862823697892e-06			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nocardioidaceae	0.00740356823751875			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nocardioidaceae	0.269611316076478			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nocardioidaceae	0.379050822917659			-
 Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nocardiopsaceae	0			-
 Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nocardiopsaceae	0			-
 Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nocardiopsaceae	0			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nocardiopsaceae	1.87354697211983e-06			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Promicromonosporaceae	-0.0662321635302516			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Promicromonosporaceae	-1.32312375189514e-06			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Promicromonosporaceae	-1.46136716905332e-06			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Promicromonosporaceae	-6.94322958239013e-07			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Promicromonosporaceae	5.70975477010016e-07			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Propionibacteriaceae	-1.24311120531802			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Propionibacteriaceae	-1.7238772613094			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Propionibacteriaceae	-12.0142913739415	oxygen_availability_Mid_O2	-12.0142913739415	1.34478794203684e-16
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Propionibacteriaceae	-13.2272790631946	oxygen_availability_Low_O2	-13.2272790631946	9.64000295682295e-22
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Propionibacteriaceae	1.78787885037664			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Propionibacteriaceae.Propionibacterium	-0.461715577827228			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Propionibacteriaceae.Propionibacterium	-1.24242635324701			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Propionibacteriaceae.Propionibacterium	-1.72387877207612			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Propionibacteriaceae.Propionibacterium	-11.1842485233269	oxygen_availability_Mid_O2	-11.1842485233269	2.80162593009158e-10
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Propionibacteriaceae.Propionibacterium	-13.3881409509727	oxygen_availability_Low_O2	-13.3881409509727	3.24902867779482e-09
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Pseudonocardiaceae	-0.0140906411001109			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Pseudonocardiaceae	-0.066231971937204			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Pseudonocardiaceae	0.0140905194704334			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Pseudonocardiaceae	0.300154601007203			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Pseudonocardiaceae	0.326498278063513			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Streptomycetaceae	-0.0662315292227999			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nocardiopsaceae	0.269612756192285			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Nocardiopsaceae	1.8735469749509e-06			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Promicromonosporaceae	-1.32312379741428e-06			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Promicromonosporaceae	-1.46160433711628e-06			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Promicromonosporaceae	-6.94323000927088e-07			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Promicromonosporaceae	0.269612121884788			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Promicromonosporaceae	5.71212599220772e-07			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Propionibacteriaceae	-1.24311120531805			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Propionibacteriaceae	-1.72387726130944			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Propionibacteriaceae	-12.0142913737052	oxygen_availability_Mid_O2	-12.0142913737052	4.1534333152919e-16
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Propionibacteriaceae	-12.8914347777795	oxygen_availability_Low_O2	-12.8914347777795	7.56658209369526e-17
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Propionibacteriaceae	1.78787885014032			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Propionibacteriaceae.Propionibacterium	-0.758975450929074			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Propionibacteriaceae.Propionibacterium	-1.23098462502573			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Propionibacteriaceae.Propionibacterium	-1.40633897839427			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Propionibacteriaceae.Propionibacterium	-11.8717325640171	oxygen_availability_Mid_O2	-11.8717325640171	1.80575335122426e-09
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Propionibacteriaceae.Propionibacterium	-14.0646645449832	oxygen_availability_Low_O2	-14.0646645449832	1.53025387911558e-08
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Pseudonocardiaceae	-0.0140906413364836			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Pseudonocardiaceae	0.0140905197067863			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Pseudonocardiaceae	0.269612313477861			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Pseudonocardiaceae	0.300154601007183			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Pseudonocardiaceae	0.326498278063496			-
 Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Streptomycetaceae	0			-
 Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Streptomycetaceae	0			-
 Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Streptomycetaceae	0			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Streptomycetaceae	1.87354697211983e-06			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Streptosporangiaceae	-0.0662316808063843			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Streptosporangiaceae	-1.0112342381241e-06			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Streptosporangiaceae	-4.35691225320056e-07			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Streptosporangiaceae	1.21607011815961e-06			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Streptosporangiaceae	4.32986979603811e-15			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Thermomonosporaceae	-0.0662315292227999			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Streptomycetaceae	0.269612756192285			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Streptomycetaceae	1.8735469749509e-06			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Streptosporangiaceae	-1.01170736410694e-06			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Streptosporangiaceae	-4.35691233757751e-07			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Streptosporangiaceae	0			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Streptosporangiaceae	0.269612604608694			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Streptosporangiaceae	1.21654323559373e-06			-
 Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Thermomonosporaceae	0			-
 Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Thermomonosporaceae	0			-
 Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Thermomonosporaceae	0			-
-Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Thermomonosporaceae	1.87354697211983e-06			-
-Bacteria.Actinobacteria.Actinobacteria.Bifidobacteriales.Bifidobacteriaceae	-6.40817584798721	body_site_oral	-6.40817584798721	1.95407414394996e-05
-Bacteria.Actinobacteria.Actinobacteria.Bifidobacteriales.Bifidobacteriaceae	0.371147091200135			-
-Bacteria.Actinobacteria.Actinobacteria.Bifidobacteriales.Bifidobacteriaceae	0.608042445518796			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Thermomonosporaceae	0.269612756192285			-
+Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Thermomonosporaceae	1.8735469749509e-06			-
+Bacteria.Actinobacteria.Actinobacteria.Bifidobacteriales.Bifidobacteriaceae	-6.40817584998326	body_site_oral	-6.40817584998326	2.94829224602443e-05
+Bacteria.Actinobacteria.Actinobacteria.Bifidobacteriales.Bifidobacteriaceae	0.371147091200138			-
 Bacteria.Actinobacteria.Actinobacteria.Bifidobacteriales.Bifidobacteriaceae	0.611366972428161			-
-Bacteria.Actinobacteria.Actinobacteria.Bifidobacteriales.Bifidobacteriaceae	6.81301942083482	oxygen_availability_Mid_O2	6.81301942083482	7.2859386026637e-06
-Bacteria.Actinobacteria.Actinobacteria.Bifidobacteriales.Bifidobacteriaceae.Bifidobacterium	-4.34993699652124			-
-Bacteria.Actinobacteria.Actinobacteria.Bifidobacteriales.Bifidobacteriaceae.Bifidobacterium	-4.45363712701645			-
-Bacteria.Actinobacteria.Actinobacteria.Bifidobacteriales.Bifidobacteriaceae.Bifidobacterium	-5.42957728111452			-
-Bacteria.Actinobacteria.Actinobacteria.Bifidobacteriales.Bifidobacteriaceae.Bifidobacterium	-5.64666198201176			-
-Bacteria.Actinobacteria.Actinobacteria.Coriobacteriales.Coriobacteriaceae	-0.463038612834165			-
-Bacteria.Actinobacteria.Actinobacteria.Coriobacteriales.Coriobacteriaceae	0.0393401810428495			-
-Bacteria.Actinobacteria.Actinobacteria.Coriobacteriales.Coriobacteriaceae	0.594443755100451			-
-Bacteria.Actinobacteria.Actinobacteria.Coriobacteriales.Coriobacteriaceae	1.07152974773224			-
-Bacteria.Actinobacteria.Actinobacteria.Coriobacteriales.Coriobacteriaceae	2.69095450067474			-
-Bacteria.Actinobacteria.Actinobacteria.Coriobacteriales.Coriobacteriaceae.Atopobium	-0.20819074143253			-
-Bacteria.Actinobacteria.Actinobacteria.Coriobacteriales.Coriobacteriaceae.Atopobium	-4.39326863103188			-
-Bacteria.Actinobacteria.Actinobacteria.Coriobacteriales.Coriobacteriaceae.Atopobium	-5.13173997307189	body_site_oral	-5.13173997307189	0.00418736634436142
-Bacteria.Actinobacteria.Actinobacteria.Coriobacteriales.Coriobacteriaceae.Atopobium	4.71733381550634			-
-Bacteria.Actinobacteria.Actinobacteria.Coriobacteriales.Coriobacteriaceae.Collinsella	-2.51794560092097			-
-Bacteria.Actinobacteria.Actinobacteria.Coriobacteriales.Coriobacteriaceae.Collinsella	-2.56402307650148			-
-Bacteria.Actinobacteria.Actinobacteria.Coriobacteriales.Coriobacteriaceae.Collinsella	-2.67025552425384			-
-Bacteria.Actinobacteria.Actinobacteria.Coriobacteriales.Coriobacteriaceae.Collinsella	-3.47046774955789			-
-Bacteria.Actinobacteria.Actinobacteria.Solirubrobacterales	-0.0662321635302516			-
-Bacteria.Actinobacteria.Actinobacteria.Solirubrobacterales	-1.32312375189514e-06			-
-Bacteria.Actinobacteria.Actinobacteria.Solirubrobacterales	-1.46136716905332e-06			-
-Bacteria.Actinobacteria.Actinobacteria.Solirubrobacterales	-6.94322958239013e-07			-
-Bacteria.Actinobacteria.Actinobacteria.Solirubrobacterales	5.70975477010016e-07			-
-Bacteria.Bacteroidetes	-0.741066206369363			-
-Bacteria.Bacteroidetes	-0.831256172808708			-
-Bacteria.Bacteroidetes	-1.01508536270737			-
-Bacteria.Bacteroidetes	4.50690769242215	body_site_oral	4.50690769242215	0.000225784209411205
-Bacteria.Bacteroidetes	6.29440820261	oxygen_availability_Low_O2	6.29440820261	2.33463669197102e-08
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales	-0.920412955023819			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales	-0.94720778240967			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales	-1.55272219956497			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales	4.50085069613126	body_site_oral	4.50085069613126	0.00100048917053547
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales	6.46201931335387	oxygen_availability_Low_O2	6.46201931335387	1.35008871803761e-07
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Bacteroidaceae.Bacteroides	-0.878591652117391			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Bacteroidaceae.Bacteroides	-1.23650007663809			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Bacteroidaceae.Bacteroides	-2.32153733196641			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Bacteroidaceae.Bacteroides	0.0358715942660854			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Bacteroidaceae.Bacteroides	6.7973093540749	oxygen_availability_Low_O2	6.7973093540749	2.32263754262974e-08
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae	-0.178125331407265			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae	-2.82296552660808			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae	0.271680434968613			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae	6.65220812164767	body_site_oral	6.65220812164767	1.35141791164838e-06
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae	7.28547341427936	oxygen_availability_Low_O2	7.28547341427936	3.5587848976559e-09
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Barnesiella	-0.492894147050374			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Barnesiella	-0.830303726895082			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Barnesiella	0.492873438229232			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Barnesiella	5.11107181669409	oxygen_availability_Low_O2	5.11107181669409	0.00498023053579025
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Butyricimonas	0.969993370851412			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Butyricimonas	1.66361010072492			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Butyricimonas	4.42230812358152			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Butyricimonas	7.65378279994593	oxygen_availability_Low_O2	7.65378279994593	0.0039561621040809
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Odoribacter	-0.831950331169872			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Odoribacter	-0.889931864690245			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Odoribacter	2.76051240923376			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Odoribacter	4.96215258028952	oxygen_availability_Low_O2	4.96215258028952	0.000964625732439614
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Parabacteroides	-0.157472610588286			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Parabacteroides	-0.264710505038027			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Parabacteroides	1.6175899738571			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Parabacteroides	6.68752081279819	oxygen_availability_Low_O2	6.68752081279819	3.94050212001508e-08
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Porphyromonas	-1.20213067934027			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Porphyromonas	0.456804835183058			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Porphyromonas	0.548025252698672			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Porphyromonas	2.27829553657985			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Porphyromonas	3.1969274331658			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae	-0.678919424006064			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae	0.886836793354438			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae	1.28442221567908			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae	1.99599556502404			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae	5.3907813468717			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Paraprevotella	0.169635018420922			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Paraprevotella	0.75465245332892			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Paraprevotella	1.2599544967571			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Paraprevotella	7.22415376170281			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella	-0.728016378693795			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella	-2.11109490193143			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella	1.39293988419279			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella	2.31900918799424			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella	2.97556603729291			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Rikenellaceae	-1.44541229008315			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Rikenellaceae	1.08045859061069			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Rikenellaceae	1.52733160567751			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Rikenellaceae	3.13032851544351			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Rikenellaceae	8.91724370683417	oxygen_availability_Low_O2	8.91724370683417	1.03487991416403e-08
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Rikenellaceae.Alistipes	-0.980800189660162			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Rikenellaceae.Alistipes	-2.12474060331887			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Rikenellaceae.Alistipes	-2.29912613439071			-
-Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Rikenellaceae.Alistipes	4.0817436307134			-
-Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales	-0.459110233471801			-
-Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales	-0.744871945593095			-
-Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales	0.0677810971465679			-
-Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales	0.470711715333962			-
-Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales	7.24763323309111	body_site_oral	7.24763323309111	1.53293102578297e-09
-Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales.Cryomorphaceae	-0.0662315292227999			-
+Bacteria.Actinobacteria.Actinobacteria.Bifidobacteriales.Bifidobacteriaceae	0.943886730933882			-
+Bacteria.Actinobacteria.Actinobacteria.Bifidobacteriales.Bifidobacteriaceae	6.81301942283087	oxygen_availability_Mid_O2	6.81301942283087	9.5458912957862e-06
+Bacteria.Actinobacteria.Actinobacteria.Bifidobacteriales.Bifidobacteriaceae.Bifidobacterium	-3.96074297996895			-
+Bacteria.Actinobacteria.Actinobacteria.Bifidobacteriales.Bifidobacteriaceae.Bifidobacterium	-5.0374210371395			-
+Bacteria.Actinobacteria.Actinobacteria.Bifidobacteriales.Bifidobacteriaceae.Bifidobacterium	-5.16321107974243			-
+Bacteria.Actinobacteria.Actinobacteria.Bifidobacteriales.Bifidobacteriaceae.Bifidobacterium	-6.10610087532229			-
+Bacteria.Actinobacteria.Actinobacteria.Coriobacteriales.Coriobacteriaceae	-0.463038612834195			-
+Bacteria.Actinobacteria.Actinobacteria.Coriobacteriales.Coriobacteriaceae	0.0393401810428169			-
+Bacteria.Actinobacteria.Actinobacteria.Coriobacteriales.Coriobacteriaceae	0.930288040515504			-
+Bacteria.Actinobacteria.Actinobacteria.Coriobacteriales.Coriobacteriaceae	1.0715297474959			-
+Bacteria.Actinobacteria.Actinobacteria.Coriobacteriales.Coriobacteriaceae	2.69095450091105			-
+Bacteria.Actinobacteria.Actinobacteria.Coriobacteriales.Coriobacteriaceae.Atopobium	-3.9003744839062			-
+Bacteria.Actinobacteria.Actinobacteria.Coriobacteriales.Coriobacteriaceae.Atopobium	-6.0763633736812			-
+Bacteria.Actinobacteria.Actinobacteria.Coriobacteriales.Coriobacteriaceae.Atopobium	0.275260160994667			-
+Bacteria.Actinobacteria.Actinobacteria.Coriobacteriales.Coriobacteriaceae.Atopobium	4.02984977492007			-
+Bacteria.Actinobacteria.Actinobacteria.Coriobacteriales.Coriobacteriaceae.Collinsella	-2.07112892945108			-
+Bacteria.Actinobacteria.Actinobacteria.Coriobacteriales.Coriobacteriaceae.Collinsella	-2.98701684723994			-
+Bacteria.Actinobacteria.Actinobacteria.Coriobacteriales.Coriobacteriaceae.Collinsella	-3.19446919516259			-
+Bacteria.Actinobacteria.Actinobacteria.Coriobacteriales.Coriobacteriaceae.Collinsella	-3.35773956491493			-
+Bacteria.Actinobacteria.Actinobacteria.Solirubrobacterales	-0.256119629984841			-
+Bacteria.Actinobacteria.Actinobacteria.Solirubrobacterales	-1.10348244786174e-06			-
+Bacteria.Actinobacteria.Actinobacteria.Solirubrobacterales	-1.19633458217638e-06			-
+Bacteria.Actinobacteria.Actinobacteria.Solirubrobacterales	0.720138718264173			-
+Bacteria.Actinobacteria.Actinobacteria.Solirubrobacterales	8.68453805646929e-07			-
+Bacteria.Bacteroidetes	-0.666229737482729			-
+Bacteria.Bacteroidetes	-0.92171256976304			-
+Bacteria.Bacteroidetes	-0.993427579260743			-
+Bacteria.Bacteroidetes	3.94351897077514			-
+Bacteria.Bacteroidetes	4.31938399175289			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales	-0.920413457035412			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales	-1.20332608927073			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales	-1.55272190208745			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales	4.50085105401682	body_site_oral	4.50085105401682	0.00211638837843253
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales	7.24839019514833	oxygen_availability_Low_O2	7.24839019514833	2.4974912284101e-05
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Bacteroidaceae.Bacteroides	-0.753049174313022			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Bacteroidaceae.Bacteroides	-1.82321505266071			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Bacteroidaceae.Bacteroides	-3.00902137267245			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Bacteroidaceae.Bacteroides	0.528765741297881			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Bacteroidaceae.Bacteroides	6.12078575983123	oxygen_availability_Low_O2	6.12078575983123	2.75655418330122e-05
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae	-0.178125331407286			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae	-2.82296552637171			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae	0.271680434968589			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae	6.65220812141128	body_site_oral	6.65220812141128	2.62561054366198e-06
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae	7.62131769969442	oxygen_availability_Low_O2	7.62131769969442	8.82461206273162e-08
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Barnesiella	-0.194610602431869			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Barnesiella	-0.346852824577163			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Barnesiella	0			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Barnesiella	4.43454822245246			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Butyricimonas	1.46288751790277			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Butyricimonas	2.147061003046			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Butyricimonas	3.7348240829223			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Butyricimonas	6.97725920570576			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Odoribacter	-0.348499428851939			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Odoribacter	-0.397037717639857			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Odoribacter	2.07302836857266			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Odoribacter	4.28562898604789			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Parabacteroides	0.218740380134471			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Parabacteroides	0.335421544259274			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Parabacteroides	0.930105904955265			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Parabacteroides	6.01099721976895	oxygen_availability_Low_O2	6.01099721976895	4.3852073456988e-05
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Porphyromonas	-1.87865427358141			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Porphyromonas	0.949698982234935			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Porphyromonas	1.03147615501799			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Porphyromonas	1.33367213600242			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Porphyromonadaceae.Porphyromonas	2.50944339250549			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae	-0.678919424006109			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae	0.886836793573919			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae	1.28442221567903			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae	2.33183985043908			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae	5.39078134665217			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Paraprevotella	-0.517849022240184			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Paraprevotella	1.23810335564685			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Paraprevotella	1.75284864380749			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Paraprevotella	6.54763016746118			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella	-0.244565476375866			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella	-1.61820075488105			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella	0.448316483614858			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella	1.64248559375261			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella	2.2880819966318			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Rikenellaceae	-1.44541228984056			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Rikenellaceae	1.08045859036808			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Rikenellaceae	1.52733160567749			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Rikenellaceae	3.13032851544349			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Rikenellaceae	9.25308799224923	oxygen_availability_Low_O2	9.25308799224923	6.85161788154378e-08
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Rikenellaceae.Alistipes	-1.63184645626848			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Rikenellaceae.Alistipes	-1.66828423032127			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Rikenellaceae.Alistipes	-1.81567523207278			-
+Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Rikenellaceae.Alistipes	3.40522003647178			-
+Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales	-0.744871648115888			-
+Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales	0.0677805951349535			-
+Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales	0.214593408472878			-
+Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales	0.327260648322632			-
+Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales	7.24763359097696	body_site_oral	7.24763359097696	3.56796926125042e-08
 Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales.Cryomorphaceae	0			-
 Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales.Cryomorphaceae	0			-
 Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales.Cryomorphaceae	0			-
-Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales.Cryomorphaceae	1.87354697211983e-06			-
-Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales.Flavobacteriaceae	-0.501531893114496			-
-Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales.Flavobacteriaceae	-0.826870900785892			-
-Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales.Flavobacteriaceae	0.0741474719823947			-
-Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales.Flavobacteriaceae	0.509971659682261			-
-Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales.Flavobacteriaceae	7.52042677625413	body_site_oral	7.52042677625413	1.19729766325193e-09
-Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales.Flavobacteriaceae.Capnocytophaga	-0.02639765825526			-
-Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales.Flavobacteriaceae.Capnocytophaga	-1.92064051300929			-
-Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales.Flavobacteriaceae.Capnocytophaga	2.0710057477345			-
-Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales.Flavobacteriaceae.Capnocytophaga	6.9611835077795	oxygen_availability_Mid_O2	6.9611835077795	0.000807079175981245
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales	-0.00698387439191372			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales	-0.0662336897324349			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales	0.00698253811403038			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales	0.188658488187387			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales	0.55180086379983			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Chitinophagaceae	-0.000380757348333871			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Chitinophagaceae	-0.0662322645825628			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Chitinophagaceae	0.000380169930185081			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Chitinophagaceae	0.0987177905606067			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Chitinophagaceae	0.27573482477106			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Cytophagaceae	-0.00828252256266349			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Cytophagaceae	-0.0662330681049221			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Cytophagaceae	0.00828112061111341			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Cytophagaceae	0.150901157952225			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Cytophagaceae	0.540502201254094			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Rhodothermaceae	-0.0162934098113642			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Rhodothermaceae	-0.0662315191727775			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Rhodothermaceae	-1.31437476569296e-07			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Rhodothermaceae	0.0162922405165002			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Rhodothermaceae	0.204836371164848			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Saprospiraceae	-0.0662315191727861			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Saprospiraceae	-1.31437485173524e-07			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Saprospiraceae	-2.80856586631906e-06			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Saprospiraceae	-3.0034388753819e-07			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Saprospiraceae	1.63927099383621e-06			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Sphingobacteriaceae	-0.014013806380746			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Sphingobacteriaceae	-0.0662329693385729			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Sphingobacteriaceae	-1.48628233820336e-06			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Sphingobacteriaceae	0.0140126938698075			-
-Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Sphingobacteriaceae	0.426356401450533			-
-Bacteria.Chlamydiae.Chlamydiae.Chlamydiales	-0.0662315191727861			-
-Bacteria.Chlamydiae.Chlamydiae.Chlamydiales	-1.31437485173524e-07			-
-Bacteria.Chlamydiae.Chlamydiae.Chlamydiales	-2.80856586631906e-06			-
-Bacteria.Chlamydiae.Chlamydiae.Chlamydiales	-3.0034388753819e-07			-
-Bacteria.Chlamydiae.Chlamydiae.Chlamydiales	1.63927099383621e-06			-
-Bacteria.Chloroflexi	-0.0662328885684551			-
-Bacteria.Chloroflexi	-1.11112724887619e-06			-
-Bacteria.Chloroflexi	-1.18743885391126e-07			-
-Bacteria.Chloroflexi	-1.40002722304189e-07			-
-Bacteria.Chloroflexi	-9.37874914008763e-07			-
-Bacteria.Chloroflexi.Anaerolineae.Anaerolineales.Anaerolineaceae	-0.0662315292227999			-
+Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales.Cryomorphaceae	0.269612756192285			-
+Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales.Cryomorphaceae	1.8735469749509e-06			-
+Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales.Flavobacteriaceae	-0.165687607699395			-
+Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales.Flavobacteriaceae	-0.826870900550639			-
+Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales.Flavobacteriaceae	0.0741474719824137			-
+Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales.Flavobacteriaceae	0.509971659682278			-
+Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales.Flavobacteriaceae	7.52042677601889	body_site_oral	7.52042677601889	4.24391292917366e-09
+Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales.Flavobacteriaceae.Capnocytophaga	-2.59716410725087			-
+Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales.Flavobacteriaceae.Capnocytophaga	0.45705324406276			-
+Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales.Flavobacteriaceae.Capnocytophaga	2.56389989478511			-
+Bacteria.Bacteroidetes.Flavobacteria.Flavobacteriales.Flavobacteriaceae.Capnocytophaga	6.27369946711842	oxygen_availability_Mid_O2	6.27369946711842	0.00319978808383724
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales	-0.00698351650634899			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales	0.00698283559153956			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales	0.188657986175788			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales	0.295682556938765			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales	0.720137192062016			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Chitinophagaceae	-0.000380757115884589			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Chitinophagaceae	0.000380169697750565			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Chitinophagaceae	0.098717790560622			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Chitinophagaceae	0.269612020832537			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Chitinophagaceae	0.275734824771078			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Cytophagaceae	-0.00828252279902064			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Cytophagaceae	0.0082811208474316			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Cytophagaceae	0.150901157952189			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Cytophagaceae	0.269611217310124			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Cytophagaceae	0.540502201254057			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Rhodothermaceae	-0.0162934095747576			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Rhodothermaceae	-1.31437488504194e-07			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Rhodothermaceae	0.0162922402798762			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Rhodothermaceae	0.204836371164831			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Rhodothermaceae	0.269612766242293			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Saprospiraceae	-1.31437494443887e-07			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Saprospiraceae	-2.80903753990813e-06			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Saprospiraceae	-3.0034389908451e-07			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Saprospiraceae	0.269612766242287			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Saprospiraceae	1.63974265521283e-06			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Sphingobacteriaceae	-0.014013806618326			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Sphingobacteriaceae	-1.48628236268378e-06			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Sphingobacteriaceae	0.0140126941073605			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Sphingobacteriaceae	0.269611316076485			-
+Bacteria.Bacteroidetes.Sphingobacteria.Sphingobacteriales.Sphingobacteriaceae	0.426356401450506			-
+Bacteria.Chlamydiae.Chlamydiae.Chlamydiales	-0.256118607204943			-
+Bacteria.Chlamydiae.Chlamydiae.Chlamydiales	-2.45091565065358e-06			-
+Bacteria.Chlamydiae.Chlamydiae.Chlamydiales	-6.33449075693182e-07			-
+Bacteria.Chlamydiae.Chlamydiae.Chlamydiales	0.720139362621672			-
+Bacteria.Chlamydiae.Chlamydiae.Chlamydiales	1.93698386163899e-06			-
+Bacteria.Chloroflexi	-0.0904573348292743			-
+Bacteria.Chloroflexi	-0.187523840257152			-
+Bacteria.Chloroflexi	-2.41712212040335			-
+Bacteria.Chloroflexi	0.0216566719045127			-
+Bacteria.Chloroflexi	0.0748363501427198			-
 Bacteria.Chloroflexi.Anaerolineae.Anaerolineales.Anaerolineaceae	0			-
 Bacteria.Chloroflexi.Anaerolineae.Anaerolineales.Anaerolineaceae	0			-
 Bacteria.Chloroflexi.Anaerolineae.Anaerolineales.Anaerolineaceae	0			-
-Bacteria.Chloroflexi.Anaerolineae.Anaerolineales.Anaerolineaceae	1.87354697211983e-06			-
-Bacteria.Chloroflexi.Chloroflexi	-0.0662315292227999			-
-Bacteria.Chloroflexi.Chloroflexi	0			-
-Bacteria.Chloroflexi.Chloroflexi	0			-
-Bacteria.Chloroflexi.Chloroflexi	0			-
-Bacteria.Chloroflexi.Chloroflexi	1.87354697211983e-06			-
-Bacteria.Chloroflexi.Thermomicrobia	-0.0662315191727861			-
-Bacteria.Chloroflexi.Thermomicrobia	-1.31437485173524e-07			-
-Bacteria.Chloroflexi.Thermomicrobia	-2.80856586631906e-06			-
-Bacteria.Chloroflexi.Thermomicrobia	-3.0034388753819e-07			-
-Bacteria.Chloroflexi.Thermomicrobia	1.63927099383621e-06			-
-Bacteria.Cyanobacteria.Cyanobacteria	-1.50383266992399			-
-Bacteria.Cyanobacteria.Cyanobacteria	-2.11356894698283			-
-Bacteria.Cyanobacteria.Cyanobacteria	0.499873300513187			-
-Bacteria.Cyanobacteria.Cyanobacteria	1.52045683924692			-
-Bacteria.Cyanobacteria.Cyanobacteria	1.57180037221977			-
-Bacteria.Cyanobacteria.Cyanobacteria.Chloroplast	-1.75664684899205			-
-Bacteria.Cyanobacteria.Cyanobacteria.Chloroplast	-2.64377670216677			-
-Bacteria.Cyanobacteria.Cyanobacteria.Chloroplast	0.54593463473684			-
-Bacteria.Cyanobacteria.Cyanobacteria.Chloroplast	2.08922749729869			-
-Bacteria.Cyanobacteria.Cyanobacteria.Chloroplast	2.17358503539231			-
-Bacteria.Cyanobacteria.Cyanobacteria.Chloroplast.Streptophyta	-0.0882734589160188			-
-Bacteria.Cyanobacteria.Cyanobacteria.Chloroplast.Streptophyta	-0.741297847195428			-
-Bacteria.Cyanobacteria.Cyanobacteria.Chloroplast.Streptophyta	-2.00700668207553			-
-Bacteria.Cyanobacteria.Cyanobacteria.Chloroplast.Streptophyta	1.58796041824539			-
-Bacteria.Deinococcus_Thermus.Deinococci	-0.374681231857782			-
-Bacteria.Deinococcus_Thermus.Deinococci	-0.6386989910709			-
-Bacteria.Deinococcus_Thermus.Deinococci	0.213686848619577			-
-Bacteria.Deinococcus_Thermus.Deinococci	0.330249996758568			-
-Bacteria.Deinococcus_Thermus.Deinococci	0.496735515130362			-
-Bacteria.Deinococcus_Thermus.Deinococci.Deinococcales	-0.465914994764348			-
-Bacteria.Deinococcus_Thermus.Deinococci.Deinococcales	-0.825999890913578			-
-Bacteria.Deinococcus_Thermus.Deinococci.Deinococcales	0.220506901889149			-
-Bacteria.Deinococcus_Thermus.Deinococci.Deinococcales	0.426316425372029			-
-Bacteria.Deinococcus_Thermus.Deinococci.Deinococcales	0.670191304761315			-
-Bacteria.Deinococcus_Thermus.Deinococci.Thermales.Thermaceae	-0.0662315191727861			-
-Bacteria.Deinococcus_Thermus.Deinococci.Thermales.Thermaceae	-1.31437485173524e-07			-
-Bacteria.Deinococcus_Thermus.Deinococci.Thermales.Thermaceae	-2.80856586631906e-06			-
-Bacteria.Deinococcus_Thermus.Deinococci.Thermales.Thermaceae	-3.0034388753819e-07			-
-Bacteria.Deinococcus_Thermus.Deinococci.Thermales.Thermaceae	1.63927099383621e-06			-
-Bacteria.Firmicutes	-1.04546898665682			-
-Bacteria.Firmicutes	-2.24774521002591	body_site_oral	-2.24774521002591	0.00152212836865498
-Bacteria.Firmicutes	1.02256144588049			-
-Bacteria.Firmicutes	1.39363942487851			-
-Bacteria.Firmicutes	3.66542802054735	oxygen_availability_Mid_O2	3.66542802054735	1.47875170988577e-06
-Bacteria.Firmicutes.Bacilli	-1.27099088312272			-
-Bacteria.Firmicutes.Bacilli	-2.04614214866401			-
-Bacteria.Firmicutes.Bacilli	-6.59066570845548	oxygen_availability_Low_O2	-6.59066570845548	3.72159762595155e-11
-Bacteria.Firmicutes.Bacilli	1.00851168744432			-
-Bacteria.Firmicutes.Bacilli	3.15774488814134	oxygen_availability_Mid_O2	3.15774488814134	0.00174337454051681
-Bacteria.Firmicutes.Bacilli.Bacillales	-1.9875677752946	body_site_skin	-1.9875677752946	0.00999213443376171
-Bacteria.Firmicutes.Bacilli.Bacillales	-8.21236151622633	oxygen_availability_Mid_O2	-8.21236151622633	3.06981163966053e-11
-Bacteria.Firmicutes.Bacilli.Bacillales	-8.22009565161565	oxygen_availability_Low_O2	-8.22009565161565	7.79588492619068e-14
-Bacteria.Firmicutes.Bacilli.Bacillales	0.140692260662557			-
-Bacteria.Firmicutes.Bacilli.Bacillales	3.90284089065338	body_site_oral	3.90284089065338	0.000117199757009951
-Bacteria.Firmicutes.Bacilli.Bacillales.Bacillaceae	-0.0262000760670005			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Bacillaceae	-0.436507011146476			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Bacillaceae	-0.52893876437789			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Bacillaceae	0.800904284444232			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Bacillaceae	2.42593539365033	body_site_skin	2.42593539365033	0.00349299935418003
-Bacteria.Firmicutes.Bacilli.Bacillales.Listeriaceae	-0.0189782636344116			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Listeriaceae	-0.0662315191727966			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Listeriaceae	-1.31437495720643e-07			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Listeriaceae	0.0189770943395283			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Listeriaceae	0.338734774834491			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Paenibacillaceae	-0.0662328885684551			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Paenibacillaceae	-1.11112724887619e-06			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Paenibacillaceae	-1.18743885391126e-07			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Paenibacillaceae	-1.40002722304189e-07			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Paenibacillaceae	-9.37874914008763e-07			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Planococcaceae	-0.00600394069156751			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Planococcaceae	-0.0662329864062786			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Planococcaceae	0.00600319183073905			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Planococcaceae	0.243094272636429			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Planococcaceae	0.275001783937224			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Sporolactobacillaceae	-0.0662315191727861			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Sporolactobacillaceae	-1.31437485173524e-07			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Sporolactobacillaceae	-2.80856586631906e-06			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Sporolactobacillaceae	-3.0034388753819e-07			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Sporolactobacillaceae	1.63927099383621e-06			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae	-10.2212361934885	oxygen_availability_Mid_O2	-10.2212361934885	5.79088110667698e-12
-Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae	-10.3086254827944	oxygen_availability_Low_O2	-10.3086254827944	1.46590668742244e-14
-Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae	-2.16451039327488			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae	0.133087103964035			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae	5.55967146213405	body_site_oral	5.55967146213405	6.833007223877e-06
-Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Gemella	-0.846203094283416			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Gemella	-1.71996987113271			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Gemella	-1.95417549479045			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Gemella	0.1313549580983			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Gemella	5.06662579338932			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Staphylococcus	-2.1847551911387	body_site_skin	-2.1847551911387	0.0088359420796661
-Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Staphylococcus	-8.97424051982114	oxygen_availability_Mid_O2	-8.97424051982114	8.58581322275681e-05
-Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Staphylococcus	-9.7474846592622	oxygen_availability_Low_O2	-9.7474846592622	2.78414054857934e-07
-Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Staphylococcus	0.126531939613825			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Staphylococcus	0.496306916963186			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Thermoactinomycetaceae	-0.0662316808063843			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Thermoactinomycetaceae	-1.0112342381241e-06			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Thermoactinomycetaceae	-4.35691225320056e-07			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Thermoactinomycetaceae	1.21607011815961e-06			-
-Bacteria.Firmicutes.Bacilli.Bacillales.Thermoactinomycetaceae	4.32986979603811e-15			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales	-1.63354107711645			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales	-2.08162666537174			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales	1.33801735954213			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales	3.99411742713617	body_site_nasal	3.99411742713617	0.000164015030324633
-Bacteria.Firmicutes.Bacilli.Lactobacillales	8.68123342729602	oxygen_availability_Mid_O2	8.68123342729602	2.7696086814504e-09
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Aerococcaceae	-0.335844285415076			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Aerococcaceae	0.150167867516515			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Aerococcaceae	0.415352612284558			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Aerococcaceae	0.700636409399613			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Aerococcaceae	2.98527533290029	body_site_oral	2.98527533290029	0.00632233222654092
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Aerococcaceae.Abiotrophia	-0.0432486898020585			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Aerococcaceae.Abiotrophia	0.209967123459759			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Aerococcaceae.Abiotrophia	3.13963858614723			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Carnobacteriaceae	-0.903531483016836			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Carnobacteriaceae	0.153203255600099			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Carnobacteriaceae	0.944284243090858			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Carnobacteriaceae	5.84048062225162	body_site_nasal	5.84048062225162	4.69183262026497e-06
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Carnobacteriaceae	6.00672642286094	body_site_oral	6.00672642286094	6.8442955980261e-05
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Carnobacteriaceae.Dolosigranulum	-1.48116643817605			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Carnobacteriaceae.Dolosigranulum	2.11320782464161			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Carnobacteriaceae.Dolosigranulum	8.85591571614717	body_site_nasal	8.85591571614717	0.00145329497973552
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Carnobacteriaceae.Granulicatella	-0.99689544964423			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Carnobacteriaceae.Granulicatella	0.938238279827528			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Carnobacteriaceae.Granulicatella	5.64833173557354	oxygen_availability_Mid_O2	5.64833173557354	9.91430188710748e-05
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Enterococcaceae	-0.00737681129950496			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Enterococcaceae	-0.095024578416223			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Enterococcaceae	-0.250834490057445			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Enterococcaceae	0.400208553275046			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Enterococcaceae	1.14988856256358			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae	-0.161922368946583			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae	-13.6959213225818	body_site_oral	-13.6959213225818	1.43736525576596e-10
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae	1.29031396392802			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae	1.69179972465731			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae	13.1531326047642	oxygen_availability_Mid_O2	13.1531326047642	4.21040977217769e-10
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae.Lactobacillus	-0.0748952890386343			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae.Lactobacillus	-0.648701227286502			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae.Lactobacillus	-10.2552795352452	body_site_oral	-10.2552795352452	8.13668481864062e-05
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae.Lactobacillus	0.561795172433206			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae.Lactobacillus	10.5280221790983	oxygen_availability_Mid_O2	10.5280221790983	6.05410286142951e-05
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Leuconostocaceae	-0.0662315292227999			-
+Bacteria.Chloroflexi.Anaerolineae.Anaerolineales.Anaerolineaceae	0.269612756192285			-
+Bacteria.Chloroflexi.Anaerolineae.Anaerolineales.Anaerolineaceae	1.8735469749509e-06			-
+Bacteria.Chloroflexi.Chloroflexi	-0.126972828871128			-
+Bacteria.Chloroflexi.Chloroflexi	-0.237170759766649			-
+Bacteria.Chloroflexi.Chloroflexi	-1.1054776272168e-06			-
+Bacteria.Chloroflexi.Chloroflexi	0.171363683143942			-
+Bacteria.Chloroflexi.Chloroflexi	8.11733848138374e-07			-
+Bacteria.Chloroflexi.Thermomicrobia	-0.126974833855597			-
+Bacteria.Chloroflexi.Thermomicrobia	-0.237173568804189			-
+Bacteria.Chloroflexi.Thermomicrobia	0.171363693193944			-
+Bacteria.Chloroflexi.Thermomicrobia	5.11389949053864e-07			-
+Bacteria.Chloroflexi.Thermomicrobia	5.34265027996028e-07			-
+Bacteria.Cyanobacteria.Cyanobacteria	-1.50383377516532			-
+Bacteria.Cyanobacteria.Cyanobacteria	-1.87597373461609			-
+Bacteria.Cyanobacteria.Cyanobacteria	0.262702540510238			-
+Bacteria.Cyanobacteria.Cyanobacteria	1.44482566980167			-
+Bacteria.Cyanobacteria.Cyanobacteria	1.52045765098077			-
+Bacteria.Cyanobacteria.Cyanobacteria.Chloroplast	-1.75664655151458			-
+Bacteria.Cyanobacteria.Cyanobacteria.Chloroplast	-1.85740582037234			-
+Bacteria.Cyanobacteria.Cyanobacteria.Chloroplast	0.545934992622423			-
+Bacteria.Cyanobacteria.Cyanobacteria.Chloroplast	1.83310919043761			-
+Bacteria.Cyanobacteria.Cyanobacteria.Chloroplast	2.17358453338069			-
+Bacteria.Cyanobacteria.Cyanobacteria.Chloroplast.Streptophyta	-0.0882734589333811			-
+Bacteria.Cyanobacteria.Cyanobacteria.Chloroplast.Streptophyta	-0.741297847218255			-
+Bacteria.Cyanobacteria.Cyanobacteria.Chloroplast.Streptophyta	-2.0070066818545			-
+Bacteria.Cyanobacteria.Cyanobacteria.Chloroplast.Streptophyta	1.58796041798494			-
+Bacteria.Deinococcus_Thermus.Deinococci	-0.137086019491063			-
+Bacteria.Deinococcus_Thermus.Deinococci	-0.875869751076277			-
+Bacteria.Deinococcus_Thermus.Deinococci	0.0867121462014536			-
+Bacteria.Deinococcus_Thermus.Deinococci	0.330248891519646			-
+Bacteria.Deinococcus_Thermus.Deinococci	0.496736326864187			-
+Bacteria.Deinococcus_Thermus.Deinococci.Deinococcales	-0.825999533027956			-
+Bacteria.Deinococcus_Thermus.Deinococci.Deinococcales	0.220506399877568			-
+Bacteria.Deinococcus_Thermus.Deinococci.Deinococcales	0.32045588703012			-
+Bacteria.Deinococcus_Thermus.Deinococci.Deinococcales	0.414072997900269			-
+Bacteria.Deinococcus_Thermus.Deinococci.Deinococcales	0.426316722849501			-
+Bacteria.Deinococcus_Thermus.Deinococci.Thermales.Thermaceae	-1.31437494443887e-07			-
+Bacteria.Deinococcus_Thermus.Deinococci.Thermales.Thermaceae	-2.80903753990813e-06			-
+Bacteria.Deinococcus_Thermus.Deinococci.Thermales.Thermaceae	-3.0034389908451e-07			-
+Bacteria.Deinococcus_Thermus.Deinococci.Thermales.Thermaceae	0.269612766242287			-
+Bacteria.Deinococcus_Thermus.Deinococci.Thermales.Thermaceae	1.63974265521283e-06			-
+Bacteria.Firmicutes	-0.957249806956356			-
+Bacteria.Firmicutes	-0.970632517770188			-
+Bacteria.Firmicutes	-2.43526891027776			-
+Bacteria.Firmicutes	0.932105048926153			-
+Bacteria.Firmicutes	3.68708580357656			-
+Bacteria.Firmicutes.Bacilli	-1.27099007138889			-
+Bacteria.Firmicutes.Bacilli	-2.28331290866698			-
+Bacteria.Firmicutes.Bacilli	-6.35307049608875	oxygen_availability_Low_O2	-6.35307049608875	9.62637131779473e-05
+Bacteria.Firmicutes.Bacilli	0.881536985026205			-
+Bacteria.Firmicutes.Bacilli	3.15774378290001	oxygen_availability_Mid_O2	3.15774378290001	0.00978246311100852
+Bacteria.Firmicutes.Bacilli.Bacillales	-2.24368608215566	body_site_skin	-2.24368608215566	0.00504350970567592
+Bacteria.Firmicutes.Bacilli.Bacillales	-7.4337247698212	oxygen_availability_Low_O2	-7.4337247698212	2.87222336680158e-06
+Bacteria.Firmicutes.Bacilli.Bacillales	-8.21236121874841	oxygen_availability_Mid_O2	-8.21236121874841	2.12545866358754e-09
+Bacteria.Firmicutes.Bacilli.Bacillales	0.140691758650956			-
+Bacteria.Firmicutes.Bacilli.Bacillales	3.90284124853853	body_site_oral	3.90284124853853	0.000643290890628077
+Bacteria.Firmicutes.Bacilli.Bacillales.Bacillaceae	-0.0262000762928523			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Bacillaceae	-0.193094478962813			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Bacillaceae	-0.436507010920632			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Bacillaceae	0.800904284444227			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Bacillaceae	2.42593539365033	body_site_skin	2.42593539365033	0.00372143535734756
+Bacteria.Firmicutes.Bacilli.Bacillales.Listeriaceae	-0.0189782638746845			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Listeriaceae	-1.3143751487199e-07			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Listeriaceae	0.0189770945797794			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Listeriaceae	0.269612766242267			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Listeriaceae	0.338734774834469			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Paenibacillaceae	-1.1108883881672e-06			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Paenibacillaceae	-1.18743931132315e-07			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Paenibacillaceae	-1.40241628532323e-07			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Paenibacillaceae	-9.37874956696838e-07			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Paenibacillaceae	0.269611396846584			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Planococcaceae	-0.00600394013487449			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Planococcaceae	0.00600319127404214			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Planococcaceae	0.243094272636427			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Planococcaceae	0.269611299008802			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Planococcaceae	0.27500178393722			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Sporolactobacillaceae	-1.31437494443887e-07			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Sporolactobacillaceae	-2.80903753990813e-06			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Sporolactobacillaceae	-3.0034389908451e-07			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Sporolactobacillaceae	0.269612766242287			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Sporolactobacillaceae	1.63974265521283e-06			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae	-10.2212362994013	oxygen_availability_Mid_O2	-10.2212362994013	1.18956209202736e-11
+Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae	-2.16451039327489			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae	-9.9727811973793	oxygen_availability_Low_O2	-9.9727811973793	2.7885703133382e-11
+Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae	0.133087103964028			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae	5.55967156804678	body_site_oral	5.55967156804678	1.31149287295756e-05
+Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Gemella	-0.353308947235483			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Gemella	-2.40745391180205			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Gemella	-2.63069908902693			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Gemella	0.614805860412565			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Gemella	4.12200239281716			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Staphylococcus	-0.448316483614859			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Staphylococcus	-1.6918610440883			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Staphylococcus	-10.4240082535038	oxygen_availability_Low_O2	-10.4240082535038	1.219025638073e-06
+Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Staphylococcus	-9.66172456048217	oxygen_availability_Mid_O2	-9.66172456048217	7.56270251455779e-05
+Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Staphylococcus	0.609982841931769			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Thermoactinomycetaceae	-1.01170736410694e-06			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Thermoactinomycetaceae	-4.35691233757751e-07			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Thermoactinomycetaceae	0			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Thermoactinomycetaceae	0.269612604608694			-
+Bacteria.Firmicutes.Bacilli.Bacillales.Thermoactinomycetaceae	1.21654323559373e-06			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales	-0.847170195322002			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales	-2.08162630748617			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales	1.08189905268106			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales	3.99411692512456	body_site_nasal	3.99411692512456	0.000218647855131303
+Bacteria.Firmicutes.Bacilli.Lactobacillales	8.68123372477353	oxygen_availability_Mid_O2	8.68123372477353	3.36692876698491e-08
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Aerococcaceae	0			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Aerococcaceae	0.150167867516506			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Aerococcaceae	0.415352615363129			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Aerococcaceae	0.700636409399606			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Aerococcaceae	2.98527532982171			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Aerococcaceae.Abiotrophia	0.449645457249674			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Aerococcaceae.Abiotrophia	0.693418025777865			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Aerococcaceae.Abiotrophia	2.45215454548653			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Carnobacteriaceae	-0.567687197601787			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Carnobacteriaceae	0.153203255836387			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Carnobacteriaceae	0.944284243090822			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Carnobacteriaceae	5.84048062225159	body_site_nasal	5.84048062225159	5.20192940825241e-06
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Carnobacteriaceae	6.00672642262462	body_site_oral	6.00672642262462	9.92568389656959e-05
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Carnobacteriaceae.Dolosigranulum	-0.988272291127135			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Carnobacteriaceae.Dolosigranulum	1.42572378397489			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Carnobacteriaceae.Dolosigranulum	9.33936661845907	body_site_nasal	9.33936661845907	0.00365293615937924
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Carnobacteriaceae.Granulicatella	-0.51344454590146			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Carnobacteriaceae.Granulicatella	1.43113242567678			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Carnobacteriaceae.Granulicatella	4.96084769655937	oxygen_availability_Mid_O2	4.96084769655937	0.00149528923008164
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Enterococcaceae	-0.00737681153583414			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Enterococcaceae	-0.250834489821134			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Enterococcaceae	0.240819706998844			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Enterococcaceae	0.400208553275027			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Enterococcaceae	1.14988856256356			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae	-13.6959213228182	body_site_oral	-13.6959213228182	2.32795348311657e-10
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae	0.173921916468424			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae	1.29031396392794			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae	1.69179972465724			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae	13.1531326050004	oxygen_availability_Mid_O2	13.1531326050004	5.41536120357759e-10
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae.Lactobacillus	-1.32522482156795			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae.Lactobacillus	-11.1999029358418	body_site_oral	-11.1999029358418	0.000230056883160236
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae.Lactobacillus	0.40855561325466			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae.Lactobacillus	1.05468931945709			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae.Lactobacillus	9.84053813840919	oxygen_availability_Mid_O2	9.84053813840919	0.000227334793130692
 Bacteria.Firmicutes.Bacilli.Lactobacillales.Leuconostocaceae	0			-
 Bacteria.Firmicutes.Bacilli.Lactobacillales.Leuconostocaceae	0			-
 Bacteria.Firmicutes.Bacilli.Lactobacillales.Leuconostocaceae	0			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Leuconostocaceae	1.87354697211983e-06			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Streptococcaceae	-1.38188000555359			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Streptococcaceae	-1.99048540905385			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Streptococcaceae	1.70723280529879			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Streptococcaceae	2.42890720824848			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Streptococcaceae	9.77272101398551	body_site_oral	9.77272101398551	4.95226293262386e-08
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Streptococcaceae.Streptococcus	-1.19195911986107			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Streptococcaceae.Streptococcus	-3.08631706391833	oxygen_availability_Low_O2	-3.08631706391833	0.00289972231419515
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Streptococcaceae.Streptococcus	0.14552726460903			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Streptococcaceae.Streptococcus	0.374657976760564			-
-Bacteria.Firmicutes.Bacilli.Lactobacillales.Streptococcaceae.Streptococcus	6.93031065109748	body_site_oral	6.93031065109748	2.47250442093186e-06
-Bacteria.Firmicutes.Clostridia	-0.474319747638717			-
-Bacteria.Firmicutes.Clostridia	0.0295096751407784			-
-Bacteria.Firmicutes.Clostridia	1.88467153307376			-
-Bacteria.Firmicutes.Clostridia	3.24224680028163	body_site_oral	3.24224680028163	0.00199267443848752
-Bacteria.Firmicutes.Clostridia	4.81715475786842	oxygen_availability_Low_O2	4.81715475786842	2.85804787230481e-07
-Bacteria.Firmicutes.Clostridia.Clostridiales	-0.477129856915584			-
-Bacteria.Firmicutes.Clostridia.Clostridiales	0.0221989369485234			-
-Bacteria.Firmicutes.Clostridia.Clostridiales	1.88844415316432			-
-Bacteria.Firmicutes.Clostridia.Clostridiales	3.25216877079631	body_site_oral	3.25216877079631	0.00199432909970026
-Bacteria.Firmicutes.Clostridia.Clostridiales	4.80521124873101	oxygen_availability_Low_O2	4.80521124873101	3.21635318509712e-07
-Bacteria.Firmicutes.Clostridia.Clostridiales.Clostridiaceae	-0.299076384867561			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Clostridiaceae	0.326128977779232			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Clostridiaceae	1.07122294690734			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Clostridiaceae	1.30675779529894			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Clostridiaceae	1.84866388968141			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Clostridiaceae.Clostridium	-0.499282332227295			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Clostridiaceae.Clostridium	-0.68660230094265			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Clostridiaceae.Clostridium	-0.874551642939371			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Clostridiaceae.Clostridium	-1.95243550551513			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Clostridiaceae.Clostridium	-2.90177158674401			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Eubacteriaceae	-0.422648990765073			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Eubacteriaceae	-0.659468047189556			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Eubacteriaceae	-1.35656343179676			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Eubacteriaceae	1.66117005499224			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Eubacteriaceae	2.22200328099683			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Eubacteriaceae.Eubacterium	-1.50891087452761			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Eubacteriaceae.Eubacterium	-2.22039548167207			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Eubacteriaceae.Eubacterium	0.00269236995435959			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Eubacteriaceae.Eubacterium	0.882094643099207			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Gracilibacteraceae	-0.0306363240745779			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Gracilibacteraceae	-1.314375124295e-07			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Gracilibacteraceae	-3.00343914849677e-07			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Gracilibacteraceae	0.0306351547796782			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Gracilibacteraceae	0.226051573075407			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XI	-2.69292863404577			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XI	-3.88355710391322	oxygen_availability_Low_O2	-3.88355710391322	0.00109747990314087
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XI	0.367566768992065			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XI	1.32345992736108			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XI	5.0390615433695	body_site_nasal	5.0390615433695	4.17068927425914e-05
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XI.Anaerococcus	0.113130303981999			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XI.Anaerococcus	3.58559789510612	oxygen_availability_Mid_O2	3.58559789510612	0.00658602683122151
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XI.Anaerococcus	3.73397161790935	body_site_nasal	3.73397161790935	0.00022718355231411
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XI.Finegoldia	2.07839867221329			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XI.Finegoldia	5.27715302300788	body_site_nasal	5.27715302300788	5.96901157511642e-05
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XI.Finegoldia	5.28087840837441	oxygen_availability_Mid_O2	5.28087840837441	0.00037138655073133
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XI.Peptoniphilus	0.380180405074434			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XI.Peptoniphilus	5.32454466794987	oxygen_availability_Mid_O2	5.32454466794987	0.00652036291645087
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XI.Peptoniphilus	7.26835878107667	body_site_nasal	7.26835878107667	0.00036976589722546
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XII	-0.0662315191727861			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XII	-1.31437485173524e-07			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XII	-2.80856586631906e-06			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XII	-3.0034388753819e-07			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XII	1.63927099383621e-06			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIII	-0.301969494383481			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIII	-0.867550297590396			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIII	-0.874951943792162			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIII	1.95114384476099			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIII	3.89754580638992	body_site_oral	3.89754580638992	0.000980518588165129
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIII.Anaerovorax	0.0915404254376531			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIII.Mogibacterium	0.714692554990386			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIII.Mogibacterium	2.83916649478025			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIV	-0.833092917074167			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIV	-0.874552373427924			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIV	-1.5583243819942			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Leuconostocaceae	0.269612756192285			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Leuconostocaceae	1.8735469749509e-06			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Streptococcaceae	-1.04603572013852			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Streptococcaceae	-1.99048540881755			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Streptococcaceae	1.70723280529877			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Streptococcaceae	2.42890720824847			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Streptococcaceae	9.77272101374919	body_site_oral	9.77272101374919	7.98944682669883e-08
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Streptococcaceae.Streptococcus	-1.87944316048878			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Streptococcaceae.Streptococcus	-3.76284065816286			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Streptococcaceae.Streptococcus	0.628978166911764			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Streptococcaceae.Streptococcus	0.867552123792537			-
+Bacteria.Firmicutes.Bacilli.Lactobacillales.Streptococcaceae.Streptococcus	5.98568725047096	body_site_oral	5.98568725047096	0.00286481739164442
+Bacteria.Firmicutes.Clostridia	-0.474318935904897			-
+Bacteria.Firmicutes.Clostridia	0.0295085698994425			-
+Bacteria.Firmicutes.Clostridia	1.75769683065563			-
+Bacteria.Firmicutes.Clostridia	3.00507604027866			-
+Bacteria.Firmicutes.Clostridia	5.05474997023513	oxygen_availability_Low_O2	5.05474997023513	0.00162858170801191
+Bacteria.Firmicutes.Clostridia.Clostridiales	-0.733248163776644			-
+Bacteria.Firmicutes.Clostridia.Clostridiales	0.0221992344260318			-
+Bacteria.Firmicutes.Clostridia.Clostridiales	1.88844365115273			-
+Bacteria.Firmicutes.Clostridia.Clostridiales	3.25216912868188	body_site_oral	3.25216912868188	0.00559564764525588
+Bacteria.Firmicutes.Clostridia.Clostridiales	5.59158213052547	oxygen_availability_Low_O2	5.59158213052547	0.000238653428394136
+Bacteria.Firmicutes.Clostridia.Clostridiales.Clostridiaceae	-0.299076385097679			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Clostridiaceae	0.32612897800932			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Clostridiaceae	1.07122294690731			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Clostridiaceae	1.30675779529891			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Clostridiaceae	2.18450817509646			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Clostridiaceae.Clostridium	-0.0158314299093671			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Clostridiaceae.Clostridium	-0.193708153892268			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Clostridiaceae.Clostridium	-1.551075237181			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Clostridiaceae.Clostridium	-2.89705890609307			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Clostridiaceae.Clostridium	-3.58925562740512			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Eubacteriaceae	-0.422648990765078			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Eubacteriaceae	-0.659468047189558			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Eubacteriaceae	-1.35656343156044			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Eubacteriaceae	1.99701434040732			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Eubacteriaceae	2.22200328076051			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Eubacteriaceae.Eubacterium	-0.673831224289811			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Eubacteriaceae.Eubacterium	-1.02545997219456			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Eubacteriaceae.Eubacterium	-1.72750133462947			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Eubacteriaceae.Eubacterium	0.194610602431869			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Gracilibacteraceae	-0.03063632350031			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Gracilibacteraceae	-1.31437491668329e-07			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Gracilibacteraceae	-3.00343896419974e-07			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Gracilibacteraceae	0.0306351542054282			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Gracilibacteraceae	0.56189585849051			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XI	-2.6929286342821			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XI	-3.54771281849816			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XI	0.367566768992043			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XI	1.32345992759738			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XI	5.03906154336948	body_site_nasal	5.03906154336948	4.48780825342236e-05
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XI.Anaerococcus	0.606024451032151			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XI.Anaerococcus	2.89811385444488			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XI.Anaerococcus	4.21742252022712	body_site_nasal	4.21742252022712	0.000294323122608816
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XI.Finegoldia	2.57129281926363			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XI.Finegoldia	4.59339436771327	oxygen_availability_Mid_O2	4.59339436771327	0.00388988318515554
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XI.Finegoldia	5.76060392532578	body_site_nasal	5.76060392532578	8.37860435286452e-05
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XI.Peptoniphilus	0.873074552124822			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XI.Peptoniphilus	4.63706062728876			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XI.Peptoniphilus	7.7518096833946	body_site_nasal	7.7518096833946	0.00035444508690315
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XII	-1.31437494443887e-07			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XII	-2.80903753990813e-06			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XII	-3.0034389908451e-07			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XII	0.269612766242287			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XII	1.63974265521283e-06			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIII	-0.301969494383534			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIII	-0.867550297354128			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIII	-0.874951943792213			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIII	2.28698813017603			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIII	3.8975458061536	body_site_oral	3.8975458061536	0.00145091832750186
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIII.Mogibacterium	1.20758670204077			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIII.Mogibacterium	2.15168245411915			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIV	-0.833092917311327			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIV	-0.874552373427928			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIV	-1.55832438175705			-
 Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIV	-1.57566700772594			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIV	4.64917639836428	oxygen_availability_Low_O2	4.64917639836428	1.39097801695974e-05
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIV.Blautia	-0.250362014699952			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIV.Blautia	-1.07142232902605			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIV.Blautia	-1.20470003285702			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIV.Blautia	-2.9395066373877			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIV.Blautia	2.9128290608894	oxygen_availability_Low_O2	2.9128290608894	0.00141369343258977
-Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae	-0.0168288797969005			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae	-0.657700089851658			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae	-2.23726827179061			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae	5.24373570668777	body_site_oral	5.24373570668777	2.24515779684566e-05
-Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae	5.50737520841642	oxygen_availability_Low_O2	5.50737520841642	2.63833066559399e-07
-Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Coprococcus	-1.88426902886112			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Coprococcus	-2.22093780031576			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Coprococcus	-3.26941330577531			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Coprococcus	2.09488786810176			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Dorea	-3.02374443059508			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Dorea	-3.06962454446961			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Dorea	1.0756422135268			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Oribacterium	-0.112292352950482			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Oribacterium	-1.46042609684412			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Oribacterium	2.82942316133628			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Pseudobutyrivibrio	0.418793968967509			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Pseudobutyrivibrio	2.71019335867387			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Roseburia	-2.68095062231135			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Roseburia	-2.69574544958948			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Roseburia	-3.17675013432591			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Roseburia	2.21299637157784			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Peptococcaceae	-0.285345665890235			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Peptococcaceae	-0.285345808762016			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Peptococcaceae	0.166183833959103			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Peptococcaceae	0.45627620273716			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Peptococcaceae	0.79698485158956			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae	-0.451446563712901			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae	1.70909316632506			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae	1.79763391413617			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae	2.71109821285382			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae	2.88107051087224			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Sporacetigenium	-1.67221785660383			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Sporacetigenium	0.454086309396657			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Sporacetigenium	1.39989809783526			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Sporacetigenium	2.78631788949387			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Sporacetigenium	5.18549779816775			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae	-0.369457755645742			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae	-0.844223343504197			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae	-1.34568038368214			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae	-2.03000874540763			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae	6.48051994713169	oxygen_availability_Low_O2	6.48051994713169	2.49014118309454e-07
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Acetivibrio	-1.34480083067322			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Acetivibrio	-2.23283979637025			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Acetivibrio	4.83269231634524			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Anaerotruncus	0.235060554628663			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Anaerotruncus	0.408606637324107			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Butyricicoccus	-1.39923938689393			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Butyricicoccus	-1.45012185660302			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Butyricicoccus	0.195928139054805			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Faecalibacterium	-1.72925319820039			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Faecalibacterium	-1.75257458760572			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Faecalibacterium	0.762510478241187			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Faecalibacterium	5.0585311312496	oxygen_availability_Low_O2	5.0585311312496	1.1906993603649e-06
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Oscillibacter	-0.459534816073788			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Oscillibacter	-1.23916782211434			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Oscillibacter	-1.40236034021926			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Oscillibacter	3.48690848167367	oxygen_availability_Low_O2	3.48690848167367	0.00102642977194028
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminococcus	-0.980176095690976			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminococcus	-2.06799364444917			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminococcus	-2.14329085343251			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminococcus	-2.95515605282019			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminococcus	2.9486943238551	oxygen_availability_Low_O2	2.9486943238551	0.00968557610948192
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Subdoligranulum	-0.724413201534843			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Subdoligranulum	-1.52086956025614			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Subdoligranulum	0.283579790274843			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Subdoligranulum	2.57572751798969	oxygen_availability_Low_O2	2.57572751798969	0.0097457389009126
-Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae	0.375589879256251			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae	0.751202892371869			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae	0.780102149902626			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae	4.58053440451482	oxygen_availability_Low_O2	4.58053440451482	6.31865536596836e-05
-Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae	6.02277532628286	body_site_oral	6.02277532628286	2.16086264028544e-05
-Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Dialister	-1.05278379024971			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Dialister	-1.12187097501085			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Dialister	-3.096179124194			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Dialister	2.71098563322223			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Dialister	2.78117656384047			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Phascolarctobacterium	-1.04186912415495			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Phascolarctobacterium	0.992920995266495			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Phascolarctobacterium	2.00158569219705			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Phascolarctobacterium	6.00937009689361	oxygen_availability_Low_O2	6.00937009689361	0.00686329327112062
-Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Selenomonas	-0.781364426116528			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Selenomonas	-2.5783755640189			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Selenomonas	4.71486510363681			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Veillonella	-0.0386789151985456			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Veillonella	0.113910369265409			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Veillonella	0.544039164300743			-
-Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Veillonella	8.7019336912944	oxygen_availability_Mid_O2	8.7019336912944	1.10700770369289e-09
-Bacteria.Firmicutes.Clostridia.Thermoanaerobacterales.Thermoanaerobacteraceae	-0.0662315292227999			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIV	4.98502068377936	oxygen_availability_Low_O2	4.98502068377936	9.29217661575401e-05
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIV.Blautia	-0.578528182431631			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIV.Blautia	-0.721249130962162			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIV.Blautia	-0.937846056013937			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIV.Blautia	-3.88413003585742			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Incertae_Sedis_XIV.Blautia	2.23630546630493			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae	-0.01682887979693			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae	-0.657700089851685			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae	-2.23726826661194			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae	5.24373570150908	body_site_oral	5.24373570150908	4.11801633896843e-05
+Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae	5.84321949383147	oxygen_availability_Low_O2	5.84321949383147	4.8294461958479e-06
+Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Coprococcus	-1.39137488181073			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Coprococcus	-2.78596240345737			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Coprococcus	-2.90842184097686			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Coprococcus	1.41836427386013			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Dorea	-2.53085028354403			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Dorea	-2.58617364215037			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Dorea	0.39911861928662			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Oribacterium	-0.96753194979373			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Oribacterium	0.371158549367452			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Oribacterium	2.14193912067518			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Pseudobutyrivibrio	0.902244871284834			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Pseudobutyrivibrio	2.0336697644303			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Roseburia	-2.18805647526057			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Roseburia	-2.69329923200761			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Roseburia	-3.38322949025017			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Roseburia	1.53647277733667			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Peptococcaceae	-0.285345665890291			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Peptococcaceae	-0.285345808762071			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Peptococcaceae	0.166183833726406			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Peptococcaceae	0.4562762029698			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Peptococcaceae	1.13282913700459			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae	-0.451446563960997			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae	1.70909316632505			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae	2.13347819955123			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae	2.71109821285381			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae	2.88107051112032			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Sporacetigenium	-0.222437284833192			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Sporacetigenium	-2.35970189728209			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Sporacetigenium	1.88334900015247			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Sporacetigenium	3.27921203655277			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Sporacetigenium	4.24087439762993			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae	-0.369457755645757			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae	-0.844223375876706			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae	-1.34568038368215			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae	-2.03000871303514			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae	6.81636423254676	oxygen_availability_Low_O2	6.81636423254676	2.27671950673842e-06
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Acetivibrio	-1.73994564929636			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Acetivibrio	-2.02132442487807			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Acetivibrio	4.14520827571235			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Anaerotruncus	-0.267916956917519			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Anaerotruncus	0.727954701679051			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Butyricicoccus	-0.480595455186844			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Butyricicoccus	-0.915788484576024			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Butyricicoccus	-0.95722770955266			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Faecalibacterium	-1.2458022958824			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Faecalibacterium	-1.2596804405556			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Faecalibacterium	0.0750264375802344			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Faecalibacterium	4.38200753700791	oxygen_availability_Low_O2	4.38200753700791	0.000888700875200645
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Oscillibacter	-0.755716919796415			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Oscillibacter	-0.909466193168881			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Oscillibacter	-1.1470188567349			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Oscillibacter	2.81038488743203			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminococcus	-1.57509949739883			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminococcus	-1.9247994962689			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminococcus	-2.47170515050221			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminococcus	-2.83077489409372			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminococcus	2.27217072961342			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Subdoligranulum	-1.03741865795842			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Subdoligranulum	-1.41189724220109			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Subdoligranulum	0.776473937310431			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Subdoligranulum	1.8992039237368			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae	0.375589879256222			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae	0.751202892608163			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae	0.7801021499026			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae	4.91637868992988	oxygen_availability_Low_O2	4.91637868992988	0.000222515201432896
+Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae	6.02277532604654	body_site_oral	6.02277532604654	3.41769333109538e-05
+Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Dialister	-0.56933288793173			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Dialister	-0.628976827960414			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Dialister	-4.04080252477194			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Dialister	2.02350159256118			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Dialister	2.10465296959889			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Phascolarctobacterium	-0.558418221732658			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Phascolarctobacterium	1.31410165164023			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Phascolarctobacterium	1.48581514242631			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Phascolarctobacterium	5.33284650285773			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Selenomonas	-0.288470279049485			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Selenomonas	-3.25489915825821			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Selenomonas	4.02738106298123			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Veillonella	-0.132484429932361			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Veillonella	0.454215231848763			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Veillonella	0.59736127158066			-
+Bacteria.Firmicutes.Clostridia.Clostridiales.Veillonellaceae.Veillonella	8.01444965063022	oxygen_availability_Mid_O2	8.01444965063022	2.86418512181426e-07
 Bacteria.Firmicutes.Clostridia.Thermoanaerobacterales.Thermoanaerobacteraceae	0			-
 Bacteria.Firmicutes.Clostridia.Thermoanaerobacterales.Thermoanaerobacteraceae	0			-
 Bacteria.Firmicutes.Clostridia.Thermoanaerobacterales.Thermoanaerobacteraceae	0			-
-Bacteria.Firmicutes.Clostridia.Thermoanaerobacterales.Thermoanaerobacteraceae	1.87354697211983e-06			-
-Bacteria.Firmicutes.Erysipelotrichi.Erysipelotrichales.Erysipelotrichaceae	-0.880972588503722			-
-Bacteria.Firmicutes.Erysipelotrichi.Erysipelotrichales.Erysipelotrichaceae	-0.899500902457545			-
-Bacteria.Firmicutes.Erysipelotrichi.Erysipelotrichales.Erysipelotrichaceae	-1.13697622905157			-
-Bacteria.Firmicutes.Erysipelotrichi.Erysipelotrichales.Erysipelotrichaceae	0.325237025638722			-
-Bacteria.Firmicutes.Erysipelotrichi.Erysipelotrichales.Erysipelotrichaceae	3.75614923822087	oxygen_availability_Low_O2	3.75614923822087	7.4626722479652e-07
-Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales	-1.56548550192154			-
-Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales	0.863649781063003			-
-Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales	1.4658624384285			-
-Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales	1.57980821498857			-
-Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales	6.81031125231092	body_site_oral	6.81031125231092	1.07646131769823e-05
-Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales.Fusobacteriaceae	-0.16443463070069			-
-Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales.Fusobacteriaceae	-2.33632569964605			-
-Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales.Fusobacteriaceae	0.241519820576741			-
-Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales.Fusobacteriaceae	1.61071986139348			-
-Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales.Fusobacteriaceae	9.17370655673407	body_site_oral	9.17370655673407	9.21054684525215e-08
-Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales.Fusobacteriaceae.Fusobacterium	-0.0645788216709774			-
-Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales.Fusobacteriaceae.Fusobacterium	-0.496348151657147			-
-Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales.Fusobacteriaceae.Fusobacterium	1.19414228265553			-
-Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales.Fusobacteriaceae.Fusobacterium	4.33969576936555	body_site_oral	4.33969576936555	0.00525349717140112
-Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales.Leptotrichiaceae	-0.109744926099554			-
-Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales.Leptotrichiaceae	1.56450265540026			-
-Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales.Leptotrichiaceae	2.07925309149676			-
-Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales.Leptotrichiaceae	2.09328157503731			-
-Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales.Leptotrichiaceae	6.42636866943448	body_site_oral	6.42636866943448	5.18436245932208e-05
-Bacteria.Lentisphaerae.Lentisphaeria	-0.171940847165526			-
-Bacteria.Lentisphaerae.Lentisphaeria	-0.600192980812742			-
-Bacteria.Lentisphaerae.Lentisphaeria	0.0402625562166681			-
-Bacteria.Lentisphaerae.Lentisphaeria	0.237170760007722			-
-Bacteria.Lentisphaerae.Lentisphaeria	1.43806504029156			-
-Bacteria.Nitrospira.Nitrospira.Nitrospirales.Nitrospiraceae	-0.0662315191727861			-
-Bacteria.Nitrospira.Nitrospira.Nitrospirales.Nitrospiraceae	-1.31437485173524e-07			-
-Bacteria.Nitrospira.Nitrospira.Nitrospirales.Nitrospiraceae	-2.80856586631906e-06			-
-Bacteria.Nitrospira.Nitrospira.Nitrospirales.Nitrospiraceae	-3.0034388753819e-07			-
-Bacteria.Nitrospira.Nitrospira.Nitrospirales.Nitrospiraceae	1.63927099383621e-06			-
-Bacteria.Planctomycetes.Planctomycetacia.Planctomycetales.Planctomycetaceae	-0.278499309386431			-
-Bacteria.Planctomycetes.Planctomycetacia.Planctomycetales.Planctomycetaceae	-0.534395614384773			-
-Bacteria.Planctomycetes.Planctomycetacia.Planctomycetales.Planctomycetaceae	-0.566575003289362			-
-Bacteria.Planctomycetes.Planctomycetacia.Planctomycetales.Planctomycetaceae	-0.600629130716708			-
-Bacteria.Planctomycetes.Planctomycetacia.Planctomycetales.Planctomycetaceae	0.0321763764941463			-
-Bacteria.Proteobacteria	-0.149672819029372			-
-Bacteria.Proteobacteria	-2.73674397409559	oxygen_availability_Mid_O2	-2.73674397409559	0.00391272049771067
-Bacteria.Proteobacteria	0.125664211236891			-
-Bacteria.Proteobacteria	1.05155205999281			-
-Bacteria.Proteobacteria	4.91856523102334	body_site_oral	4.91856523102334	2.14859126606526e-06
-Bacteria.Proteobacteria.Alphaproteobacteria	-0.188389742351357			-
-Bacteria.Proteobacteria.Alphaproteobacteria	-0.237595212366704			-
-Bacteria.Proteobacteria.Alphaproteobacteria	-1.08822186274986			-
-Bacteria.Proteobacteria.Alphaproteobacteria	0.243488413638947			-
-Bacteria.Proteobacteria.Alphaproteobacteria	1.14680399824385			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Alphaproteobacteria_incertae_sedis	-0.0192405473029162			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Alphaproteobacteria_incertae_sedis	-0.0662315292227862			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Alphaproteobacteria_incertae_sedis	0.0192405473029298			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Alphaproteobacteria_incertae_sedis	0.626868627304016			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Alphaproteobacteria_incertae_sedis	1.87354698555353e-06			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Caulobacterales.Caulobacteraceae	-0.537865268475013			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Caulobacterales.Caulobacteraceae	-0.58840333798788			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Caulobacterales.Caulobacteraceae	0.280463626130641			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Caulobacterales.Caulobacteraceae	0.655112566926211			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Caulobacterales.Caulobacteraceae	0.947756091276922			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales	-0.204995985068472			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales	-0.808380544113605			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales	-0.856525458383194			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales	0.0734132848422828			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales	0.644700723481279			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Beijerinckiaceae	-0.0662315292227999			-
+Bacteria.Firmicutes.Clostridia.Thermoanaerobacterales.Thermoanaerobacteraceae	0.269612756192285			-
+Bacteria.Firmicutes.Clostridia.Thermoanaerobacterales.Thermoanaerobacteraceae	1.8735469749509e-06			-
+Bacteria.Firmicutes.Erysipelotrichi.Erysipelotrichales.Erysipelotrichaceae	-0.880972588503755			-
+Bacteria.Firmicutes.Erysipelotrichi.Erysipelotrichales.Erysipelotrichaceae	-0.899500902457575			-
+Bacteria.Firmicutes.Erysipelotrichi.Erysipelotrichales.Erysipelotrichaceae	-1.13697622881276			-
+Bacteria.Firmicutes.Erysipelotrichi.Erysipelotrichales.Erysipelotrichaceae	0.325237025399881			-
+Bacteria.Firmicutes.Erysipelotrichi.Erysipelotrichales.Erysipelotrichaceae	4.09199352363592	oxygen_availability_Low_O2	4.09199352363592	6.5121571268139e-05
+Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales	-0.779114620127106			-
+Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales	0.607531474201926			-
+Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales	1.46586193641688			-
+Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales	1.57980851246607			-
+Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales	6.81031161019649	body_site_oral	6.81031161019649	3.10566116779959e-05
+Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales.Fusobacteriaceae	-0.164434630470284			-
+Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales.Fusobacteriaceae	-2.00048141423095			-
+Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales.Fusobacteriaceae	0.241519820576759			-
+Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales.Fusobacteriaceae	1.6107198613935			-
+Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales.Fusobacteriaceae	9.17370655650368	body_site_oral	9.17370655650368	1.54720188605764e-07
+Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales.Fusobacteriaceae.Fusobacterium	-0.00345400460945111			-
+Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales.Fusobacteriaceae.Fusobacterium	0.418872080646336			-
+Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales.Fusobacteriaceae.Fusobacterium	0.50665824199048			-
+Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales.Fusobacteriaceae.Fusobacterium	3.39507236879102			-
+Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales.Leptotrichiaceae	0.226099359315543			-
+Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales.Leptotrichiaceae	1.56450265540027			-
+Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales.Leptotrichiaceae	2.07925309149677			-
+Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales.Leptotrichiaceae	2.09328157527289			-
+Bacteria.Fusobacteria.Fusobacteria.Fusobacteriales.Leptotrichiaceae	6.42636866919891	body_site_oral	6.42636866919891	7.37778316189239e-05
+Bacteria.Lentisphaerae.Lentisphaeria	-0.0867121462014537			-
+Bacteria.Lentisphaerae.Lentisphaeria	-0.171941952402103			-
+Bacteria.Lentisphaerae.Lentisphaeria	-0.600192169078916			-
+Bacteria.Lentisphaerae.Lentisphaeria	0			-
+Bacteria.Lentisphaerae.Lentisphaeria	1.67566025265828			-
+Bacteria.Nitrospira.Nitrospira.Nitrospirales.Nitrospiraceae	-1.31437494443887e-07			-
+Bacteria.Nitrospira.Nitrospira.Nitrospirales.Nitrospiraceae	-2.80903753990813e-06			-
+Bacteria.Nitrospira.Nitrospira.Nitrospirales.Nitrospiraceae	-3.0034389908451e-07			-
+Bacteria.Nitrospira.Nitrospira.Nitrospirales.Nitrospiraceae	0.269612766242287			-
+Bacteria.Nitrospira.Nitrospira.Nitrospirales.Nitrospiraceae	1.63974265521283e-06			-
+Bacteria.Planctomycetes.Planctomycetacia.Planctomycetales.Planctomycetaceae	-0.264784845301644			-
+Bacteria.Planctomycetes.Planctomycetacia.Planctomycetales.Planctomycetaceae	-0.278499309386451			-
+Bacteria.Planctomycetes.Planctomycetacia.Planctomycetales.Planctomycetaceae	-0.534395614384791			-
+Bacteria.Planctomycetes.Planctomycetacia.Planctomycetales.Planctomycetaceae	-0.566575003414926			-
+Bacteria.Planctomycetes.Planctomycetacia.Planctomycetales.Planctomycetaceae	0.0321763766196896			-
+Bacteria.Proteobacteria	-0.0748363501427198			-
+Bacteria.Proteobacteria	-2.22522502059796			-
+Bacteria.Proteobacteria	-2.71508617235737			-
+Bacteria.Proteobacteria	0.961095663038497			-
+Bacteria.Proteobacteria	4.7310415120625			-
+Bacteria.Proteobacteria.Alphaproteobacteria	-0.315364444769495			-
+Bacteria.Proteobacteria.Alphaproteobacteria	-1.08822296798995			-
+Bacteria.Proteobacteria.Alphaproteobacteria	0			-
+Bacteria.Proteobacteria.Alphaproteobacteria	0.00631765363472203			-
+Bacteria.Proteobacteria.Alphaproteobacteria	1.14680480997766			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Alphaproteobacteria_incertae_sedis	-0.0192401894173799			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Alphaproteobacteria_incertae_sedis	0.0192408447805046			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Alphaproteobacteria_incertae_sedis	0.370750320442988			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Alphaproteobacteria_incertae_sedis	0.7201393525717			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Alphaproteobacteria_incertae_sedis	1.37153542290047e-06			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Caulobacterales.Caulobacteraceae	-0.252559052572809			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Caulobacterales.Caulobacteraceae	-0.537865268231793			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Caulobacterales.Caulobacteraceae	0.280463625887408			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Caulobacterales.Caulobacteraceae	0.6551125669262			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Caulobacterales.Caulobacteraceae	0.947756091276908			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales	-0.0701545765887435			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales	-0.20499648708007			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales	-0.808380246637427			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales	0.0734136427291827			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales	0.388582416620217			-
 Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Beijerinckiaceae	0			-
 Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Beijerinckiaceae	0			-
 Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Beijerinckiaceae	0			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Beijerinckiaceae	1.87354697211983e-06			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Bradyrhizobiaceae	-0.41850914382357			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Bradyrhizobiaceae	-0.551496960989352			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Bradyrhizobiaceae	0.0511763462769657			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Bradyrhizobiaceae	0.120479688850784			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Bradyrhizobiaceae	0.203967451650553			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Brucellaceae	-0.0662321635302516			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Brucellaceae	-1.32312375189514e-06			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Brucellaceae	-1.46136716905332e-06			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Brucellaceae	-6.94322958239013e-07			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Brucellaceae	5.70975477010016e-07			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Hyphomicrobiaceae	-0.0158155075748394			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Hyphomicrobiaceae	-0.0662329693385731			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Hyphomicrobiaceae	-1.4862823384254e-06			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Hyphomicrobiaceae	0.0158143950639007			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Hyphomicrobiaceae	0.199059365487684			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Methylobacteriaceae	-0.211288761160766			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Methylobacteriaceae	-0.453147245422475			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Methylobacteriaceae	-0.481961636618205			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Methylobacteriaceae	0.226313725626349			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Methylobacteriaceae	2.47842259010509	body_site_skin	2.47842259010509	0.000572406125044875
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Methylocystaceae	-0.0662316808063843			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Methylocystaceae	-1.0112342381241e-06			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Methylocystaceae	-4.35691225320056e-07			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Methylocystaceae	1.21607011815961e-06			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Methylocystaceae	4.32986979603811e-15			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Phyllobacteriaceae	-0.00740480171226254			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Phyllobacteriaceae	-0.765906415486255			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Phyllobacteriaceae	-0.773311021129783			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Phyllobacteriaceae	-0.773311649930577			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Phyllobacteriaceae	-0.839542490337077			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Rhizobiaceae	-0.307217768909208			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Rhizobiaceae	-0.32589668575788			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Rhizobiaceae	0.0475523562898847			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Rhizobiaceae	0.73368454859453			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Rhizobiaceae	1.50846444743358			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Xanthobacteraceae	-0.0662321635302516			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Xanthobacteraceae	-1.32312375189514e-06			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Xanthobacteraceae	-1.46136716905332e-06			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Xanthobacteraceae	-6.94322958239013e-07			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Xanthobacteraceae	5.70975477010016e-07			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhodobacterales.Rhodobacteraceae	-0.643534370207361			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhodobacterales.Rhodobacteraceae	-0.70101751377982			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhodobacterales.Rhodobacteraceae	0.12371532596407			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhodobacterales.Rhodobacteraceae	0.250506147852117			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhodobacterales.Rhodobacteraceae	1.8189183074132			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales	-0.12986692363702			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales	-0.260930001914542			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales	-0.283170104764766			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales	0.0439902470276923			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales	0.941204671252596			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Acetobacteraceae	-0.170529042512802			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Acetobacteraceae	-0.331715079838711			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Acetobacteraceae	-0.355331523772856			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Acetobacteraceae	0.0426152222192262			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Acetobacteraceae	1.02813620354202			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Rhodospirillaceae	-0.0275506693471432			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Rhodospirillaceae	-0.066232986406267			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Rhodospirillaceae	-6.23220478890296e-07			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Rhodospirillaceae	0.0275499204863268			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Rhodospirillaceae	0.352228828162515			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rickettsiales	-0.0662321635302516			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rickettsiales	-1.32312375189514e-06			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rickettsiales	-1.46136716905332e-06			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rickettsiales	-6.94322958239013e-07			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Rickettsiales	5.70975477010016e-07			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales	-0.477118921873433			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales	-1.02597135065145			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales	-1.05567269001188			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales	0.317044555465501			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales	1.27461425445368			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales.Erythrobacteraceae	-0.0662321635302516			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales.Erythrobacteraceae	-1.32312375189514e-06			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales.Erythrobacteraceae	-1.46136716905332e-06			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales.Erythrobacteraceae	-6.94322958239013e-07			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales.Erythrobacteraceae	5.70975477010016e-07			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales.Sphingomonadaceae	-0.502634498851755			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales.Sphingomonadaceae	-1.17760913231374			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales.Sphingomonadaceae	-1.22880252281569			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales.Sphingomonadaceae	0.386814719085059			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales.Sphingomonadaceae	1.54124099119888			-
-Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales.Sphingomonadaceae.Sphingobium	-0.829790443958098	body_site_nasal	-0.829790443958098	0.000908896117137874
-Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales.Sphingomonadaceae.Sphingobium	-1.1523649669299	oxygen_availability_Mid_O2	-1.1523649669299	0.000566786132977049
-Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales.Sphingomonadaceae.Sphingobium	2.37452885486966	body_site_skin	2.37452885486966	0.000275058271192799
-Bacteria.Proteobacteria.Betaproteobacteria	-1.17791001105585			-
-Bacteria.Proteobacteria.Betaproteobacteria	-3.56562314718556	oxygen_availability_Mid_O2	-3.56562314718556	0.00189836642124221
-Bacteria.Proteobacteria.Betaproteobacteria	0.27742034985844			-
-Bacteria.Proteobacteria.Betaproteobacteria	0.855013472760736			-
-Bacteria.Proteobacteria.Betaproteobacteria	5.21675222826733	body_site_oral	5.21675222826733	1.75702291108648e-05
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales	-0.000417664201796564			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales	-0.352981926611866			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales	-1.82828939683085			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales	1.33908808638751			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales	2.67392490884992	oxygen_availability_Low_O2	2.67392490884992	0.00193795407751645
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Alcaligenaceae	-0.293613831797966			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Alcaligenaceae	-0.87767716699756			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Alcaligenaceae	-0.955574681004651			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Alcaligenaceae	0.358413862894842			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Alcaligenaceae	5.64286995569083	oxygen_availability_Low_O2	5.64286995569083	2.95024653901806e-08
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Alcaligenaceae.Parasutterella	-0.148337283023131			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Alcaligenaceae.Parasutterella	-0.702191282391815			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Alcaligenaceae.Parasutterella	2.2254413566895			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Alcaligenaceae.Parasutterella	4.96406353340986			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Burkholderiaceae	-0.653375639193078			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Burkholderiaceae	-1.96206208665401			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Burkholderiaceae	-2.00909902805574			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Burkholderiaceae	0.146860980020234			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Burkholderiaceae	0.375638139463342			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Burkholderiaceae.Burkholderia	-1.91424410281134			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Burkholderiaceae.Burkholderia	0.0326262111420341			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Burkholderiaceae.Burkholderia	0.150895333489784			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Burkholderiales_incertae_sedis	-0.066232986406282			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Burkholderiales_incertae_sedis	-0.136216686701903			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Burkholderiales_incertae_sedis	0.136215937841071			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Burkholderiales_incertae_sedis	0.759491431934815			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Burkholderiales_incertae_sedis	1.10727645290567			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Comamonadaceae	-1.70593437030892			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Comamonadaceae	-1.73579845856401			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Comamonadaceae	0.447503333445983			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Comamonadaceae	0.77453063004703			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Comamonadaceae	0.929075258339193			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Comamonadaceae.Pelomonas	-3.94584830387477			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Comamonadaceae.Pelomonas	-6.15160961294173			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Comamonadaceae.Pelomonas	-6.34649114236945			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Oxalobacteraceae	-1.14686893125369			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Oxalobacteraceae	0			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Oxalobacteraceae	0.0538616761726705			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Oxalobacteraceae	0.41006836852026			-
-Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Oxalobacteraceae	0.594439845444099			-
-Bacteria.Proteobacteria.Betaproteobacteria.Hydrogenophilales.Hydrogenophilaceae	-0.0662321635302516			-
-Bacteria.Proteobacteria.Betaproteobacteria.Hydrogenophilales.Hydrogenophilaceae	-1.32312375189514e-06			-
-Bacteria.Proteobacteria.Betaproteobacteria.Hydrogenophilales.Hydrogenophilaceae	-1.46136716905332e-06			-
-Bacteria.Proteobacteria.Betaproteobacteria.Hydrogenophilales.Hydrogenophilaceae	-6.94322958239013e-07			-
-Bacteria.Proteobacteria.Betaproteobacteria.Hydrogenophilales.Hydrogenophilaceae	5.70975477010016e-07			-
-Bacteria.Proteobacteria.Betaproteobacteria.Methylophilales.Methylophilaceae	-0.0105898030043454			-
-Bacteria.Proteobacteria.Betaproteobacteria.Methylophilales.Methylophilaceae	-0.0662321635302609			-
-Bacteria.Proteobacteria.Betaproteobacteria.Methylophilales.Methylophilaceae	-6.94322967453864e-07			-
-Bacteria.Proteobacteria.Betaproteobacteria.Methylophilales.Methylophilaceae	0.0105889126126437			-
-Bacteria.Proteobacteria.Betaproteobacteria.Methylophilales.Methylophilaceae	0.136073868859494			-
-Bacteria.Proteobacteria.Betaproteobacteria.Neisseriales.Neisseriaceae	-0.715284787783149			-
-Bacteria.Proteobacteria.Betaproteobacteria.Neisseriales.Neisseriaceae	-4.00916585666462	oxygen_availability_Low_O2	-4.00916585666462	0.00198262985925601
-Bacteria.Proteobacteria.Betaproteobacteria.Neisseriales.Neisseriaceae	-4.48078895296306	oxygen_availability_Mid_O2	-4.48078895296306	0.00476929534444377
-Bacteria.Proteobacteria.Betaproteobacteria.Neisseriales.Neisseriaceae	0.952842282552593			-
-Bacteria.Proteobacteria.Betaproteobacteria.Neisseriales.Neisseriaceae	8.14614566586304	body_site_oral	8.14614566586304	2.6275817282266e-06
-Bacteria.Proteobacteria.Betaproteobacteria.Neisseriales.Neisseriaceae.Kingella	-0.575860902140012			-
-Bacteria.Proteobacteria.Betaproteobacteria.Neisseriales.Neisseriaceae.Kingella	-4.42305971506925			-
-Bacteria.Proteobacteria.Betaproteobacteria.Neisseriales.Neisseriaceae.Kingella	-4.51138023778995			-
-Bacteria.Proteobacteria.Betaproteobacteria.Neisseriales.Neisseriaceae.Neisseria	-0.351739804872672			-
-Bacteria.Proteobacteria.Betaproteobacteria.Neisseriales.Neisseriaceae.Neisseria	-3.28202826718224			-
-Bacteria.Proteobacteria.Betaproteobacteria.Neisseriales.Neisseriaceae.Neisseria	0.596900277832141			-
-Bacteria.Proteobacteria.Betaproteobacteria.Neisseriales.Neisseriaceae.Neisseria	6.24949747930356	oxygen_availability_Mid_O2	6.24949747930356	0.00364407102634552
-Bacteria.Proteobacteria.Betaproteobacteria.Nitrosomonadales.Nitrosomonadaceae	-0.0662315292227999			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Beijerinckiaceae	0.269612756192285			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Beijerinckiaceae	1.8735469749509e-06			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Bradyrhizobiaceae	-0.215652675574295			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Bradyrhizobiaceae	-0.418509143588022			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Bradyrhizobiaceae	0.0511763460413905			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Bradyrhizobiaceae	0.120479688850757			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Bradyrhizobiaceae	0.203967451650528			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Brucellaceae	-1.32312379741428e-06			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Brucellaceae	-1.46160433711628e-06			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Brucellaceae	-6.94323000927088e-07			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Brucellaceae	0.269612121884788			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Brucellaceae	5.71212599220772e-07			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Hyphomicrobiaceae	-0.0158155073386255			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Hyphomicrobiaceae	-1.48628236346093e-06			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Hyphomicrobiaceae	0.0158143948276592			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Hyphomicrobiaceae	0.199059365487656			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Hyphomicrobiaceae	0.269611316076484			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Methylobacteriaceae	-0.146117351203139			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Methylobacteriaceae	-0.211288761160781			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Methylobacteriaceae	-0.453147245186169			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Methylobacteriaceae	0.226313725390024			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Methylobacteriaceae	2.47842259010507	body_site_skin	2.47842259010507	0.000629805636589321
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Methylocystaceae	-1.01170736410694e-06			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Methylocystaceae	-4.35691233757751e-07			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Methylocystaceae	0			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Methylocystaceae	0.269612604608694			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Methylocystaceae	1.21654323559373e-06			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Phyllobacteriaceae	-0.00740480194859416			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Phyllobacteriaceae	-0.503698204922025			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Phyllobacteriaceae	-0.765906415249957			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Phyllobacteriaceae	-0.773311021129814			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Phyllobacteriaceae	-0.77331164993061			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Rhizobiaceae	-0.307217768671074			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Rhizobiaceae	0.00994759965715306			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Rhizobiaceae	0.0475523560517013			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Rhizobiaceae	0.733684548594482			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Rhizobiaceae	1.50846444743353			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Xanthobacteraceae	-1.32312379741428e-06			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Xanthobacteraceae	-1.46160433711628e-06			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Xanthobacteraceae	-6.94323000927088e-07			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Xanthobacteraceae	0.269612121884788			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Xanthobacteraceae	5.71212599220772e-07			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhodobacterales.Rhodobacteraceae	-0.307690084792292			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhodobacterales.Rhodobacteraceae	-0.701017514961095			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhodobacterales.Rhodobacteraceae	0.123715327145328			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhodobacterales.Rhodobacteraceae	0.250506147852104			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhodobacterales.Rhodobacteraceae	1.81891830741319			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales	-0.129867425648606			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales	-0.260929704436919			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales	0.0439906049131575			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales	0.503200777029697			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales	0.685086364391545			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Acetobacteraceae	-0.0194872383578061			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Acetobacteraceae	-0.170529042512835			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Acetobacteraceae	-0.331715084359012			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Acetobacteraceae	0.0426152267394924			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Acetobacteraceae	1.02813620354199			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Rhodospirillaceae	-0.0275506691087134			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Rhodospirillaceae	-6.23220525131085e-07			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Rhodospirillaceae	0.027549920247848			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Rhodospirillaceae	0.269611299008769			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Rhodospirillaceae	0.352228828162465			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rickettsiales	-0.256119629984841			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rickettsiales	-1.10348244786174e-06			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rickettsiales	-1.19633458217638e-06			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rickettsiales	0.720138718264173			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Rickettsiales	8.68453805646929e-07			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales	-0.269301808217443			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales	-0.477119423885042			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales	-1.02597105356831			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales	0.317044913745424			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales	1.01849594759261			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales.Erythrobacteraceae	-1.32312379741428e-06			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales.Erythrobacteraceae	-1.46160433711628e-06			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales.Erythrobacteraceae	-6.94323000927088e-07			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales.Erythrobacteraceae	0.269612121884788			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales.Erythrobacteraceae	5.71212599220772e-07			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales.Sphingomonadaceae	-0.502634498851772			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales.Sphingomonadaceae	-0.89295823740063			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales.Sphingomonadaceae	-1.17760913207852			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales.Sphingomonadaceae	0.386814718849822			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales.Sphingomonadaceae	1.54124099119886			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales.Sphingomonadaceae.Sphingobium	-0.346339541640752			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales.Sphingomonadaceae.Sphingobium	-1.83984900758609			-
+Bacteria.Proteobacteria.Alphaproteobacteria.Sphingomonadales.Sphingomonadaceae.Sphingobium	2.86742300190594			-
+Bacteria.Proteobacteria.Betaproteobacteria	-1.17790919932204			-
+Bacteria.Proteobacteria.Betaproteobacteria	-3.56562425243499	oxygen_availability_Mid_O2	-3.56562425243499	0.00760538264591387
+Bacteria.Proteobacteria.Betaproteobacteria	0.150445647440304			-
+Bacteria.Proteobacteria.Betaproteobacteria	1.09260868512744			-
+Bacteria.Proteobacteria.Betaproteobacteria	4.97958146827245	body_site_oral	4.97958146827245	0.000512017380483447
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales	-0.256535971062874			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales	-0.352982428623477			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales	-1.8282890993497			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales	1.33908844426942			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales	3.46029579064436			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Alcaligenaceae	-0.293613831797973			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Alcaligenaceae	-0.877677166997569			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Alcaligenaceae	-0.955574683882594			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Alcaligenaceae	0.358413865772775			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Alcaligenaceae	5.97871424110591	oxygen_availability_Low_O2	5.97871424110591	1.33849710806901e-06
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Alcaligenaceae.Parasutterella	-0.218740380134471			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Alcaligenaceae.Parasutterella	0.344556863934995			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Alcaligenaceae.Parasutterella	1.53795731596754			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Alcaligenaceae.Parasutterella	4.28753993918989			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Burkholderiaceae	-0.653375639193083			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Burkholderiaceae	-1.67325474264066			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Burkholderiaceae	-1.96206208641581			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Burkholderiaceae	0.146860979782031			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Burkholderiaceae	0.375638139463334			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Burkholderiaceae.Burkholderia	-2.60172814347243			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Burkholderiaceae.Burkholderia	0.525520358192431			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Burkholderiaceae.Burkholderia	0.634346235807729			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Burkholderiales_incertae_sedis	-0.136216688216491			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Burkholderiales_incertae_sedis	0.13621593935565			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Burkholderiales_incertae_sedis	0.269611299008794			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Burkholderiales_incertae_sedis	0.759491431934809			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Burkholderiales_incertae_sedis	1.10727645290566			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Comamonadaceae	-1.37009008489387			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Comamonadaceae	-1.73579845832732			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Comamonadaceae	0.447503333445948			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Comamonadaceae	0.774530629810295			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Comamonadaceae	0.929075258339155			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Comamonadaceae.Pelomonas	-3.46239740155684			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Comamonadaceae.Pelomonas	-5.85359699531906			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Comamonadaceae.Pelomonas	-6.83909365360283			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Oxalobacteraceae	-1.14686893101718			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Oxalobacteraceae	0.0538616759361501			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Oxalobacteraceae	0.335844285415072			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Oxalobacteraceae	0.410068368520251			-
+Bacteria.Proteobacteria.Betaproteobacteria.Burkholderiales.Oxalobacteraceae	0.594439845444086			-
+Bacteria.Proteobacteria.Betaproteobacteria.Hydrogenophilales.Hydrogenophilaceae	-1.32312379741428e-06			-
+Bacteria.Proteobacteria.Betaproteobacteria.Hydrogenophilales.Hydrogenophilaceae	-1.46160433711628e-06			-
+Bacteria.Proteobacteria.Betaproteobacteria.Hydrogenophilales.Hydrogenophilaceae	-6.94323000927088e-07			-
+Bacteria.Proteobacteria.Betaproteobacteria.Hydrogenophilales.Hydrogenophilaceae	0.269612121884788			-
+Bacteria.Proteobacteria.Betaproteobacteria.Hydrogenophilales.Hydrogenophilaceae	5.71212599220772e-07			-
+Bacteria.Proteobacteria.Betaproteobacteria.Methylophilales.Methylophilaceae	-0.0105898027680681			-
+Bacteria.Proteobacteria.Betaproteobacteria.Methylophilales.Methylophilaceae	-6.94323006256159e-07			-
+Bacteria.Proteobacteria.Betaproteobacteria.Methylophilales.Methylophilaceae	0.010588912376325			-
+Bacteria.Proteobacteria.Betaproteobacteria.Methylophilales.Methylophilaceae	0.136073868859452			-
+Bacteria.Proteobacteria.Betaproteobacteria.Methylophilales.Methylophilaceae	0.269612121884783			-
+Bacteria.Proteobacteria.Betaproteobacteria.Neisseriales.Neisseriaceae	-0.715284787783171			-
+Bacteria.Proteobacteria.Betaproteobacteria.Neisseriales.Neisseriaceae	-3.67332157124956			-
+Bacteria.Proteobacteria.Betaproteobacteria.Neisseriales.Neisseriaceae	-4.48078895272904	oxygen_availability_Mid_O2	-4.48078895272904	0.00529551143594493
+Bacteria.Proteobacteria.Betaproteobacteria.Neisseriales.Neisseriaceae	0.952842282552572			-
+Bacteria.Proteobacteria.Betaproteobacteria.Neisseriales.Neisseriaceae	8.14614566562901	body_site_oral	8.14614566562901	3.97974602264147e-06
+Bacteria.Proteobacteria.Betaproteobacteria.Neisseriales.Neisseriaceae.Kingella	-1.263344942802			-
+Bacteria.Proteobacteria.Betaproteobacteria.Neisseriales.Neisseriaceae.Kingella	-3.930165568018			-
+Bacteria.Proteobacteria.Betaproteobacteria.Neisseriales.Neisseriaceae.Kingella	-4.02792933547344			-
+Bacteria.Proteobacteria.Betaproteobacteria.Neisseriales.Neisseriaceae.Neisseria	-3.95855186080687			-
+Bacteria.Proteobacteria.Betaproteobacteria.Neisseriales.Neisseriaceae.Neisseria	0.131711092931649			-
+Bacteria.Proteobacteria.Betaproteobacteria.Neisseriales.Neisseriaceae.Neisseria	1.08979442047836			-
+Bacteria.Proteobacteria.Betaproteobacteria.Neisseriales.Neisseriaceae.Neisseria	5.56201343545911			-
 Bacteria.Proteobacteria.Betaproteobacteria.Nitrosomonadales.Nitrosomonadaceae	0			-
 Bacteria.Proteobacteria.Betaproteobacteria.Nitrosomonadales.Nitrosomonadaceae	0			-
 Bacteria.Proteobacteria.Betaproteobacteria.Nitrosomonadales.Nitrosomonadaceae	0			-
-Bacteria.Proteobacteria.Betaproteobacteria.Nitrosomonadales.Nitrosomonadaceae	1.87354697211983e-06			-
-Bacteria.Proteobacteria.Betaproteobacteria.Rhodocyclales.Rhodocyclaceae	-0.0662322645825339			-
-Bacteria.Proteobacteria.Betaproteobacteria.Rhodocyclales.Rhodocyclaceae	-1.07925480707927e-06			-
-Bacteria.Proteobacteria.Betaproteobacteria.Rhodocyclales.Rhodocyclaceae	-1.47984721943217e-06			-
-Bacteria.Proteobacteria.Betaproteobacteria.Rhodocyclales.Rhodocyclaceae	0.00818251733133168			-
-Bacteria.Proteobacteria.Betaproteobacteria.Rhodocyclales.Rhodocyclaceae	0.145276056364154			-
-Bacteria.Proteobacteria.Deltaproteobacteria	-0.00740256649982252			-
-Bacteria.Proteobacteria.Deltaproteobacteria	-0.0376139727883622			-
-Bacteria.Proteobacteria.Deltaproteobacteria	-0.0975489920784441			-
-Bacteria.Proteobacteria.Deltaproteobacteria	0.277029640694986			-
-Bacteria.Proteobacteria.Deltaproteobacteria	0.96534132829482			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Bdellovibrionales	-0.018939358886236			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Bdellovibrionales	-0.0662316808063855			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Bdellovibrionales	0.0189395637221133			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Bdellovibrionales	0.236838543005573			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Bdellovibrionales	3.05311331771918e-15			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Bdellovibrionales.Bacteriovoracaceae	-0.0662315292227999			-
+Bacteria.Proteobacteria.Betaproteobacteria.Nitrosomonadales.Nitrosomonadaceae	0.269612756192285			-
+Bacteria.Proteobacteria.Betaproteobacteria.Nitrosomonadales.Nitrosomonadaceae	1.8735469749509e-06			-
+Bacteria.Proteobacteria.Betaproteobacteria.Rhodocyclales.Rhodocyclaceae	-1.07925482961679e-06			-
+Bacteria.Proteobacteria.Betaproteobacteria.Rhodocyclales.Rhodocyclaceae	-1.4798472449673e-06			-
+Bacteria.Proteobacteria.Betaproteobacteria.Rhodocyclales.Rhodocyclaceae	0.00818251756786015			-
+Bacteria.Proteobacteria.Betaproteobacteria.Rhodocyclales.Rhodocyclaceae	0.145276056127599			-
+Bacteria.Proteobacteria.Betaproteobacteria.Rhodocyclales.Rhodocyclaceae	0.269612020832526			-
+Bacteria.Proteobacteria.Deltaproteobacteria	-0.037613161054542			-
+Bacteria.Proteobacteria.Deltaproteobacteria	-0.0975500973197726			-
+Bacteria.Proteobacteria.Deltaproteobacteria	-0.244573326502799			-
+Bacteria.Proteobacteria.Deltaproteobacteria	0.150054938276858			-
+Bacteria.Proteobacteria.Deltaproteobacteria	1.20293654066153			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Bdellovibrionales	-0.0189390614088809			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Bdellovibrionales	-0.019279763855466			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Bdellovibrionales	-5.02011570036043e-07			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Bdellovibrionales	0.0189399216078587			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Bdellovibrionales	0.72013920098809			-
 Bacteria.Proteobacteria.Deltaproteobacteria.Bdellovibrionales.Bacteriovoracaceae	0			-
 Bacteria.Proteobacteria.Deltaproteobacteria.Bdellovibrionales.Bacteriovoracaceae	0			-
 Bacteria.Proteobacteria.Deltaproteobacteria.Bdellovibrionales.Bacteriovoracaceae	0			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Bdellovibrionales.Bacteriovoracaceae	1.87354697211983e-06			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfobacterales	-0.0662315292227999			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfobacterales	0			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfobacterales	0			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfobacterales	0			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfobacterales	1.87354697211983e-06			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfobacterales.Desulfobulbaceae	-0.0662315191727861			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfobacterales.Desulfobulbaceae	-1.31437485173524e-07			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfobacterales.Desulfobulbaceae	-2.80856586631906e-06			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfobacterales.Desulfobulbaceae	-3.0034388753819e-07			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfobacterales.Desulfobulbaceae	1.63927099383621e-06			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfovibrionales	-0.000805992571942804			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfovibrionales	-0.0842714666260807			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfovibrionales	-0.307750989297154			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfovibrionales	-0.308557622396203			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfovibrionales	2.39584616937281	oxygen_availability_Low_O2	2.39584616937281	0.000273763838015242
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfovibrionales.Desulfovibrionaceae	-0.00740351974874009			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfovibrionales.Desulfovibrionaceae	-0.0900449895001524			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfovibrionales.Desulfovibrionaceae	-0.367887532035051			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfovibrionales.Desulfovibrionaceae	-0.375291051783791			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfovibrionales.Desulfovibrionaceae	2.10155928393705	oxygen_availability_Low_O2	2.10155928393705	0.00372661421268869
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfuromonadales	-0.00740480171226854			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfuromonadales	-0.0662321635302696			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfuromonadales	-1.3231237701028e-06			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfuromonadales	0.00740391132055851			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfuromonadales	0.618652161963941			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfuromonadales.Geobacteraceae	-0.00740612704512911			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfuromonadales.Geobacteraceae	-0.0662315191728132			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfuromonadales.Geobacteraceae	-3.00343914405587e-07			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfuromonadales.Geobacteraceae	0.00740495775022942			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Desulfuromonadales.Geobacteraceae	0.717659024234344			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales	-0.0662337004404525			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales	-1.44307553839873e-06			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales	-5.94719602453608e-07			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales	-7.16006562040405e-07			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales	5.02011605174602e-07			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Cystobacteraceae	-0.0662321635302516			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Cystobacteraceae	-1.32312375189514e-06			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Cystobacteraceae	-1.46136716905332e-06			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Cystobacteraceae	-6.94322958239013e-07			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Cystobacteraceae	5.70975477010016e-07			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Myxococcaceae	-0.0662315191727861			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Myxococcaceae	-1.31437485173524e-07			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Myxococcaceae	-2.80856586631906e-06			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Myxococcaceae	-3.0034388753819e-07			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Myxococcaceae	1.63927099383621e-06			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Nannocystaceae	-0.0662315292227999			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Bdellovibrionales.Bacteriovoracaceae	0.269612756192285			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Bdellovibrionales.Bacteriovoracaceae	1.8735469749509e-06			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfobacterales	-0.256118306861044			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfobacterales	0.72013935257167			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfobacterales	1.37153539370161e-06			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfobacterales	2.97241206426158e-07			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfobacterales	3.58121889254548e-07			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfobacterales.Desulfobulbaceae	-1.31437494443887e-07			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfobacterales.Desulfobulbaceae	-2.80903753990813e-06			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfobacterales.Desulfobulbaceae	-3.0034389908451e-07			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfobacterales.Desulfobulbaceae	0.269612766242287			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfobacterales.Desulfobulbaceae	1.63974265521283e-06			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfovibrionales	-0.000805634683143097			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfovibrionales	-0.0842719686376236			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfovibrionales	-0.307750691822823			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfovibrionales	-0.564675929257211			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfovibrionales	3.18221705116731			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfovibrionales.Desulfovibrionaceae	-0.00740351998505395			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfovibrionales.Desulfovibrionaceae	-0.0900449895001608			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfovibrionales.Desulfovibrionaceae	-0.367887531798748			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfovibrionales.Desulfovibrionaceae	-0.375291051783802			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfovibrionales.Desulfovibrionaceae	2.43740356935212			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfuromonadales	-0.0074044438267018			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfuromonadales	-0.256119629984836			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfuromonadales	0.00740420879806525			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfuromonadales	0.61865165995234			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfuromonadales	0.720138718264179			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfuromonadales.Geobacteraceae	-0.00740612728144585			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfuromonadales.Geobacteraceae	-3.00343907966294e-07			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfuromonadales.Geobacteraceae	0.00740495798655239			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfuromonadales.Geobacteraceae	0.269612766242278			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Desulfuromonadales.Geobacteraceae	0.717659024234353			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales	-0.256119749936609			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales	-2.97241206426158e-07			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales	-3.58121889032503e-07			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales	0			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales	0.720137181353991			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Cystobacteraceae	-1.32312379741428e-06			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Cystobacteraceae	-1.46160433711628e-06			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Cystobacteraceae	-6.94323000927088e-07			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Cystobacteraceae	0.269612121884788			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Cystobacteraceae	5.71212599220772e-07			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Myxococcaceae	-1.31437494443887e-07			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Myxococcaceae	-2.80903753990813e-06			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Myxococcaceae	-3.0034389908451e-07			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Myxococcaceae	0.269612766242287			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Myxococcaceae	1.63974265521283e-06			-
 Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Nannocystaceae	0			-
 Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Nannocystaceae	0			-
 Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Nannocystaceae	0			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Nannocystaceae	1.87354697211983e-06			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Polyangiaceae	-0.0662315292227999			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Nannocystaceae	0.269612756192285			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Nannocystaceae	1.8735469749509e-06			-
 Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Polyangiaceae	0			-
 Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Polyangiaceae	0			-
 Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Polyangiaceae	0			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Polyangiaceae	1.87354697211983e-06			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Syntrophobacterales.Syntrophobacteraceae	-0.0662315191727861			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Syntrophobacterales.Syntrophobacteraceae	-1.31437485173524e-07			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Syntrophobacterales.Syntrophobacteraceae	-2.80856586631906e-06			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Syntrophobacterales.Syntrophobacteraceae	-3.0034388753819e-07			-
-Bacteria.Proteobacteria.Deltaproteobacteria.Syntrophobacterales.Syntrophobacteraceae	1.63927099383621e-06			-
-Bacteria.Proteobacteria.Epsilonproteobacteria	0.0675306416198685			-
-Bacteria.Proteobacteria.Epsilonproteobacteria	0.368923968816738			-
-Bacteria.Proteobacteria.Epsilonproteobacteria	1.60356390756814			-
-Bacteria.Proteobacteria.Epsilonproteobacteria	1.8701246576374			-
-Bacteria.Proteobacteria.Epsilonproteobacteria	5.86287866504815	body_site_oral	5.86287866504815	2.04551332979051e-07
-Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales	0.0794759152705848			-
-Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales	0.395973166330065			-
-Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales	1.66741400815827			-
-Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales	1.96601729566555			-
-Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales	5.99007417866826	body_site_oral	5.99007417866826	2.13071984001384e-07
-Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales.Campylobacteraceae	0.168049543130176			-
-Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales.Campylobacteraceae	0.587943245344049			-
-Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales.Campylobacteraceae	1.9076401175723			-
-Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales.Campylobacteraceae	2.09979117851305			-
-Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales.Campylobacteraceae	6.76239734733702	body_site_oral	6.76239734733702	2.82975494335665e-07
-Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales.Helicobacteraceae	-0.00740351974873676			-
-Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales.Helicobacteraceae	-0.0662315292227977			-
-Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales.Helicobacteraceae	0.00740351974873876			-
-Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales.Helicobacteraceae	0.90230614277598			-
-Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales.Helicobacteraceae	1.99840144432528e-15			-
-Bacteria.Proteobacteria.Gammaproteobacteria	-1.27377156734005			-
-Bacteria.Proteobacteria.Gammaproteobacteria	-1.67862573260324			-
-Bacteria.Proteobacteria.Gammaproteobacteria	1.28772814390622			-
-Bacteria.Proteobacteria.Gammaproteobacteria	1.64298299061646			-
-Bacteria.Proteobacteria.Gammaproteobacteria	4.93200641718838	body_site_oral	4.93200641718838	1.39002751178856e-05
-Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales	-0.0246552202449117			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales	-0.0662316808063916			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales	-3.10862446895044e-15			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales	0.0246554250807827			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales	0.414102961193035			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Aeromonadaceae	-0.0273157418182076			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Aeromonadaceae	-0.0662315292227889			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Aeromonadaceae	0.0273157418182186			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Aeromonadaceae	0.484491061191448			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Aeromonadaceae	1.87354698300002e-06			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Succinivibrionaceae	-0.0662315191727861			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Succinivibrionaceae	-1.31437485173524e-07			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Succinivibrionaceae	-2.80856586631906e-06			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Succinivibrionaceae	-3.0034388753819e-07			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Succinivibrionaceae	1.63927099383621e-06			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Alteromonadales	-0.0144308762634242			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Alteromonadales	-0.0662316808063952			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Alteromonadales	-6.55031584528842e-15			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Alteromonadales	0.0144310810992888			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Alteromonadales	0.249966290665076			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Alteromonadales.Alteromonadaceae	-0.0662315191727861			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Alteromonadales.Alteromonadaceae	-1.31437485173524e-07			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Alteromonadales.Alteromonadaceae	-2.80856586631906e-06			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Alteromonadales.Alteromonadaceae	-3.0034388753819e-07			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Alteromonadales.Alteromonadaceae	1.63927099383621e-06			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Cardiobacteriales.Cardiobacteriaceae	-7.54951656745106e-15			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Cardiobacteriales.Cardiobacteriaceae	0.00619686097380245			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Cardiobacteriales.Cardiobacteriaceae	0.204441346234633			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Cardiobacteriales.Cardiobacteriaceae	0.362719175403811			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Cardiobacteriales.Cardiobacteriaceae	4.18084249496384	body_site_oral	4.18084249496384	8.59073970440197e-05
-Bacteria.Proteobacteria.Gammaproteobacteria.Chromatiales	-0.00740612704513488			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Chromatiales	-0.642579828282681			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Chromatiales	-0.649984917470429			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Chromatiales	-0.649985086376831			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Chromatiales	-0.716216305205729			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacteriales.Enterobacteriaceae	-0.0767619017971866			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacteriales.Enterobacteriaceae	-0.609287583945891			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacteriales.Enterobacteriaceae	-1.10323562972753			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacteriales.Enterobacteriaceae	1.01873757733082			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacteriales.Enterobacteriaceae	1.88615498158057			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacteriales.Enterobacteriaceae.Escherichia_Shigella	-0.342042455539621			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacteriales.Enterobacteriaceae.Escherichia_Shigella	-0.946014701365403			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacteriales.Enterobacteriaceae.Escherichia_Shigella	-0.996464767887066			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacteriales.Enterobacteriaceae.Escherichia_Shigella	1.02388251145051			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacteriales.Enterobacteriaceae.Providencia	-3.41395348917818			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacteriales.Enterobacteriaceae.Providencia	-3.52540238147951			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacteriales.Enterobacteriaceae.Providencia	-3.60823689408663			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Legionellales	-0.00740351974873721			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Legionellales	-0.0662315292227919			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Legionellales	0.00740351974874509			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Legionellales	0.285244022396415			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Legionellales	1.87354698016895e-06			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Legionellales.Legionellaceae	-0.00740612704513199			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Legionellales.Legionellaceae	-0.0662315191728019			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Legionellales.Legionellaceae	-1.31437500994203e-07			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Legionellales.Legionellaceae	0.00740495775024363			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Legionellales.Legionellaceae	0.336922805948861			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Methylococcales.Methylococcaceae	-0.0662315191727861			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Methylococcales.Methylococcaceae	-1.31437485173524e-07			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Methylococcales.Methylococcaceae	-2.80856586631906e-06			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Methylococcales.Methylococcaceae	-3.0034388753819e-07			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Methylococcales.Methylococcaceae	1.63927099383621e-06			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Oceanospirillales	-0.0662315292227999			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Oceanospirillales	0			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Oceanospirillales	0			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Oceanospirillales	0			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Oceanospirillales	1.87354697211983e-06			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Oceanospirillales.Halomonadaceae	-0.0662315191727861			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Oceanospirillales.Halomonadaceae	-1.31437485173524e-07			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Oceanospirillales.Halomonadaceae	-2.80856586631906e-06			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Oceanospirillales.Halomonadaceae	-3.0034388753819e-07			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Oceanospirillales.Halomonadaceae	1.63927099383621e-06			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Pasteurellales.Pasteurellaceae	-0.163257448246646			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Pasteurellales.Pasteurellaceae	0.651083187969191			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Pasteurellales.Pasteurellaceae	1.46691385329122			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Pasteurellales.Pasteurellaceae	2.12876507091026			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Pasteurellales.Pasteurellaceae	7.67512685209013	body_site_oral	7.67512685209013	4.77687883789731e-09
-Bacteria.Proteobacteria.Gammaproteobacteria.Pasteurellales.Pasteurellaceae.Haemophilus	0.193362193421684			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Pasteurellales.Pasteurellaceae.Haemophilus	0.809008024173925			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Pasteurellales.Pasteurellaceae.Haemophilus	1.26025519761815			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Pasteurellales.Pasteurellaceae.Haemophilus	6.20882743218769	oxygen_availability_Mid_O2	6.20882743218769	0.00107165234604836
-Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales	-0.0254886179982952			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales	-2.53769966811685			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales	-2.70391622557409	oxygen_availability_Low_O2	-2.70391622557409	0.00635097384377429
-Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales	0.844357102941321			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales	1.74827908665392			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Moraxellaceae	-2.15810206029922			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Moraxellaceae	-2.44634633926185			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Moraxellaceae	0.477856709026261			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Moraxellaceae	0.763160590597262			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Moraxellaceae	2.18815432380475			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Pseudomonadaceae	-0.504875872746969			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Pseudomonadaceae	-1.24288073895127			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Pseudomonadaceae	-1.8139884973405			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Pseudomonadaceae	0.883848363952159			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Pseudomonadaceae	2.34048064152877	body_site_skin	2.34048064152877	0.0044690527804397
-Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Pseudomonadaceae.Pseudomonas	-0.561977218066143			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Pseudomonadaceae.Pseudomonas	0.937256393098713			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Pseudomonadaceae.Pseudomonas	1.17431406123673			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Thiotrichales	-0.0662315191727861			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Thiotrichales	-1.31437485173524e-07			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Thiotrichales	-2.80856586631906e-06			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Thiotrichales	-3.0034388753819e-07			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Thiotrichales	1.63927099383621e-06			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Vibrionales.Vibrionaceae	-0.0662315292227999			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Polyangiaceae	0.269612756192285			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Myxococcales.Polyangiaceae	1.8735469749509e-06			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Syntrophobacterales.Syntrophobacteraceae	-1.31437494443887e-07			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Syntrophobacterales.Syntrophobacteraceae	-2.80903753990813e-06			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Syntrophobacterales.Syntrophobacteraceae	-3.0034389908451e-07			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Syntrophobacterales.Syntrophobacteraceae	0.269612766242287			-
+Bacteria.Proteobacteria.Deltaproteobacteria.Syntrophobacterales.Syntrophobacteraceae	1.63974265521283e-06			-
+Bacteria.Proteobacteria.Epsilonproteobacteria	0.305125853986603			-
+Bacteria.Proteobacteria.Epsilonproteobacteria	0.368924780550579			-
+Bacteria.Proteobacteria.Epsilonproteobacteria	1.60356280232997			-
+Bacteria.Proteobacteria.Epsilonproteobacteria	1.74314995521929			-
+Bacteria.Proteobacteria.Epsilonproteobacteria	5.62570790504204	body_site_oral	5.62570790504204	3.75916674405865e-05
+Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales	0.139854859469011			-
+Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales	0.865846797065044			-
+Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales	1.66741430563579			-
+Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales	1.96601679365396			-
+Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales	5.99007453655382	body_site_oral	5.99007453655382	2.54500173279889e-06
+Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales.Campylobacteraceae	0.5038938285452			-
+Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales.Campylobacteraceae	0.587943245343991			-
+Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales.Campylobacteraceae	1.90764011757225			-
+Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales.Campylobacteraceae	2.09979117875211			-
+Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales.Campylobacteraceae	6.7623973470979	body_site_oral	6.7623973470979	6.11911519803337e-07
+Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales.Helicobacteraceae	-0.00740351998505084			-
+Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales.Helicobacteraceae	-9.10382880192628e-15			-
+Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales.Helicobacteraceae	0.00740351998504174			-
+Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales.Helicobacteraceae	0.269612756192276			-
+Bacteria.Proteobacteria.Epsilonproteobacteria.Campylobacterales.Helicobacteraceae	0.902306142775972			-
+Bacteria.Proteobacteria.Gammaproteobacteria	-1.03617635497336			-
+Bacteria.Proteobacteria.Gammaproteobacteria	-1.67862683783616			-
+Bacteria.Proteobacteria.Gammaproteobacteria	1.28772895564001			-
+Bacteria.Proteobacteria.Gammaproteobacteria	1.5160082881983			-
+Bacteria.Proteobacteria.Gammaproteobacteria	4.69483565717697	body_site_oral	4.69483565717697	0.000582220256845319
+Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales	-0.0246549227559441			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales	-5.02011576308803e-07			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales	0.0246557829549159			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales	0.157984654331996			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales	0.720139200988084			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Aeromonadaceae	-0.0273157415819599			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Aeromonadaceae	0.0273157415819691			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Aeromonadaceae	0.269612756192295			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Aeromonadaceae	0.484491061191446			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Aeromonadaceae	1.87354698422126e-06			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Succinivibrionaceae	-1.31437494443887e-07			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Succinivibrionaceae	-2.80903753990813e-06			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Succinivibrionaceae	-3.0034389908451e-07			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Succinivibrionaceae	0.269612766242287			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Succinivibrionaceae	1.63974265521283e-06			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Alteromonadales	-0.00615201619595207			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Alteromonadales	-0.014430518377839			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Alteromonadales	-5.02011573866312e-07			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Alteromonadales	0.0144313785768149			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Alteromonadales	0.720139200988086			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Alteromonadales.Alteromonadaceae	-1.31437494443887e-07			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Alteromonadales.Alteromonadaceae	-2.80903753990813e-06			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Alteromonadales.Alteromonadaceae	-3.0034389908451e-07			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Alteromonadales.Alteromonadaceae	0.269612766242287			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Alteromonadales.Alteromonadaceae	1.63974265521283e-06			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Cardiobacteriales.Cardiobacteriaceae	-1.11022302462516e-15			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Cardiobacteriales.Cardiobacteriaceae	0.00619686121108354			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Cardiobacteriales.Cardiobacteriaceae	0.204441346234641			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Cardiobacteriales.Cardiobacteriaceae	0.698563460818902			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Cardiobacteriales.Cardiobacteriaceae	4.18084249472657	body_site_oral	4.18084249472657	0.00016902871059415
+Bacteria.Proteobacteria.Gammaproteobacteria.Chromatiales	-0.00740576915955393			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Chromatiales	-0.642579530805163			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Chromatiales	-0.649985419482004			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Chromatiales	-0.906103393237872			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Chromatiales	0.0701545765887436			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacteriales.Enterobacteriaceae	-0.0767619020327874			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacteriales.Enterobacteriaceae	-0.273443298530831			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacteriales.Enterobacteriaceae	-1.10323562949195			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacteriales.Enterobacteriaceae	1.0187375773308			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacteriales.Enterobacteriaceae	1.88615498158055			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacteriales.Enterobacteriaceae.Escherichia_Shigella	-1.62253829560703			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacteriales.Enterobacteriaceae.Escherichia_Shigella	-1.68394880854817			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacteriales.Enterobacteriaceae.Escherichia_Shigella	0.150851691510767			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacteriales.Enterobacteriaceae.Escherichia_Shigella	1.50733341376844			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacteriales.Enterobacteriaceae.Providencia	-2.92105934212778			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacteriales.Enterobacteriaceae.Providencia	-3.12478599176868			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Enterobacteriales.Enterobacteriaceae.Providencia	-4.2128864221406			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Legionellales	-0.00740316186316159			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Legionellales	0.00740381722625427			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Legionellales	0.0291257155353597			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Legionellales	0.720139352571667			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Legionellales	1.37153539053747e-06			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Legionellales.Legionellaceae	-0.00740612728144296			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Legionellales.Legionellaceae	-1.31437494721443e-07			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Legionellales.Legionellaceae	0.00740495798655805			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Legionellales.Legionellaceae	0.269612766242287			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Legionellales.Legionellaceae	0.336922805948864			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Methylococcales.Methylococcaceae	-1.31437494443887e-07			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Methylococcales.Methylococcaceae	-2.80903753990813e-06			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Methylococcales.Methylococcaceae	-3.0034389908451e-07			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Methylococcales.Methylococcaceae	0.269612766242287			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Methylococcales.Methylococcaceae	1.63974265521283e-06			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Oceanospirillales	-0.256118306861044			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Oceanospirillales	0.72013935257167			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Oceanospirillales	1.37153539370161e-06			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Oceanospirillales	2.97241206426158e-07			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Oceanospirillales	3.58121889254548e-07			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Oceanospirillales.Halomonadaceae	-1.31437494443887e-07			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Oceanospirillales.Halomonadaceae	-2.80903753990813e-06			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Oceanospirillales.Halomonadaceae	-3.0034389908451e-07			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Oceanospirillales.Halomonadaceae	0.269612766242287			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Oceanospirillales.Halomonadaceae	1.63974265521283e-06			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pasteurellales.Pasteurellaceae	-0.163257448008611			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pasteurellales.Pasteurellaceae	0.986927473384245			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pasteurellales.Pasteurellaceae	1.46691385329119			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pasteurellales.Pasteurellaceae	2.12876507091023			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pasteurellales.Pasteurellaceae	7.67512685185206	body_site_oral	7.67512685185206	1.40573465814864e-08
+Bacteria.Proteobacteria.Gammaproteobacteria.Pasteurellales.Pasteurellaceae.Haemophilus	0.132484429932361			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pasteurellales.Pasteurellaceae.Haemophilus	0.686256340472134			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pasteurellales.Pasteurellaceae.Haemophilus	1.74370609993615			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pasteurellales.Pasteurellaceae.Haemophilus	5.52134339152665			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales	-0.0254882601127162			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales	-1.91754534377965			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales	-2.53769937063937			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales	0.84435660092971			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales	1.49216077979285			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Moraxellaceae	-1.82225777488413			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Moraxellaceae	-2.44634633902424			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Moraxellaceae	0.477856708788654			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Moraxellaceae	0.763160590597263			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Moraxellaceae	2.18815432380476			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Pseudomonadaceae	-0.504875872966756			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Pseudomonadaceae	-1.24288073873147			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Pseudomonadaceae	-1.4781442119254			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Pseudomonadaceae	0.883848363952175			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Pseudomonadaceae	2.34048064152879	body_site_skin	2.34048064152879	0.00463071669341224
+Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Pseudomonadaceae.Pseudomonas	-1.24946125872862			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Pseudomonadaceae.Pseudomonas	1.43015054014714			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Pseudomonadaceae.Pseudomonas	1.65776496355654			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Thiotrichales	-0.256118607204943			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Thiotrichales	-2.45091565065358e-06			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Thiotrichales	-6.33449075693182e-07			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Thiotrichales	0.720139362621672			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Thiotrichales	1.93698386163899e-06			-
 Bacteria.Proteobacteria.Gammaproteobacteria.Vibrionales.Vibrionaceae	0			-
 Bacteria.Proteobacteria.Gammaproteobacteria.Vibrionales.Vibrionaceae	0			-
 Bacteria.Proteobacteria.Gammaproteobacteria.Vibrionales.Vibrionaceae	0			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Vibrionales.Vibrionaceae	1.87354697211983e-06			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales	-0.340757177845322			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales	-0.465760698130579			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales	-0.611092916681393			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales	-1.01808044440463			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales	0.278038481789469			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales.Sinobacteraceae	-0.0662321635302516			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales.Sinobacteraceae	-1.32312375189514e-06			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales.Sinobacteraceae	-1.46136716905332e-06			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales.Sinobacteraceae	-6.94322958239013e-07			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales.Sinobacteraceae	5.70975477010016e-07			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales.Xanthomonadaceae	-0.40009896136473			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales.Xanthomonadaceae	-0.513366176367817			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales.Xanthomonadaceae	-0.683042479492603			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales.Xanthomonadaceae	-1.14937383057162			-
-Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales.Xanthomonadaceae	0.282734001820699			-
-Bacteria.Spirochaetes.Spirochaetes.Spirochaetales	-0.0662316808063832			-
-Bacteria.Spirochaetes.Spirochaetes.Spirochaetales	-0.256646045975628			-
-Bacteria.Spirochaetes.Spirochaetes.Spirochaetales	0.448119985570261			-
-Bacteria.Spirochaetes.Spirochaetes.Spirochaetales	0.782724398608053			-
-Bacteria.Spirochaetes.Spirochaetes.Spirochaetales	5.29552213153975	body_site_oral	5.29552213153975	0.000107814049697869
-Bacteria.Spirochaetes.Spirochaetes.Spirochaetales.Spirochaetaceae	-0.0662315191728083			-
-Bacteria.Spirochaetes.Spirochaetes.Spirochaetales.Spirochaetaceae	-0.313349569655322			-
-Bacteria.Spirochaetes.Spirochaetes.Spirochaetales.Spirochaetaceae	0.666096061404353			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Vibrionales.Vibrionaceae	0.269612756192285			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Vibrionales.Vibrionaceae	1.8735469749509e-06			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales	-0.231709562610175			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales	-0.340756819959757			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales	-0.465761200142172			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales	-0.611092619203876			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales	0.0219201749284108			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales.Sinobacteraceae	-1.32312379741428e-06			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales.Sinobacteraceae	-1.46160433711628e-06			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales.Sinobacteraceae	-6.94323000927088e-07			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales.Sinobacteraceae	0.269612121884788			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales.Sinobacteraceae	5.71212599220772e-07			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales.Xanthomonadaceae	-0.400098961601064			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales.Xanthomonadaceae	-0.51336617636783			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales.Xanthomonadaceae	-0.683042479256285			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales.Xanthomonadaceae	-0.813529545156552			-
+Bacteria.Proteobacteria.Gammaproteobacteria.Xanthomonadales.Xanthomonadaceae	0.282734001820683			-
+Bacteria.Spirochaetes.Spirochaetes.Spirochaetales	-0.256645748498123			-
+Bacteria.Spirochaetes.Spirochaetes.Spirochaetales	0.192001678709194			-
+Bacteria.Spirochaetes.Spirochaetes.Spirochaetales	0.720139200988066			-
+Bacteria.Spirochaetes.Spirochaetes.Spirochaetales	0.782723896596454			-
+Bacteria.Spirochaetes.Spirochaetes.Spirochaetales	5.29552248942532	body_site_oral	5.29552248942532	0.000301506873394912
+Bacteria.Spirochaetes.Spirochaetes.Spirochaetales.Spirochaetaceae	-0.313349569730606			-
+Bacteria.Spirochaetes.Spirochaetes.Spirochaetales.Spirochaetaceae	0.269612766242277			-
+Bacteria.Spirochaetes.Spirochaetes.Spirochaetales.Spirochaetaceae	0.666096061404354			-
 Bacteria.Spirochaetes.Spirochaetes.Spirochaetales.Spirochaetaceae	1.0348800197493			-
-Bacteria.Spirochaetes.Spirochaetes.Spirochaetales.Spirochaetaceae	6.26213960570487	body_site_oral	6.26213960570487	5.96837317931846e-05
-Bacteria.Synergistetes.Synergistia.Synergistales.Synergistaceae	-0.0662316808063809			-
-Bacteria.Synergistetes.Synergistia.Synergistales.Synergistaceae	-0.0671241985028127			-
-Bacteria.Synergistetes.Synergistia.Synergistales.Synergistaceae	-4.35691223765744e-07			-
-Bacteria.Synergistetes.Synergistia.Synergistales.Synergistaceae	2.01055410453037	body_site_oral	2.01055410453037	0.0103988307542226
-Bacteria.Synergistetes.Synergistia.Synergistales.Synergistaceae	7.60502771868232e-15			-
-Bacteria.Tenericutes.Mollicutes	-0.0662329864062736			-
-Bacteria.Tenericutes.Mollicutes	-3.60850538797732	body_site_oral	-3.60850538797732	0.00216358677734416
-Bacteria.Tenericutes.Mollicutes	-6.23220485274079e-07			-
-Bacteria.Tenericutes.Mollicutes	0.130580457095404			-
-Bacteria.Tenericutes.Mollicutes	4.71859178261305	oxygen_availability_Mid_O2	4.71859178261305	0.000104754568362154
-Bacteria.Tenericutes.Mollicutes.Anaeroplasmatales.Anaeroplasmataceae	-0.0662315191727861			-
-Bacteria.Tenericutes.Mollicutes.Anaeroplasmatales.Anaeroplasmataceae	-1.31437485173524e-07			-
-Bacteria.Tenericutes.Mollicutes.Anaeroplasmatales.Anaeroplasmataceae	-2.80856586631906e-06			-
-Bacteria.Tenericutes.Mollicutes.Anaeroplasmatales.Anaeroplasmataceae	-3.0034388753819e-07			-
-Bacteria.Tenericutes.Mollicutes.Anaeroplasmatales.Anaeroplasmataceae	1.63927099383621e-06			-
-Bacteria.Tenericutes.Mollicutes.Mycoplasmatales.Mycoplasmataceae	-0.0662315191727985			-
-Bacteria.Tenericutes.Mollicutes.Mycoplasmatales.Mycoplasmataceae	-1.31437497719045e-07			-
-Bacteria.Tenericutes.Mollicutes.Mycoplasmatales.Mycoplasmataceae	-4.12499870792221	body_site_oral	-4.12499870792221	0.00260761941142732
-Bacteria.Tenericutes.Mollicutes.Mycoplasmatales.Mycoplasmataceae	0.243739867002611			-
-Bacteria.Tenericutes.Mollicutes.Mycoplasmatales.Mycoplasmataceae	5.66119184332371	oxygen_availability_Mid_O2	5.66119184332371	7.13184447297969e-05
-Bacteria.Thermotogae.Thermotogae.Thermotogales.Thermotogaceae	-0.0662315191727861			-
-Bacteria.Thermotogae.Thermotogae.Thermotogales.Thermotogaceae	-1.31437485173524e-07			-
-Bacteria.Thermotogae.Thermotogae.Thermotogales.Thermotogaceae	-2.80856586631906e-06			-
-Bacteria.Thermotogae.Thermotogae.Thermotogales.Thermotogaceae	-3.0034388753819e-07			-
-Bacteria.Thermotogae.Thermotogae.Thermotogales.Thermotogaceae	1.63927099383621e-06			-
-Bacteria.TM7.TM7_genera_incertae_sedis	-1.32880481797591			-
-Bacteria.TM7.TM7_genera_incertae_sedis	-3.68557704935581			-
-Bacteria.TM7.TM7_genera_incertae_sedis	0.241460132781026			-
-Bacteria.TM7.TM7_genera_incertae_sedis	3.0751401683502			-
-Bacteria.Verrucomicrobia	-0.0346177707965669			-
-Bacteria.Verrucomicrobia	0.232850250490097			-
-Bacteria.Verrucomicrobia	0.366350254951474			-
-Bacteria.Verrucomicrobia	1.92903163165337e-07			-
-Bacteria.Verrucomicrobia	3.30813903879121	oxygen_availability_Low_O2	3.30813903879121	8.7373095949765e-05
-Bacteria.Verrucomicrobia.Opitutae	-1.32312377321142e-06			-
-Bacteria.Verrucomicrobia.Opitutae	-6.94322980832052e-07			-
-Bacteria.Verrucomicrobia.Opitutae	0.107504354410663			-
-Bacteria.Verrucomicrobia.Opitutae	0.394237762234889			-
-Bacteria.Verrucomicrobia.Opitutae	0.519410510798794			-
-Bacteria.Verrucomicrobia.Opitutae.Puniceicoccales.Puniceicoccaceae	-1.31437465855644e-07			-
-Bacteria.Verrucomicrobia.Opitutae.Puniceicoccales.Puniceicoccaceae	-3.00343867998265e-07			-
-Bacteria.Verrucomicrobia.Opitutae.Puniceicoccales.Puniceicoccaceae	0.134438641361815			-
-Bacteria.Verrucomicrobia.Opitutae.Puniceicoccales.Puniceicoccaceae	0.465058574804833			-
-Bacteria.Verrucomicrobia.Opitutae.Puniceicoccales.Puniceicoccaceae	0.618160820960894			-
-Bacteria.Verrucomicrobia.Spartobacteria	-0.0662315191727861			-
-Bacteria.Verrucomicrobia.Spartobacteria	-1.31437485173524e-07			-
-Bacteria.Verrucomicrobia.Spartobacteria	-2.80856586631906e-06			-
-Bacteria.Verrucomicrobia.Spartobacteria	-3.0034388753819e-07			-
-Bacteria.Verrucomicrobia.Spartobacteria	1.63927099383621e-06			-
-Bacteria.Verrucomicrobia.Verrucomicrobiae.Verrucomicrobiales.Verrucomicrobiaceae	-0.0375445285072077			-
-Bacteria.Verrucomicrobia.Verrucomicrobiae.Verrucomicrobiales.Verrucomicrobiaceae	-6.23220497042443e-07			-
-Bacteria.Verrucomicrobia.Verrucomicrobiae.Verrucomicrobiales.Verrucomicrobiaceae	0.0375437796463729			-
-Bacteria.Verrucomicrobia.Verrucomicrobiae.Verrucomicrobiales.Verrucomicrobiaceae	0.387248606108426			-
-Bacteria.Verrucomicrobia.Verrucomicrobiae.Verrucomicrobiales.Verrucomicrobiaceae	3.49964513029968	oxygen_availability_Low_O2	3.49964513029968	0.000213366548093267
+Bacteria.Spirochaetes.Spirochaetes.Spirochaetales.Spirochaetaceae	6.26213960578016	body_site_oral	6.26213960578016	8.42518015957972e-05
+Bacteria.Synergistetes.Synergistia.Synergistales.Synergistaceae	-0.0671241982803751			-
+Bacteria.Synergistetes.Synergistia.Synergistales.Synergistaceae	-4.35691225764145e-07			-
+Bacteria.Synergistetes.Synergistia.Synergistales.Synergistaceae	0.269612604608702			-
+Bacteria.Synergistetes.Synergistia.Synergistales.Synergistaceae	2.01055410430793			-
+Bacteria.Synergistetes.Synergistia.Synergistales.Synergistaceae	8.1601392309949e-15			-
+Bacteria.Tenericutes.Mollicutes	-0.126975325638608			-
+Bacteria.Tenericutes.Mollicutes	-3.84567614797966	body_site_oral	-3.84567614797966	0.00661492798044248
+Bacteria.Tenericutes.Mollicutes	0.13058126882923			-
+Bacteria.Tenericutes.Mollicutes	0.171362225960445			-
+Bacteria.Tenericutes.Mollicutes	4.7185906773711	oxygen_availability_Mid_O2	4.7185906773711	0.000709091356525279
+Bacteria.Tenericutes.Mollicutes.Anaeroplasmatales.Anaeroplasmataceae	-1.31437494443887e-07			-
+Bacteria.Tenericutes.Mollicutes.Anaeroplasmatales.Anaeroplasmataceae	-2.80903753990813e-06			-
+Bacteria.Tenericutes.Mollicutes.Anaeroplasmatales.Anaeroplasmataceae	-3.0034389908451e-07			-
+Bacteria.Tenericutes.Mollicutes.Anaeroplasmatales.Anaeroplasmataceae	0.269612766242287			-
+Bacteria.Tenericutes.Mollicutes.Anaeroplasmatales.Anaeroplasmataceae	1.63974265521283e-06			-
+Bacteria.Tenericutes.Mollicutes.Mycoplasmatales.Mycoplasmataceae	-1.31437508432697e-07			-
+Bacteria.Tenericutes.Mollicutes.Mycoplasmatales.Mycoplasmataceae	-4.12499870814478	body_site_oral	-4.12499870814478	0.00337731402935486
+Bacteria.Tenericutes.Mollicutes.Mycoplasmatales.Mycoplasmataceae	0.243739867002597			-
+Bacteria.Tenericutes.Mollicutes.Mycoplasmatales.Mycoplasmataceae	0.269612766242273			-
+Bacteria.Tenericutes.Mollicutes.Mycoplasmatales.Mycoplasmataceae	5.66119184354626	oxygen_availability_Mid_O2	5.66119184354626	9.34456148706556e-05
+Bacteria.Thermotogae.Thermotogae.Thermotogales.Thermotogaceae	-1.31437494443887e-07			-
+Bacteria.Thermotogae.Thermotogae.Thermotogales.Thermotogaceae	-2.80903753990813e-06			-
+Bacteria.Thermotogae.Thermotogae.Thermotogales.Thermotogaceae	-3.0034389908451e-07			-
+Bacteria.Thermotogae.Thermotogae.Thermotogales.Thermotogaceae	0.269612766242287			-
+Bacteria.Thermotogae.Thermotogae.Thermotogales.Thermotogaceae	1.63974265521283e-06			-
+Bacteria.TM7.TM7_genera_incertae_sedis	-1.32880400624205			-
+Bacteria.TM7.TM7_genera_incertae_sedis	-3.44798183698906			-
+Bacteria.TM7.TM7_genera_incertae_sedis	0.114485430362942			-
+Bacteria.TM7.TM7_genera_incertae_sedis	3.07513906310891			-
+Bacteria.Verrucomicrobia	-0.0129599877683906			-
+Bacteria.Verrucomicrobia	-0.09045620405116			-
+Bacteria.Verrucomicrobia	0.178826554700669			-
+Bacteria.Verrucomicrobia	0.307686719376742			-
+Bacteria.Verrucomicrobia	0.957249806956356			-
+Bacteria.Verrucomicrobia.Opitutae	-0.126975396741108			-
+Bacteria.Verrucomicrobia.Opitutae	-5.11389952606578e-07			-
+Bacteria.Verrucomicrobia.Opitutae	0.107503248261258			-
+Bacteria.Verrucomicrobia.Opitutae	0.157067003139991			-
+Bacteria.Verrucomicrobia.Opitutae	0.757005723165509			-
+Bacteria.Verrucomicrobia.Opitutae.Puniceicoccales.Puniceicoccaceae	-1.31437494776954e-07			-
+Bacteria.Verrucomicrobia.Opitutae.Puniceicoccales.Puniceicoccaceae	-3.00343897752242e-07			-
+Bacteria.Verrucomicrobia.Opitutae.Puniceicoccales.Puniceicoccaceae	0.13443863987005			-
+Bacteria.Verrucomicrobia.Opitutae.Puniceicoccales.Puniceicoccaceae	0.465058576296568			-
+Bacteria.Verrucomicrobia.Opitutae.Puniceicoccales.Puniceicoccaceae	0.954005106375948			-
+Bacteria.Verrucomicrobia.Spartobacteria	-0.126974833855597			-
+Bacteria.Verrucomicrobia.Spartobacteria	-0.237173568804189			-
+Bacteria.Verrucomicrobia.Spartobacteria	0.171363693193944			-
+Bacteria.Verrucomicrobia.Spartobacteria	5.11389949053864e-07			-
+Bacteria.Verrucomicrobia.Spartobacteria	5.34265027996028e-07			-
+Bacteria.Verrucomicrobia.Verrucomicrobiae.Verrucomicrobiales.Verrucomicrobiaceae	-0.0375445282709084			-
+Bacteria.Verrucomicrobia.Verrucomicrobiae.Verrucomicrobiales.Verrucomicrobiaceae	-6.23220521744905e-07			-
+Bacteria.Verrucomicrobia.Verrucomicrobiae.Verrucomicrobiales.Verrucomicrobiaceae	0.0375437794100462			-
+Bacteria.Verrucomicrobia.Verrucomicrobiae.Verrucomicrobiales.Verrucomicrobiaceae	0.387248606108399			-
+Bacteria.Verrucomicrobia.Verrucomicrobiae.Verrucomicrobiales.Verrucomicrobiaceae	3.83548941571474	oxygen_availability_Low_O2	3.83548941571474	0.00101251164448553

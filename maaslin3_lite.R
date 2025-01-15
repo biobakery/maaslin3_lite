@@ -29,6 +29,91 @@ if (is.null(opt$input)) {
   stop("Input file must be provided", call. = FALSE)
 }
 
+find_indices <- function(vec) {
+    result <- list()
+    
+    start_idx <- 1
+    
+    for (i in 2:length(vec)) {
+        # Check if the current value is different from the previous one
+        if (vec[i] != vec[i - 1]) {
+            result[[as.character(vec[start_idx])]] <- c(start_idx, i)
+            start_idx <- i
+        }
+    }
+    
+    result[[as.character(vec[start_idx])]] <- c(start_idx, length(vec) + 1)
+    
+    result <- lapply(result, FUN = function(x){x - 1})
+    
+    return(result)
+}
+
+# Function to create the named list
+make_hierarchy <- function(v1, v2) {
+    result <- list()
+    
+    current_name <- v1[1]
+    current_values <- v2[1]
+    names_vec <- c()
+    
+    for (i in 2:length(v1)) {
+        # If the value in v1 changes, save the current list entry and start a new one
+        if (v1[i] != current_name) {
+            result[[current_name]] <- current_values
+            names_vec <- c(names_vec, as.character(current_name))
+            current_name <- v1[i]
+            current_values <- v2[i]
+        } else {
+            # Otherwise, append the value to the current vector
+            current_values <- c(current_values, v2[i])
+        }
+    }
+    
+    result[[current_name]] <- current_values
+    names_vec <- c(names_vec, as.character(current_name))
+    
+    names(result) <- names_vec
+    return(result)
+}
+
+list_to_json <- function(x) {
+    json_str <- "{"
+    names_x <- names(x)
+    
+    for (i in 1:length(x)) {
+        name <- names_x[i]
+        value <- x[[i]]
+        json_str <- paste0(json_str, '"', name, '": ')
+        
+        if (is.list(value)) {
+            # Recursively call list_to_json if it's a list
+            json_str <- paste0(json_str, list_to_json(value))
+        } else {
+            if (name != 'norm') {
+                # Otherwise, directly add the value
+                if (!is.numeric(value)) {
+                    value <- paste0('"', value, '"')
+                    json_str <- paste0(json_str, '[', paste(value, collapse = ', '), ']')
+                } else {
+                    json_str <- paste0(json_str, '[', paste(format(value, scientific = FALSE), collapse = ', '), ']')
+                }
+            } else {
+                json_str <- paste0(json_str, value)
+            }
+        }
+        
+        # Add a comma separator for the next item, unless it's the last one
+        if (i < length(x)) {
+            json_str <- paste0(json_str, ", ")
+        }
+    }
+    
+    json_str <- paste0(json_str, "}")
+    
+    return(json_str)
+}
+
 run_maaslin_analysis <- function(input_file, normalize, class, subclass, random_component, alpha_threshold) {
   # Read input data
   taxa_table <- read.csv(input_file, sep = '\t', header = F)
@@ -50,38 +135,118 @@ run_maaslin_analysis <- function(input_file, normalize, class, subclass, random_
   colnames(taxa_table) <- paste0("Sample", 1:nrow(metadata))
   taxa_table <- data.frame(taxa_table)
   
+  if (!is.null(subclass)) {
+      taxa_table <- taxa_table[,order(metadata[[class]], metadata[[subclass]])]
+      metadata <- metadata[order(metadata[[class]], metadata[[subclass]]),]
+  } else {
+      taxa_table <- taxa_table[,order(metadata[[class]])]
+      metadata <- metadata[order(metadata[[class]]),]
+  }
+  
   # Set normalization method based on user input
   normalization_method <- ifelse(normalize, 'TSS', 'NONE')
   
   # Create formula dynamically based on user input
   if (is.null(subclass)) {
-    formula_str <- paste0("~ ", class, " + (1 | ", random_component, ")")
+    formula_str <- paste0("~ ", class)
   } else {
-    formula_str <- paste0("~ ", class, " + ", subclass, " + (1 | ", random_component, ")")
+    formula_str <- paste0("~ ", class, " + ", subclass)
   }
   
+  if (!is.null(random_component)) {
+      formula_str <- paste0(formula_str, " + (1 | ", random_component, ")")
+  }
   
-  # Run Maaslin3 analysis
-  fit_out <- maaslin3(input_data = taxa_table, 
-                      input_metadata = metadata, 
-                      min_abundance = 0, 
-                      min_prevalence = 0, 
-                      output = 'output/', 
-                      min_variance = 0, 
-                      normalization = normalization_method, 
-                      transform = 'LOG',
-                      formula = formula_str, 
-                      plot_associations = FALSE, 
-                      save_models = FALSE, 
-                      plot_summary_plot = F,
-                      max_significance = alpha_threshold, 
-                      subtract_median = TRUE,
-                      augment = TRUE, 
-                      cores = 1)
+  # Determine delimiter for taxonomic naming
+  bar_count <- sapply(strsplit(rownames(taxa_table), "\\|"), length) - 1
+  period_count <- sapply(strsplit(rownames(taxa_table), "\\."), length) - 1
+  delimiter <- ifelse(mean(bar_count) > 1 | mean(period_count) > 1, 
+                      ifelse(mean(bar_count) > mean(period_count), '|', '.'),
+                      NA)
+  if (!is.na(delimiter)) {
+      tax_levels <- max(sapply(strsplit(rownames(taxa_table), delimiter, fixed = T), length))
+      
+      fit_out_growing <- list()
+      fit_out_growing$fit_data_abundance$results <- data.frame()
+      fit_out_growing$fit_data_prevalence$results <- data.frame()
+      for (tax_level in 1:tax_levels) {
+          taxa_table_tmp <- taxa_table[sapply(strsplit(rownames(taxa_table), delimiter, fixed = T), length) == tax_level,, drop=F]
+          
+          fit_out <- maaslin3(input_data = taxa_table_tmp, 
+                              input_metadata = metadata, 
+                              min_abundance = 0, 
+                              min_prevalence = 0, 
+                              output = 'output/', 
+                              min_variance = -1, 
+                              normalization = normalization_method, 
+                              transform = 'LOG',
+                              formula = formula_str, 
+                              plot_associations = FALSE, 
+                              save_models = FALSE, 
+                              plot_summary_plot = F,
+                              max_significance = alpha_threshold, 
+                              subtract_median = TRUE,
+                              augment = TRUE,
+                              warn_prevalence = F,
+                              cores = 1)
+          
+          fit_out_growing$fit_data_abundance$results <- rbind(fit_out_growing$fit_data_abundance$results,
+                                                              fit_out$fit_data_abundance$results)
+          fit_out_growing$fit_data_prevalence$results <- rbind(fit_out_growing$fit_data_prevalence$results,
+                                                              fit_out$fit_data_prevalence$results)
+      }
+      fit_out <- fit_out_growing
+  } else {
+      tax_levels <- 1
+      
+      fit_out <- maaslin3(input_data = taxa_table, 
+                          input_metadata = metadata, 
+                          min_abundance = 0, 
+                          min_prevalence = 0, 
+                          output = 'output/', 
+                          min_variance = -1, 
+                          normalization = normalization_method, 
+                          transform = 'LOG',
+                          formula = formula_str, 
+                          plot_associations = FALSE, 
+                          save_models = FALSE, 
+                          plot_summary_plot = F,
+                          max_significance = alpha_threshold, 
+                          subtract_median = TRUE,
+                          augment = TRUE, 
+                          warn_prevalence = F,
+                          cores = 1)
+  }
   
   # Save results in LEfSe format
   maaslin_write_results_lefse_format('output', fit_out$fit_data_abundance, fit_out$fit_data_prevalence)
-
+  
+  # Write second file for plotting
+  feats <- apply(taxa_table, 1, function(row) unname(unlist(row)), simplify = F)
+  names(feats) <- gsub("\\|", ".", rownames(taxa_table))
+  cls_list <- list()
+  if (!is.null(random_component)) {
+      cls_list$subject <- as.character(metadata[[random_component]])
+  }
+  cls_list$class = as.character(metadata[[class]])
+  if (!is.null(subclass)) {
+      cls_list$subclass <- as.character(metadata[[subclass]])
+  }
+  class_sl = find_indices(metadata[[class]])
+  
+  output <- list(feats = feats,
+       norm = ifelse(normalize, 1, max(colSums(taxa_table)) / tax_levels),
+       cls = cls_list,
+       class_sl = class_sl)
+  
+  if (!is.null(subclass)) {
+      output$subclass_sl <- find_indices(metadata[[subclass]])
+      output$class_hierarchy = make_hierarchy(metadata[[class]], metadata[[subclass]])
+  }
+  
+  json_out <- list_to_json(output)
+  writeLines(json_out, 'output/format_data.lefse_internal_for')
+  
   return(fit_out)
 }
 
