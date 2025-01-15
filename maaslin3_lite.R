@@ -125,8 +125,10 @@ run_maaslin_analysis <- function(input_file, normalize, class, subclass, random_
   rownames(metadata) <- paste0("Sample", 1:nrow(metadata))
   metadata <- data.frame(metadata)
   metadata[[class]] <- factor(metadata[[class]])
-  metadata[[subclass]] <- factor(metadata[[subclass]])
-  
+  if (!is.null(subclass)) {
+      metadata[[subclass]] <- factor(metadata[[subclass]])
+  }
+
   # Process taxa table
   taxa_table <- taxa_table[-c(1:3),]
   rownames_taxa_table <- taxa_table[,1]
