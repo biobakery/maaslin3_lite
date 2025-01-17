@@ -21,6 +21,7 @@
        cp output/significant_results.tsv ${output4}  &&
        zip -r  Maaslin3_Results.zip  output && 
        cp  Maaslin3_Results.zip  ${output5}  &&
+       cp output/format_data.lefse_internal_for ${output6}  &&
        rm -r output 
             ]]></command>
   <inputs>
@@ -83,7 +84,8 @@
     <data name="output2"  format="maaslin3_lite_output_prevalence" label="lefse_style_results_prevalence" />
     <data name="output3"  format="png" label="Summary Plot" />
     <data name="output4"  format="tsv" label="Significant results" />
-    <data name="output5"  format="zip" label="MaAsLin Output zip results - please download" />
+    <data name="output5"  format="zip" label="MaAsLin3 Lite Output zip results - please download" />
+    <data name="output6"  format="maaslin3_lite_internal_for" label="Maaslin3 Lite Input for plots" />
   </outputs>
 
   <tests>

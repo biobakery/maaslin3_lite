@@ -4,4 +4,5 @@
    <tool file="galaxy_maaslin3_lite/maaslin3_lite_C.xml" />
    <tool file="galaxy_maaslin3_lite/maaslin3_lite_D.xml" />
    <tool file="galaxy_maaslin3_lite/maaslin3_lite_E.xml" />
+   <tool file="galaxy_maaslin3_lite/maaslin3_lite_F.xml" />
   </section>

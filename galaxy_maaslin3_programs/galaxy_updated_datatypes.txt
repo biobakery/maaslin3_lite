@@ -3,4 +3,5 @@
     <datatype extension="maaslin3_lite_output" type="galaxy.datatypes.data:Text" subclass="true" display_in_upload="true" />
     <datatype extension="maaslin3_lite_output_abundance" type="galaxy.datatypes.data:Text" subclass="true" display_in_upload="true" />
     <datatype extension="maaslin3_lite_output_prevalence" type="galaxy.datatypes.data:Text" subclass="true" display_in_upload="true" />
+    <datatype extension="maaslin3_lite_internal_for" type="galaxy.datatypes.data:Text"  subclass="true" display_in_upload="true"/>
    
