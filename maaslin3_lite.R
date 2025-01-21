@@ -17,7 +17,9 @@ option_list <- list(
   make_option(c("-r", "--random_component"), type = "character", default = "subject_id",
               help = "Random component for the formula (e.g., subject_id)", metavar = "character"),
   make_option(c("-a", "--alpha_threshold"), type = "character", default = 0.1,
-              help = "Maximum FDR corrected significance level", metavar = "numeric")
+              help = "Maximum FDR corrected significance level", metavar = "numeric"),
+  make_option(c("-o", "--output"), type = "character", default = 'output',
+              help = "Output directory", metavar = "character")
 )
 
 # Parse the command line options
@@ -178,7 +180,7 @@ run_maaslin_analysis <- function(input_file, normalize, class, subclass, random_
                               input_metadata = metadata, 
                               min_abundance = 0, 
                               min_prevalence = 0, 
-                              output = 'output/', 
+                              output = opt$o, 
                               min_variance = -1, 
                               normalization = normalization_method, 
                               transform = 'LOG',
@@ -205,7 +207,7 @@ run_maaslin_analysis <- function(input_file, normalize, class, subclass, random_
                           input_metadata = metadata, 
                           min_abundance = 0, 
                           min_prevalence = 0, 
-                          output = 'output/', 
+                          output = opt$o, 
                           min_variance = -1, 
                           normalization = normalization_method, 
                           transform = 'LOG',
@@ -221,7 +223,7 @@ run_maaslin_analysis <- function(input_file, normalize, class, subclass, random_
   }
   
   # Save results in LEfSe format
-  maaslin_write_results_lefse_format('output', fit_out$fit_data_abundance, fit_out$fit_data_prevalence)
+  maaslin_write_results_lefse_format(opt$o, fit_out$fit_data_abundance, fit_out$fit_data_prevalence)
   
   # Write second file for plotting
   feats <- apply(taxa_table, 1, function(row) unname(unlist(row)), simplify = F)
@@ -247,7 +249,7 @@ run_maaslin_analysis <- function(input_file, normalize, class, subclass, random_
   }
   
   json_out <- list_to_json(output)
-  writeLines(json_out, 'output/format_data.lefse_internal_for')
+  writeLines(json_out, file.path(opt$o, 'format_data.lefse_internal_for'))
   
   return(fit_out)
 }
@@ -378,7 +380,7 @@ run_maaslin_plotting <- function(fit_out, class, alpha_threshold, first_n = 20) 
         2 + max(nchar(merged_results$feature)) / 15
     
     ggplot2::ggsave(
-        filename = 'output/summary_plot.png',
+        filename = file.path(opt$o, 'summary_plot.png'),
         plot = p1, 
         dpi = 600,
         width = width_out,
