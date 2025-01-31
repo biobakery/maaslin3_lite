@@ -1,12 +1,12 @@
 <tool id="maaslin3_lite_A" name="MaAsLin3-Lite" version="1.0">
         <description></description>
     <command detect_errors="exit_code"><![CDATA[
-      rm -rf /tmp/tmp.maaslin3_lite_output &&
+      rm -rf /tmp/tmp.maaslin3_lite_{$__user_id__}_output &&
       Rscript /galaxy-central/tools/maaslin3_lite/maaslin3_lite.R
       --input $inp_data
       --normalize FALSE
       --class $input_class
-      -o /tmp/tmp.maaslin3_lite_output
+      -o /tmp/tmp.maaslin3_lite_{$__user_id__}_output
 
         #if $str($gchoice_sub_class.global_sub_class)  == "1":
             --subclass $gchoice_sub_class.input_subclass
@@ -17,14 +17,14 @@
         #end if
         
         --alpha_threshold $alpha_threshold &&
-       cp /tmp/tmp.maaslin3_lite_output/lefse_style_results_abundance.res ${output1} &&
-       cp /tmp/tmp.maaslin3_lite_output/lefse_style_results_prevalence.res ${output2} && 
-       cp /tmp/tmp.maaslin3_lite_output/summary_plot.png ${output3}  &&
-       cp /tmp/tmp.maaslin3_lite_output/significant_results.tsv ${output4}  &&
-       zip -r  Maaslin3_Results.zip  /tmp/tmp.maaslin3_lite_output && 
+       cp /tmp/tmp.maaslin3_lite_{$__user_id__}_output/lefse_style_results_abundance.res ${output1} &&
+       cp /tmp/tmp.maaslin3_lite_{$__user_id__}_output/lefse_style_results_prevalence.res ${output2} && 
+       cp /tmp/tmp.maaslin3_lite_{$__user_id__}_output/summary_plot.png ${output3}  &&
+       cp /tmp/tmp.maaslin3_lite_{$__user_id__}_output/significant_results.tsv ${output4}  &&
+       zip -r  Maaslin3_Results.zip  /tmp/tmp.maaslin3_lite_{$__user_id__}_output && 
        cp  Maaslin3_Results.zip  ${output5}  &&
-       cp /tmp/tmp.maaslin3_lite_output/format_data.lefse_internal_for ${output6}  &&
-       rm -r /tmp/tmp.maaslin3_lite_output &&
+       cp /tmp/tmp.maaslin3_lite_{$__user_id__}_output/format_data.lefse_internal_for ${output6}  &&
+       rm -r /tmp/tmp.maaslin3_lite_{$__user_id__}_output &&
        rm Maaslin3_Results.zip
             ]]></command>
   <inputs>
