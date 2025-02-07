@@ -119,20 +119,40 @@ list_to_json <- function(x) {
 run_maaslin_analysis <- function(input_file, normalize, class, subclass, random_component, alpha_threshold) {
   # Read input data
   taxa_table <- read.csv(input_file, sep = '\t', header = F)
-  
+
   # Metadata setup
-  metadata <- t(taxa_table[1:3,])
-  colnames(metadata) <- metadata[1,]
-  metadata <- metadata[-1,]
+  if (is.null(class)) {stop("class must be specified")}
+
+  class_vec <- taxa_table[taxa_table[,1] == class,]
+  metadata <- data.frame(class = class_vec)
+  colnames(metadata) <- class
+  
+  if (is.null(subclass)) {
+    subclass_vec <- NULL
+  } else {
+    subclass_vec <- taxa_table[taxa_table[,1] == subclass,]
+    metadata_tmp <- data.frame(subclass = subclass_vec)
+    colnames(metadata_tmp) <- subclass
+    metadata <- cbind(metadata, metadata_tmp)
+  }
+
+  if (is.null(random_component)) {
+    random_component_vec <- NULL
+  } else {
+    random_component_vec <- taxa_table[taxa_table[,1] == random_component,]
+    metadata_tmp <- data.frame(random_component = random_component_vec)
+    colnames(metadata_tmp) <- random_component
+    metadata <- cbind(metadata, metadata_tmp)
+  }
+
   rownames(metadata) <- paste0("Sample", 1:nrow(metadata))
-  metadata <- data.frame(metadata)
   metadata[[class]] <- factor(metadata[[class]])
   if (!is.null(subclass)) {
       metadata[[subclass]] <- factor(metadata[[subclass]])
   }
 
   # Process taxa table
-  taxa_table <- taxa_table[-c(1:3),]
+  taxa_table <- taxa_table[-which(taxa_table[,1] %in% c(class, subclass, random_component)),]
   rownames_taxa_table <- taxa_table[,1]
   taxa_table <- apply(taxa_table[,-1], 2, function(x){x <- as.numeric(x); x <- ifelse(x == min(x), 0, x)})
   rownames(taxa_table) <- rownames_taxa_table
