@@ -11,8 +11,11 @@
 
 	<conditional name="featd" type="data_column" data_ref="inp_res" accept_default="true">  
         <param name="feat_dir" type="select" data_ref="inp_res" label="Select the feature names among biomarkers or all features" help="">
-          <option value="b" selected='True'>Biomarkers only</option>       
-          <option value="a">All features</option>    
+          <option value="a" selected='True'>All features</option>       
+          <option value="b">Biomarkers only</option>  
+
+
+
         </param>
         
         <when value="b">
@@ -149,3 +152,4 @@ Another example, taken from the analysis we detailed in `(Segata et. al 2011)`_ 
 
   </help>
 </tool>
+
