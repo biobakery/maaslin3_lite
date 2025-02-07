@@ -123,14 +123,14 @@ run_maaslin_analysis <- function(input_file, normalize, class, subclass, random_
   # Metadata setup
   if (is.null(class)) {stop("class must be specified")}
 
-  class_vec <- taxa_table[taxa_table[,1] == class,]
+  class_vec <- c(unlist(taxa_table[taxa_table[,1] == class,-1]))
   metadata <- data.frame(class = class_vec)
   colnames(metadata) <- class
   
   if (is.null(subclass)) {
     subclass_vec <- NULL
   } else {
-    subclass_vec <- taxa_table[taxa_table[,1] == subclass,]
+    subclass_vec <- c(unlist(taxa_table[taxa_table[,1] == subclass,-1]))
     metadata_tmp <- data.frame(subclass = subclass_vec)
     colnames(metadata_tmp) <- subclass
     metadata <- cbind(metadata, metadata_tmp)
@@ -139,20 +139,24 @@ run_maaslin_analysis <- function(input_file, normalize, class, subclass, random_
   if (is.null(random_component)) {
     random_component_vec <- NULL
   } else {
-    random_component_vec <- taxa_table[taxa_table[,1] == random_component,]
+    random_component_vec <- c(unlist(taxa_table[taxa_table[,1] == random_component,-1]))
     metadata_tmp <- data.frame(random_component = random_component_vec)
     colnames(metadata_tmp) <- random_component
     metadata <- cbind(metadata, metadata_tmp)
   }
-
+  
   rownames(metadata) <- paste0("Sample", 1:nrow(metadata))
   metadata[[class]] <- factor(metadata[[class]])
   if (!is.null(subclass)) {
       metadata[[subclass]] <- factor(metadata[[subclass]])
   }
-
+  
   # Process taxa table
-  taxa_table <- taxa_table[-which(taxa_table[,1] %in% c(class, subclass, random_component)),]
+  taxa_table <- taxa_table[-which(taxa_table[,1] %in% c(class, subclass, random_component)),, drop=F]
+  drop_indices <- which(rowSums(is.na(apply(taxa_table[,-1], 2, as.numeric))) > 0)
+  if (length(drop_indices) > 0) {
+      taxa_table <- taxa_table[-drop_indices,, drop=F]
+  }
   rownames_taxa_table <- taxa_table[,1]
   taxa_table <- apply(taxa_table[,-1], 2, function(x){x <- as.numeric(x); x <- ifelse(x == min(x), 0, x)})
   rownames(taxa_table) <- rownames_taxa_table
