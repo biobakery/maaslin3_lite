@@ -43,7 +43,7 @@ def read_data(input_file,output_file,otu_only):
         else:
             rows = [line.strip().split()[:-1] for line in inp.readlines() if len(line.strip().split())>3 and len(line.strip().split()[0].split('.'))==8] # a feature with length 8 will have an OTU id associated with it
     classes = list(set([v[2] for v in rows if len(v)>2]))
-    if len(classes) < 1: 
+    if len(classes) < 1:
         print("No differentially abundant features found in "+input_file)
         os.system("touch "+output_file)
         sys.exit()
@@ -58,7 +58,7 @@ def plot_histo_hor(path,params,data,bcl,report_features):
         cls2 = sorted(params['all_feats'].split(":"))
     cls = sorted(data['cls'])
     if bcl: data['rows'].sort(key=lambda ab: fabs(float(ab[3]))*(cls.index(ab[2])*2-1))
-    else: 
+    else:
         mmax = max([fabs(float(a)) for a in list(zip(*list(data['rows'])))[3]])
         data['rows'].sort(key=lambda ab: fabs(float(ab[3]))/mmax+(cls.index(ab[2])+1))
     pos = arange(len(data['rows']))
@@ -71,7 +71,7 @@ def plot_histo_hor(path,params,data,bcl,report_features):
     ls, rs = params['ls'], 1.0-params['rs']
     plt.subplots_adjust(left=ls,right=rs,top=1-head*(1.0-ints/(ints+ht)), bottom=tail*(1.0-ints/(ints+ht)))
 
-    fig.canvas.manager.set_window_title('LDA results')
+    fig.canvas.manager.set_window_title('Effect size (Beta coefficient)')
 
     l_align = {'horizontalalignment':'left', 'verticalalignment':'baseline'}
     r_align = {'horizontalalignment':'right', 'verticalalignment':'baseline'}
@@ -86,13 +86,13 @@ def plot_histo_hor(path,params,data,bcl,report_features):
             out_data[otu] = [score, otu_class]
         indcl = cls.index(v[2])
         lab = str(v[2]) if str(v[2]) not in added else ""
-        added.append(str(v[2])) 
-        col = colors[indcl%len(colors)] 
-        if len(cls2) > 0: 
+        added.append(str(v[2]))
+        col = colors[indcl%len(colors)]
+        if len(cls2) > 0:
             col = colors[cls2.index(v[2])%len(colors)]
         vv = fabs(float(v[3])) * (m*(indcl*2-1)) if bcl else fabs(float(v[3]))
         ax.barh(pos[i],vv, align='center', color=col, label=lab, height=0.8, edgecolor=params['fore_color'])
-    mv = max([abs(float(v[3])) for v in data['rows']])  
+    mv = max([abs(float(v[3])) for v in data['rows']])
     if report_features:
         print('OTU\tLDA_score\tCLass')
         for i in out_data:
@@ -107,10 +107,10 @@ def plot_histo_hor(path,params,data,bcl,report_features):
     ax.set_title(params['title'],size=params['title_font_size'],y=1.0+head*(1.0-ints/(ints+ht))*0.8,color=params['fore_color'])
 
     ax.set_yticks([])
-    ax.set_xlabel("LDA SCORE (log 10)")
+    ax.set_xlabel("Effect size (Beta coefficient)")
     ax.xaxis.grid(True)
     xlim = ax.get_xlim()
-    if params['autoscale']: 
+    if params['autoscale']:
         ran = arange(0.0001,round(round((abs(xlim[0])+abs(xlim[1]))/10,4)*100,0)/100)
         if len(ran) > 1 and len(ran) < 100:
             ax.set_xticks(arange(xlim[0],xlim[1]+0.0001,min(xlim[1]+0.0001,round(round((abs(xlim[0])+abs(xlim[1]))/10,4)*100,0)/100)))
@@ -124,7 +124,7 @@ def plot_histo_hor(path,params,data,bcl,report_features):
     for o in ax.findobj(get_col_attr):
                 o.set_color(params['fore_color'])
 
-    
+
     plt.savefig(path,format=params['format'],facecolor=params['back_color'],edgecolor=params['fore_color'],dpi=params['dpi'])
     plt.close()
 
@@ -132,15 +132,15 @@ def plot_histo_ver(path,params,data,report_features):
     cls = data['cls']
     mmax = max([fabs(float(a)) for a in zip(*data['rows'])[1]])
     data['rows'].sort(key=lambda ab: fabs(float(ab[3]))/mmax+(cls.index(ab[2])+1))
-    pos = arange(len(data['rows'])) 
+    pos = arange(len(data['rows']))
     if params['n_scl'] < 0: nam = [d[0] for d in data['rows']]
     else: nam = [d[0].split(".")[-min(d[0].count("."),params['n_scl'])] for d in data['rows']]
-    fig = plt.figure(edgecolor=params['back_color'],facecolor=params['back_color'],figsize=(params['width'], params['height'])) 
+    fig = plt.figure(edgecolor=params['back_color'],facecolor=params['back_color'],figsize=(params['width'], params['height']))
     ax = fig.add_subplot(111,facecolor=params['back_color'])
-    plt.subplots_adjust(top=0.9, left=params['ls'], right=params['rs'], bottom=0.3) 
-    fig.canvas.manager.set_window_title('LDA results')   
+    plt.subplots_adjust(top=0.9, left=params['ls'], right=params['rs'], bottom=0.3)
+    fig.canvas.manager.set_window_title('Effect size (Beta coefficient) results')
     l_align = {'horizontalalignment':'left', 'verticalalignment':'baseline'}
-    r_align = {'horizontalalignment':'right', 'verticalalignment':'baseline'} 
+    r_align = {'horizontalalignment':'right', 'verticalalignment':'baseline'}
     added = []
     out_data = defaultdict(list) # keep track of which OTUs result in the plot
     for i,v in enumerate(data['rows']):
@@ -151,23 +151,23 @@ def plot_histo_ver(path,params,data,report_features):
             out_data[otu] = [score, otu_class]
         indcl = data['cls'].index(v[2])
         lab = str(v[2]) if str(v[2]) not in added else ""
-        added.append(str(v[2])) 
+        added.append(str(v[2]))
         col = colors[indcl%len(colors)]
-        vv = fabs(float(v[3])) 
+        vv = fabs(float(v[3]))
         ax.bar(pos[i],vv, align='center', color=col, label=lab)
     if report_features:
-        print('OTU\tLDA_score\tCLass')
+        print('OTU\tEffect_size\tCLass')
         for i in out_data:
             print('%s\t%s\t%s' %(i, out_data[i][0], out_data[i][1]))
-    xticks(pos,nam,rotation=-20, ha = 'left',size=params['feature_font_size'])  
+    xticks(pos,nam,rotation=-20, ha = 'left',size=params['feature_font_size'])
     ax.set_title(params['title'],size=params['title_font_size'])
-    ax.set_ylabel("LDA SCORE (log 10)")
-    ax.yaxis.grid(True) 
+    ax.set_ylabel("Effect size (Beta coefficient)")
+    ax.yaxis.grid(True)
     a,b = ax.get_xlim()
     dx = float(len(pos))/float((b-a))
-    ax.set_xlim((0-dx,max(pos)+dx)) 
+    ax.set_xlim((0-dx,max(pos)+dx))
     plt.savefig(path,format=params['format'],facecolor=params['back_color'],edgecolor=params['fore_color'],dpi=params['dpi'])
-    plt.close() 
+    plt.close()
 
 def plot_res():
     params = read_params(sys.argv)
