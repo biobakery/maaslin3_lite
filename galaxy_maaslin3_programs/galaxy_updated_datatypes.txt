@@ -1,7 +1,9 @@
-  
-    <datatype extension="maaslin3_lite_input" type="galaxy.datatypes.data:Text" subclass="true" display_in_upload="true" />
+   <datatype extension="maaslin3_lite_input" type="galaxy.datatypes.data:Text" subclass="true" display_in_upload="true" />
     <datatype extension="maaslin3_lite_output" type="galaxy.datatypes.data:Text" subclass="true" display_in_upload="true" />
     <datatype extension="maaslin3_lite_output_abundance" type="galaxy.datatypes.data:Text" subclass="true" display_in_upload="true" />
     <datatype extension="maaslin3_lite_output_prevalence" type="galaxy.datatypes.data:Text" subclass="true" display_in_upload="true" />
-    <datatype extension="maaslin3_lite_internal_for" type="galaxy.datatypes.data:Text"  subclass="true" display_in_upload="true"/>
-   
+    <datatype extension="maaslin3_lite_internal_for" type="galaxy.datatypes.data:Text" subclass="true" display_in_upload="true" />
+    <datatype extension="maaslin3_taxonomy_input" type="galaxy.datatypes.tabular:TSV" subclass="true" display_in_upload="true" />
+    <datatype extension="maaslin3_metadata_input" type="galaxy.datatypes.tabular:TSV" subclass="true" display_in_upload="true" />
+    <datatype extension="maaslin3_unscaled_abundance" type="galaxy.datatypes.tabular:TSV" subclass="true" display_in_upload="true" />
+    <datatype extension="maaslin3_feature_specific_covariate" type="galaxy.datatypes.tabular:TSV" subclass="true" display_in_upload="true" />
