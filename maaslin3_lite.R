@@ -200,7 +200,6 @@ run_maaslin_analysis <- function(input_file, normalize, class, subclass, random_
       for (tax_level in 1:tax_levels) {
           taxa_table_tmp <- taxa_table[sapply(strsplit(rownames(taxa_table), delimiter, fixed = T), length) == tax_level,, drop=F]
           
-          print(head(metadata))
           fit_out <- maaslin3(input_data = taxa_table_tmp, 
                               input_metadata = metadata, 
                               min_abundance = 0, 
