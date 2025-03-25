@@ -71,7 +71,7 @@ def plot_histo_hor(path,params,data,bcl,report_features):
     ls, rs = params['ls'], 1.0-params['rs']
     plt.subplots_adjust(left=ls,right=rs,top=1-head*(1.0-ints/(ints+ht)), bottom=tail*(1.0-ints/(ints+ht)))
 
-    fig.canvas.manager.set_window_title('LDA results')
+    fig.canvas.manager.set_window_title('Effect size (Beta coefficient)')
 
     l_align = {'horizontalalignment':'left', 'verticalalignment':'baseline'}
     r_align = {'horizontalalignment':'right', 'verticalalignment':'baseline'}
@@ -107,7 +107,7 @@ def plot_histo_hor(path,params,data,bcl,report_features):
     ax.set_title(params['title'],size=params['title_font_size'],y=1.0+head*(1.0-ints/(ints+ht))*0.8,color=params['fore_color'])
 
     ax.set_yticks([])
-    ax.set_xlabel("LDA SCORE (log 10)")
+    ax.set_xlabel("Effect size (Beta coefficient)")
     ax.xaxis.grid(True)
     xlim = ax.get_xlim()
     if params['autoscale']: 
@@ -138,7 +138,7 @@ def plot_histo_ver(path,params,data,report_features):
     fig = plt.figure(edgecolor=params['back_color'],facecolor=params['back_color'],figsize=(params['width'], params['height'])) 
     ax = fig.add_subplot(111,facecolor=params['back_color'])
     plt.subplots_adjust(top=0.9, left=params['ls'], right=params['rs'], bottom=0.3) 
-    fig.canvas.manager.set_window_title('LDA results')   
+    fig.canvas.manager.set_window_title('Effect size (Beta coefficient) results')   
     l_align = {'horizontalalignment':'left', 'verticalalignment':'baseline'}
     r_align = {'horizontalalignment':'right', 'verticalalignment':'baseline'} 
     added = []
@@ -156,12 +156,12 @@ def plot_histo_ver(path,params,data,report_features):
         vv = fabs(float(v[3])) 
         ax.bar(pos[i],vv, align='center', color=col, label=lab)
     if report_features:
-        print('OTU\tLDA_score\tCLass')
+        print('OTU\tEffect_size\tCLass')
         for i in out_data:
             print('%s\t%s\t%s' %(i, out_data[i][0], out_data[i][1]))
     xticks(pos,nam,rotation=-20, ha = 'left',size=params['feature_font_size'])  
     ax.set_title(params['title'],size=params['title_font_size'])
-    ax.set_ylabel("LDA SCORE (log 10)")
+    ax.set_ylabel("Effect size (Beta coefficient)")
     ax.yaxis.grid(True) 
     a,b = ax.get_xlim()
     dx = float(len(pos))/float((b-a))
