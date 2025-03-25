@@ -14,7 +14,7 @@ option_list <- list(
               help = "Class for the fixed effect in the formula", metavar = "character"),
   make_option(c("-s", "--subclass"), type = "character",
               help = "Subclass for the fixed effect in the formula", metavar = "character"),
-  make_option(c("-r", "--random_component"), type = "character", default = "subject_id",
+  make_option(c("-r", "--random_component"), type = "character", default = NULL,
               help = "Random component for the formula (e.g., subject_id)", metavar = "character"),
   make_option(c("-a", "--alpha_threshold"), type = "character", default = 0.1,
               help = "Maximum FDR corrected significance level", metavar = "numeric"),
@@ -140,7 +140,7 @@ run_maaslin_analysis <- function(input_file, normalize, class, subclass, random_
     random_component_vec <- NULL
   } else {
     random_component_vec <- c(unlist(taxa_table[taxa_table[,1] == random_component,-1]))
-    metadata_tmp <- data.frame(random_component = random_component_vec)
+    metadata_tmp <- data.frame(random_component = paste0("random_component_", random_component_vec))
     colnames(metadata_tmp) <- random_component
     metadata <- cbind(metadata, metadata_tmp)
   }
@@ -164,11 +164,11 @@ run_maaslin_analysis <- function(input_file, normalize, class, subclass, random_
   taxa_table <- data.frame(taxa_table)
   
   if (!is.null(subclass)) {
-      taxa_table <- taxa_table[,order(metadata[[class]], metadata[[subclass]])]
-      metadata <- metadata[order(metadata[[class]], metadata[[subclass]]),]
+      taxa_table <- taxa_table[,order(metadata[[class]], metadata[[subclass]]), drop=F]
+      metadata <- metadata[order(metadata[[class]], metadata[[subclass]]),, drop=F]
   } else {
-      taxa_table <- taxa_table[,order(metadata[[class]])]
-      metadata <- metadata[order(metadata[[class]]),]
+      taxa_table <- taxa_table[,order(metadata[[class]]), drop=F]
+      metadata <- metadata[order(metadata[[class]]),, drop=F]
   }
   
   # Set normalization method based on user input
@@ -200,6 +200,7 @@ run_maaslin_analysis <- function(input_file, normalize, class, subclass, random_
       for (tax_level in 1:tax_levels) {
           taxa_table_tmp <- taxa_table[sapply(strsplit(rownames(taxa_table), delimiter, fixed = T), length) == tax_level,, drop=F]
           
+          print(head(metadata))
           fit_out <- maaslin3(input_data = taxa_table_tmp, 
                               input_metadata = metadata, 
                               min_abundance = 0, 
@@ -254,7 +255,7 @@ run_maaslin_analysis <- function(input_file, normalize, class, subclass, random_
   names(feats) <- gsub("\\|", ".", rownames(taxa_table))
   cls_list <- list()
   if (!is.null(random_component)) {
-      cls_list$subject <- as.character(metadata[[random_component]])
+      cls_list$subject <- sub("^random_component_", "", as.character(metadata[[random_component]]))
   }
   cls_list$class = as.character(metadata[[class]])
   if (!is.null(subclass)) {
