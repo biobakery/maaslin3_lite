@@ -5,9 +5,9 @@
 Rscript maaslin3_lite.R    \
  --input hmp_aerobiosis_small.txt   \
  --normalize FALSE    \
- --class oxygen_availability   \
- --subclass body_site  \   
- --random_component subject_id    \ 
+ --class oxygen_availability    \
+ --subclass body_site    \
+ --random_component subject_id    \
  --alpha_threshold 0.1
 ```
 
